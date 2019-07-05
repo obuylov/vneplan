@@ -1,0 +1,136 @@
+{
+  "type":"object",
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "id": "http://jsonschema.net",
+  "required":false,
+  "properties":{
+    "pluginLocations": {
+      "type":"object",
+      "required":true,
+      "properties":{
+        "config": {
+          "type":"object"
+        },
+        "course": {
+          "type":"object",
+          "properties":{
+            "_canMeter": {
+              "type": "object",
+              "required": true,
+              "legend": "Can Meter",
+              "properties":{
+                "_isEnabled": {
+                  "type": "boolean",
+                  "required": true,
+                  "title": "Enable Can Meters",
+                  "default": false,
+                  "inputType": {"type": "Boolean", "options": [false, true]},
+                  "validators": [],
+                  "help": "If set to 'true', the can meter extension will be enabled"
+                },
+                "_meterItems": {
+                  "type": "array",
+                  "required": true,
+                  "title": "Meter items",
+                  "minItems": 1,
+                  "items":
+                  {
+                    "type":"object",
+                    "required":true,
+                    "properties":{
+                      "id": {
+                        "type": "string",
+                        "required": true,
+                        "title": "Meter Id",
+                        "inputType": "Text",
+                        "validators": ["required"],
+                        "help": "Unique id for the meter. This is required by other plugins to identify the meter and display its variables."
+                      },
+                      "name": {
+                        "type": "string",
+                        "required": true,
+                        "title": "Name",
+                        "inputType": "Text",
+                        "validators": ["required"],
+                        "help": "A name for the meter",
+                        "translatable": true
+                      },
+                      "meterStartValue": {
+                        "type": "number",
+                        "required": true,
+                        "title": "Meter start value",
+                        "inputType": "Number",
+                        "validators": ["number", "required"],
+                        "help": "The value the meter will have when the course is started"
+                      },
+                      "meterMinValue": {
+                        "type": "number",
+                        "required": true,
+                        "title": "Meter minimum value",
+                        "inputType": "Number",
+                        "validators": ["number", "required"],
+                        "help": "The minimum possible value"
+                      },
+                      "meterMaxValue": {
+                        "type": "number",
+                        "required": true,
+                        "title": "Meter maximum value",
+                        "inputType": "Number",
+                        "validators": ["number", "required"],
+                        "help": "The maximum possible value"
+                      },
+                      "_attempts": {
+                        "type": "number",
+                        "required": true,
+                        "title": "Attempts Allowed",
+                        "inputType": "Number",
+                        "validators": ["number", "required"],
+                        "help": "Controls the number of attempts the user is allowed to have on this meter. Set to -1 (or 0) to allow infinite attempts."
+                      },
+                      "_resetType": {
+                        "type": "string",
+                        "required": true,
+                        "enum": ["soft", "hard"],
+                        "title": "Reset Type",
+                        "inputType": {
+                          "type": "Select",
+                          "options": ["soft", "hard"]
+                        },
+                        "validators": ["required"],
+                        "help": "Determines whether the question will register as completed when reset. When assigned a value of 'soft', the learner may continue to interact with it, but the complete attribute remains set to true. When assigned 'hard', complete is set to false, and the learner will be forced to complete it again if it is reset."
+                      },
+                      "_pageIds": {
+                        "type": "array",
+                        "required": true,
+                        "title": "Page Ids",
+                        "help": "The ids of pages that the meter will be displayed on",
+                        "items": {
+                          "type": "string",
+                          "required": false,
+                          "title": "Page Id",
+                          "inputType": "Text"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "contentobject": {
+          "type":"object"
+        },
+        "article": {
+          "type":"object"
+        },
+        "block": {
+          "type":"object"
+        },
+        "component": {
+          "type":"object"
+        }
+      }
+    }
+  }
+}

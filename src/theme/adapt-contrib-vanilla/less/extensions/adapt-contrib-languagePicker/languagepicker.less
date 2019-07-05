@@ -1,0 +1,30 @@
+.languagepicker {
+  .languagepicker-inner {
+    .languagepicker-title-inner {
+      text-align: center;
+    }
+
+    .languagepicker-languages {
+      .languagepicker-language {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: @button-color;
+        border-radius: 8px;
+        color: @white;
+        font-weight: 600;
+        outline: none;
+
+        &:hover {
+          background-color: @button-color-hover;
+        }
+      }
+    }
+  }
+}
+
+.languagepicker-language.drawer-item button {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 55%;
+}

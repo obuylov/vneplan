@@ -1,0 +1,104 @@
+.accordion-component {
+
+  .accordion-item {
+    margin-bottom: @item-margin-bottom;
+  }
+
+  .accordion-item-title-icon {
+    .dir-rtl & {
+      left: inherit;
+      right: @item-padding-left;
+    }
+  }
+
+  .accordion-item-title {
+    color: @item-text-color;
+    background-color: @gray;
+    padding-top: @item-padding-top;
+    padding-bottom: @item-padding-bottom;
+    padding-left: (@icon-size+(@item-padding-left*2));
+    .item-title;
+
+    &:hover {
+      background-color: @primary-color;
+    }
+
+    .dir-rtl & {
+      padding-left: inherit;
+      padding-right: (@icon-size+(@item-padding-left*2));
+    }
+
+    &.visited {
+      color: @item-text-color-visited;
+      border-color: @item-border-color-visited;
+
+      .accordion-item-title-icon {
+        color: @item-text-color-visited;
+      }
+    }
+
+    &.selected {
+      color: @item-text-color-selected;
+      background-color: @primary-color;
+      border-color: @item-border-color-selected;
+      border-bottom-left-radius: 0;
+      border-bottom-right-radius: 0;
+
+      &:hover {
+        background-color: @primary-color;
+      }
+
+      .accordion-item-title-icon {
+        color: @item-text-color-selected;
+      }
+    }
+
+    .no-touch & {
+      &:hover {
+        color: @item-text-color-hover;
+        background-color: @primary-color;
+        border-color: @item-border-color-hover;
+
+        .accordion-item-title-icon {
+          color: @item-text-color-hover;
+        }
+      }
+
+      &.visited:hover {
+        color: @item-text-color-hover;
+        background-color: @primary-color;
+        border-color: @item-border-color-hover;
+
+        .accordion-item-title-icon {
+          color: @item-text-color-hover;
+        }
+      }
+
+      &.selected:hover {
+        background-color: @item-color-hover;
+      }
+    }
+
+  }
+
+  .accordion-item-body {
+    width: 100%;
+    color: @item-body-text-color;
+    background-color: @item-body-color;
+    border: 1px solid @gray;
+    box-sizing: border-box;
+    border-top: 0;
+  }
+
+  .accordion-item-body-inner {
+    padding-top: @item-padding-top;
+    padding-bottom: @item-padding-bottom;
+    padding-left: @item-padding-left;
+    padding-right: @item-padding-right;
+  }
+
+}
+
+.accordion-item-title-inner {
+  font-size: 16px;
+}

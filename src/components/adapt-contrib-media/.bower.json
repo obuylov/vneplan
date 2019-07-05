@@ -1,0 +1,31 @@
+{
+  "name": "adapt-contrib-media",
+  "version": "4.1.0",
+  "framework": ">=3.3",
+  "homepage": "https://github.com/adaptlearning/adapt-contrib-media",
+  "issues": "https://github.com/adaptlearning/adapt_framework/issues/new",
+  "displayName": "Media",
+  "component": "media",
+  "assetFields": [
+    "_media.ogv",
+    "_media.mp4",
+    "_media.poster"
+  ],
+  "description": "Playback of video and audio with a Flash Player fallback for IE8+",
+  "main": "/js/adapt-contrib-media.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3",
+  "_release": "4.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v4.1.0",
+    "commit": "bf4a6c8360a05e8ca9a5fefda2c8fb591f8c35d3"
+  },
+  "_source": "git://github.com/adaptlearning/adapt-contrib-media.git",
+  "_target": "4.1.0",
+  "_originalSource": "adapt-contrib-media",
+  "_direct": true
+}

@@ -1,0 +1,17 @@
+{
+  "name": "adapt-can-meter",
+  "version": "1.0.0",
+  "framework": ">=2",
+  "homepage": "",
+  "issues": "",
+  "displayName": "Meter",
+  "extension": "can-meter",
+  "description": "An Adapt extension that displays a meter",
+  "main": "/js/adapt-can-meter.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-extension"
+  ],
+  "license": "GPLv3",
+  "targetAttribute": "_canMeter"
+}

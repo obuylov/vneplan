@@ -1,0 +1,382 @@
+{
+  "type":"object",
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "id": "http://jsonschema.net",
+  "required":false,
+  "properties":{
+    "pluginLocations": {
+      "type":"object",
+      "required":true,
+      "properties":{
+        "config": {
+          "type":"object"
+        },
+        "course": {
+          "type":"object",
+          "properties":{
+            "_canBackground": {
+              "type":"object",
+              "required":true,
+              "legend": "Can Background",
+              "properties":{
+                "_isActive": {
+                  "type":"boolean",
+                  "required":true,
+                  "title": "Enabled",
+                  "inputType": { "type": "Boolean", "options": [false, true]},
+                  "validators": [],
+                  "help": "Set to true to enable the can background extension, false to disable it."
+                }
+              }
+            }
+          }
+        },
+        "contentobject": {
+          "type":"object",
+          "properties":{
+            "_canBackground": {
+              "type":"object",
+              "required":false,
+              "legend": "Can Background",
+              "properties":{
+                "mobileSrc": {
+                  "type":"string",
+                  "required":false,
+                  "title": "Background image (Mobile)",
+                  "default": "",
+                  "inputType": "Asset:image",
+                  "help": "The background image you want shown for this page header when the course is viewed at mobile resolution"
+                },
+                "src": {
+                  "type":"string",
+                  "required":false,
+                  "title": "Background image (Desktop)",
+                  "default": "",
+                  "inputType": "Asset:image",
+                  "help": "The background image you want shown for this page header when the course is viewed at desktop resolution"
+                },
+                "mobileBannerHeight": {
+                  "type":"number",
+                  "required":true,
+                  "default": 150,
+                  "title": "Min page header height on mobile in pixels",
+                  "inputType": "Number",
+                  "validators": ["number"],
+                  "help": "Minimum height of the page header on mobile in pixels"
+                },
+                "bannerHeight": {
+                  "type":"number",
+                  "required":true,
+                  "default": 300,
+                  "title": "Min page header height on desktop in pixels",
+                  "inputType": "Number",
+                  "validators": ["number"],
+                  "help": "Minimum height of the page header on desktop in pixels"
+                },
+                "backgroundSize": {
+                  "type": "string",
+                  "required": true,
+                  "title": "The size can be set to cover, auto or contain",
+                  "inputType": {"type":"Select", "options":["cover","auto","contain"]},
+                  "default": "cover"
+
+                },
+                "backgroundAttachement": {
+                  "type": "string",
+                  "required": true,
+                  "title": "Fix the position background image",
+                  "help": "Fixed can cause some frame rate stutter. Try using scroll for smaller pages.",
+                  "inputType": {"type":"Select", "options":["fixed","scroll"]},
+                  "default": "fixed"
+                },
+                "backgroundPosition": {
+                  "type": "string",
+                  "required": true,
+                  "title": "Where to position the background",
+                  "inputType": {"type":"Select", "options":["left top","left center","left bottom","center top","center center","center bottom","right top","right center","right bottom"]},
+                  "default": "center center"
+
+                },
+                "backgroundRepeat": {
+                  "type": "string",
+                  "required": true,
+                  "title": "How should the background repeat?",
+                  "inputType": {"type":"Select", "options":["repeat","repeat-x","repeat-y","no-repeat"]},
+                  "default": "repeat"
+                },
+                "backgroundColor": {
+                  "type": "string",
+                  "required": true,
+                  "title": "The hex color of the background eg: #FFFFFF",
+                  "inputType": "Text",
+                  "default": ""
+                }
+              }
+            }
+          }
+        },
+        "article": {
+          "type":"object",
+          "properties":{
+            "_canBackground": {
+              "type":"object",
+              "required":false,
+              "legend": "Can Background",
+              "properties":{
+                "mobileSrc": {
+                  "type":"string",
+                  "required":false,
+                  "title": "Background image (Mobile)",
+                  "default": "",
+                  "inputType": "Asset:image",
+                  "help": "The background image you want shown for this article when the course is viewed at mobile resolution"
+                },
+                "src": {
+                  "type":"string",
+                  "required":false,
+                  "title": "Background image (Desktop)",
+                  "default": "",
+                  "inputType": "Asset:image",
+                  "help": "The background image you want shown for this article when the course is viewed at desktop resolution"
+                },
+                "mobileBannerHeight": {
+                    "type":"number",
+                    "required":true,
+                    "default": 150,
+                    "title": "Min article height on mobile in pixels",
+                    "inputType": "Number",
+                    "validators": ["number"],
+                    "help": "Minimum height of the article on mobile in pixels"
+                },
+                "bannerHeight": {
+                    "type":"number",
+                    "required":true,
+                    "default": 300,
+                    "title": "Min article height on desktop in pixels",
+                    "inputType": "Number",
+                    "validators": ["number"],
+                    "help": "Minimum height of the article on desktop in pixels"
+                },
+                "backgroundSize": {
+                    "type": "string",
+                    "required": true,
+                    "title": "The size can be set to cover, auto or contain",
+                    "inputType": {"type":"Select", "options":["cover","auto","contain"]},
+                    "default": "cover"
+
+                },
+                "backgroundAttachement": {
+                    "type": "string",
+                    "required": true,
+                    "title": "Fix the position background image",
+                    "help": "Fixed can cause some frame rate stutter. Try using scroll for smaller articles.",
+                    "inputType": {"type":"Select", "options":["fixed","scroll"]},
+                    "default": "fixed"
+                },
+                "backgroundPosition": {
+                    "type": "string",
+                    "required": true,
+                    "title": "Where to position the background",
+                    "inputType": {"type":"Select", "options":["left top","left center","left bottom","center top","center center","center bottom","right top","right center","right bottom"]},
+                    "default": "center center"
+
+                },
+                "backgroundRepeat": {
+                    "type": "string",
+                    "required": true,
+                    "title": "How should the background repeat?",
+                    "inputType": {"type":"Select", "options":["repeat","repeat-x","repeat-y","no-repeat"]},
+                    "default": "repeat"
+                },
+                "backgroundColor": {
+                    "type": "string",
+                    "required": true,
+                    "title": "The hex color of the background eg: #FFFFFF",
+                    "inputType": "Text",
+                    "default": ""
+                },
+                "transparentChildren": {
+                  "type": "boolean",
+                  "required": true,
+                  "default": true,
+                  "title": "Transparent blocks",
+                  "inputType": { "type": "Boolean", "options": [false, true]},
+                  "validators": [],
+                  "help": "If set to true all blocks in this article will have a transparent background."
+                }
+              }
+            }
+          }
+        },
+        "block": {
+          "type":"object",
+          "properties":{
+            "_canBackground": {
+              "type":"object",
+              "required":false,
+              "legend": "Can Background",
+              "properties":{
+                "mobileSrc": {
+                  "type":"string",
+                  "required":false,
+                  "title": "Background image (Mobile)",
+                  "default": "",
+                  "inputType": "Asset:image",
+                  "help": "The background image you want shown for this block when the course is viewed at mobile resolution"
+                },
+                "src": {
+                  "type":"string",
+                  "required":false,
+                  "title": "Background image (Desktop)",
+                  "default": "",
+                  "inputType": "Asset:image",
+                  "help": "The background image you want shown for this block when the course is viewed at desktop resolution"
+                },
+                "mobileBannerHeight": {
+                  "type":"number",
+                  "required":true,
+                  "default": 150,
+                  "title": "Min block height on mobile in pixels",
+                  "inputType": "Number",
+                  "validators": ["number"],
+                  "help": "Minimum height of the block on mobile in pixels"
+                },
+                "bannerHeight": {
+                  "type":"number",
+                  "required":true,
+                  "default": 300,
+                  "title": "Min block height on desktop in pixels",
+                  "inputType": "Number",
+                  "validators": ["number"],
+                  "help": "Minimum height of the block on desktop in pixels"
+                },
+                "backgroundSize": {
+                  "type": "string",
+                  "required": true,
+                  "title": "The size can be set to cover, auto or contain",
+                  "inputType": {"type":"Select", "options":["cover","auto","contain"]},
+                  "default": "cover"
+
+                },
+                "backgroundAttachement": {
+                  "type": "string",
+                  "required": true,
+                  "title": "Fix the position background image",
+                  "help": "Fixed can cause some frame rate stutter. Try using scroll for smaller blocks.",
+                  "inputType": {"type":"Select", "options":["fixed","scroll"]},
+                  "default": "fixed"
+                },
+                "backgroundPosition": {
+                  "type": "string",
+                  "required": true,
+                  "title": "Where to position the background",
+                  "inputType": {"type":"Select", "options":["left top","left center","left bottom","center top","center center","center bottom","right top","right center","right bottom"]},
+                  "default": "center center"
+
+                },
+                "backgroundRepeat": {
+                  "type": "string",
+                  "required": true,
+                  "title": "How should the background repeat?",
+                  "inputType": {"type":"Select", "options":["repeat","repeat-x","repeat-y","no-repeat"]},
+                  "default": "repeat"
+                },
+                "backgroundColor": {
+                  "type": "string",
+                  "required": true,
+                  "title": "The hex color of the background eg: #FFFFFF",
+                  "inputType": "Text",
+                  "default": ""
+                }
+              }
+            }
+          }
+        },
+        "component": {
+          "type":"object",
+          "properties":{
+            "_canBackground": {
+              "type":"object",
+              "required":false,
+              "legend": "Can Background",
+              "properties":{
+                "mobileSrc": {
+                  "type":"string",
+                  "required":false,
+                  "title": "Background image (Mobile)",
+                  "default": "",
+                  "inputType": "Asset:image",
+                  "help": "The background image you want shown for this component when the course is viewed at mobile resolution"
+                },
+                "src": {
+                  "type":"string",
+                  "required":false,
+                  "title": "Background image (Desktop)",
+                  "default": "",
+                  "inputType": "Asset:image",
+                  "help": "The background image you want shown for this component when the course is viewed at desktop resolution"
+                },
+                "mobileBannerHeight": {
+                  "type":"number",
+                  "required":true,
+                  "default": 150,
+                  "title": "Min component height on mobile in pixels",
+                  "inputType": "Number",
+                  "validators": ["number"],
+                  "help": "Minimum height of the component on mobile in pixels"
+                },
+                "bannerHeight": {
+                  "type":"number",
+                  "required":true,
+                  "default": 300,
+                  "title": "Min component height on desktop in pixels",
+                  "inputType": "Number",
+                  "validators": ["number"],
+                  "help": "Minimum height of the component on desktop in pixels"
+                },
+                "backgroundSize": {
+                  "type": "string",
+                  "required": true,
+                  "title": "The size can be set to cover, auto or contain",
+                  "inputType": {"type":"Select", "options":["cover","auto","contain"]},
+                  "default": "cover"
+
+                },
+                "backgroundAttachement": {
+                  "type": "string",
+                  "required": true,
+                  "title": "Fix the position background image",
+                  "help": "Fixed can cause some frame rate stutter. Try using scroll for smaller components.",
+                  "inputType": {"type":"Select", "options":["fixed","scroll"]},
+                  "default": "fixed"
+                },
+                "backgroundPosition": {
+                  "type": "string",
+                  "required": true,
+                  "title": "Where to position the background",
+                  "inputType": {"type":"Select", "options":["left top","left center","left bottom","center top","center center","center bottom","right top","right center","right bottom"]},
+                  "default": "center center"
+
+                },
+                "backgroundRepeat": {
+                  "type": "string",
+                  "required": true,
+                  "title": "How should the background repeat?",
+                  "inputType": {"type":"Select", "options":["repeat","repeat-x","repeat-y","no-repeat"]},
+                  "default": "repeat"
+                },
+                "backgroundColor": {
+                  "type": "string",
+                  "required": true,
+                  "title": "The hex color of the background eg: #FFFFFF",
+                  "inputType": "Text",
+                  "default": ""
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

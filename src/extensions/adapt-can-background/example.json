@@ -1,0 +1,28 @@
+//article.json
+
+"_canBackground": {
+"src": "course/en/images/bg_switcher_04.jpg",
+"mobileSrc": "course/en/images/bg_switcher_mobile_04.jpg",
+"bannerHeight": 300,
+"mobileBannerHeight": 150,
+"backgroundSize": "cover",
+"backgroundPosition": "center center",
+"backgroundRepeat": "repeat",
+"backgroundAttachement": "fixed",
+"backgroundColor": "transparent",
+"transparentChildren": true
+}
+
+//block.json, component.json, contentObject.json
+
+"_canBackground": {
+"src": "course/en/images/bg_switcher_04.jpg",
+"mobileSrc": "course/en/images/bg_switcher_mobile_04.jpg",
+"bannerHeight": 300,
+"mobileBannerHeight": 150,
+"backgroundSize": "cover",
+"backgroundPosition": "center center",
+"backgroundRepeat": "repeat",
+"backgroundAttachement": "fixed",
+"backgroundColor": "transparent"
+}

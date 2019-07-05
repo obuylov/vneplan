@@ -1,0 +1,18 @@
+{
+  "name": "adapt-devtools",
+  "repository": "git://github.com/cgkineo/adapt-devtools",
+  "framework": ">=2",
+  "version": "2.1.16",
+  "homepage": "https://github.com/cgkineo/adapt-devtools",
+  "issues": "https://github.com/cgkineo/adapt-devtools/issues/",
+  "displayName": "Developer tools",
+  "extension": "devtools",
+  "description": "Tools for developing and testing Adapt courses",
+  "main": "/js/adapt-devtools.js",
+  "targetAttribute": "_devtools",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-extension"
+  ],
+  "license": "GPLv3"
+}

@@ -1,0 +1,3302 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Tone at the Top",
+    "displayTitle": "",
+    "body": "<p>The compliance procedures are implemented by each and all of the Bank employees.</p> <p>The Bank's executives have an additional responsibility for creating and maintaining the culture and behavior, in which employees are motivated to behave properly and feel free to report any problems.</p> <p>The executives demonstrate through personal example commitment to the compliance principles (<strong>«Tone at the top»</strong>):</p> <p><ul>    <li> sensitize employees to unconditional observance of compliance requirements;</li>    <li>  ensure the implementation of compliance procedures in their business units;</li>    <li>  develop an environment of open communication among personnel;</li>    <li>  refrain from giving to employees any instructions that would violate compliance principles and/or other business ethics requirements;</li>    <li>  address and take necessary measures to minimize compliance risks in a timely and efficient manner;</li>    <li>ensure active interaction between their subordinated employees and the compliance unit.</li> </ul> </p>",
+    "_id": "5cee343aa123007ffe192a63",
+    "_parentId": "5cee343aa123007ffe192a62",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Corruption (corrupt practices)",
+    "displayTitle": "",
+    "body": "<p><strong>Corruption (corrupt practices)</strong> mean:</p><ul><li> giving or mediating in giving a bribe;</li><li> taking or mediating in taking a bribe;</li><li> giving a bribe to a public official;</li><li> using any opportunities associated with one’s official position and/or official authorities for oneself or for the benefit of any third parties;</li><li> other illegal use of one’s own official position.</li></ul>",
+    "_id": "5cee4366a123007ffe192aa0",
+    "_parentId": "5cee55aaa123007ffe192aa3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "\"The Hotline\" for employees of the Bank",
+    "displayTitle": "",
+    "body": "<p>The Bank is interested in timely receipt of information on potential violations and encourages disclosure of information about any alleged or committed fact of corruption, as well as about any action (omission) that may result in a violation of anti-corruption requirements.</p><p>The Bank established <a href=\"#/id/5cefad7ba123007ffe192bd0\">\"The Hotline\"</a> for employees of the Bank, which is designated for reporting violations in the area of compliance. The Bank ensures anonymity and confidentiality of any information received via the Hotline, as well as a procedure for protecting persons who report violations in good faith.</p><p>The Bank’s customers and counterparties having information about potential violations of anti-corruption principles may also send a report through the Bank's <a href=\"http://www.sberbank.com/ru/compliance/ukipk\" target=\"_blank\"> official website</a> (on the page \"Compliance\" in the section \"Managing Conflict of Interest and Counteracting Corruption\").</p>",
+    "_id": "5cee5692a123007ffe192aa7",
+    "_parentId": "5cee5677a123007ffe192aa6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "<p>The Bank sets a value on its reputation and long-term success and strongly does not accept corruption in any form and expression (zero tolerance principle) both in ongoing activities and in the course of strategic projects implementation. The prevention of and counteraction to corruption is one of the Bank’s priorities.</p>",
+    "_id": "5cee5711a123007ffe192aa8",
+    "_parentId": "5cee3519a123007ffe192a66",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Bank executives",
+    "displayTitle": "",
+    "body": "<p>For the purposes of performing the Regulation of the Government of the Russian Federation dated July 05, 2013 No. 568, the Bank executives include:</p><ul><li>CEO, Chairman of the Executive Board of the Bank;</li><li>Deputy Chairmen of the Executive Board of the Bank;</li><li>Chief Accountant.</li></ul>",
+    "_id": "5cee5896a123007ffe192aaa",
+    "_parentId": "5cee354ea123007ffe192a6c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Definition",
+    "displayTitle": "",
+    "body": "<p><strong>Conflict of interest</strong> means a direct or indirect contradiction between proprietary interests and other interests of the Bank / Group members and/or those of their employees and/or one or more of their customers, as a result of which actions (omission to act) of one party may have adverse effect on the other party.</p>",
+    "_id": "5cee594ba123007ffe192aab",
+    "_parentId": "5cee3563a123007ffe192a6f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Reasons and Solutions",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cee59aba123007ffe192aaf",
+    "_parentId": "5cee596da123007ffe192aad",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Reasons",
+        "body": "<ul><li>an employee conducts labor activity outside the Bank;</li><li>relatives work jointly in the Bank;</li><li>close relatives of Bank employees participate in governing bodies and share capital of third parties;</li><li>an employee / its relatives perform personal transactions on stock and exchange commodity markets;</li><li>an employee violates the procurement procedures and the supplier selection rules.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Solutions",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cee59aba123007ffe192af1",
+    "_parentId": "5cee596da123007ffe192aad",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Solutions",
+        "body": "<ul><li>the disclosure of information about a potential conflict of interest;</li><li>the avoidance of a conflict (e.g., an election not to enter into a contract);</li><li>the establishment of restrictions on the transfer of information between the Bank units (information barriers).</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Obligations and prohibitions",
+    "displayTitle": "",
+    "body": "<p><strong>All Bank employees are obliged to:</strong></p><ul><li>observe <a href=\"#/id/5cefb5a7a123007ffe192be2\">the prohibitions</a> and refrain from actions that will or may potentially lead to a conflict of interest or threaten the Bank’s reputation;</li><li>follow the principle of reasonableness and avoid any personal investments that may turn out to be improper (i.e. made in violation of law or in violation of internal procedures and restrictions established in the Bank);</li><li>refrain from voting on the matters, in respect of which they have a personal interest.</li></ul><p>All Bank employees are also required to timely disclose information about the existence of an interest or a conflict of interest according to the Bank Standard for Employees’ Disclosure of Information on Potential Conflicts of Interest. An information disclosure form should be sent to the e-mail address of the compliance unit Gifts-OBI@mail.ca.sbrf.ru or Gifts- OBI@sberbank.ru.</p></br><p><strong>The Bank executives </strong>(for the purposes of performing the Regulation of the Government of the Russian Federation dated July 05, 2013 No. 568, the Bank executives include CEO, Chairman of the Executive Board of the Bank, Deputy Chairmen of the Executive Board of the Bank, and Chief Accountant)<strong> are also prohibited from</strong>:</p><ul><li>being a member of governing bodies, trustee or supervisory boards, other bodies of foreign non-profit nongovernmental organizations and their structural units acting in the territory of the Russian Federation, unless otherwise provided for by an international treaty of the Russian Federation or the legislation of the Russian Federation;</li><li>being engaged in paid activities financed solely by funds of foreign states, international and foreign organizations, foreign citizens and stateless persons, unless otherwise provided for by an international treaty of the Russian Federation or the legislation of the Russian Federation, without obtaining a written authorization;</li><li>employment in cases where he/she is a close relative or an in-law relative (parents, spouses, children, brothers, sisters, as well as brothers, sisters, parents, children of spouses and spouses of children) of a Bank employee, if the employment activities in the Bank involve direct subordination of one of them to, or control by, the other.</li></ul>",
+    "_id": "5cee5a85a123007ffe192ab2",
+    "_parentId": "5cee5a37a123007ffe192ab1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Insiders",
+    "displayTitle": "",
+    "body": "<p><strong>Insider information</strong> means accurate and specific information available to the Bank that has not been distributed or provided, the distribution or provision of which may have a significant impact on prices for financial instruments, foreign currency and/or commodities and which relates to the information included into the Bank’s insider information list.</p><p>Employees of the Bank who have access to insider information of the Bank and legal entities — clients of the Bank, who have included the Bank in the list of insiders, are insiders. All insiders of the Bank are subject to the requirements of the current legislation of the Russian Federation, and the requirements of EU legislation also apply to insiders on the grounds of \"issuer of securities\". Members of the Board, Senior Vice Presidents are subject to additional requirements of the EU legislation in terms of notifying the Bank, as well as the authorized body of the EU (Financial Conduct Authority) on transactions with financial instruments of the Bank.</p>",
+    "_id": "5cee5c24a123007ffe192ab5",
+    "_parentId": "5cee5c1da123007ffe192ab4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Prohibitions and exceptions",
+    "displayTitle": "",
+    "body": "<p>The Bank executives are prohibited from receiving remuneration from individuals and legal entities (gifts, monetary remuneration, gratuitous loans, services, paid entertainment, leisure, transportation and other remuneration), except for:</p><br><ul class='list-with-icons'> <li class='list-icon'><div class='img-container'><img src='course/ru/assets/icon-presents.png' alt='icon'></div><span>the receipt of gifts in connection with their participation in official events;</span></li><li class='list-icon'><div class='img-container'><img src='course/ru/assets/icon-office.png' alt='icon'></div><span>office accessories provided in the course of the above mentioned events to each participant of the event;</span></li><li class='list-icon'><div class='img-container'><img src='course/ru/assets/icon-trophies.png' alt='icon'></div><span>flowers and valuable gifts granted by way of merit recognition (reward).</span></li></ul>",
+    "_id": "5cee5d93a123007ffe192ab7",
+    "_parentId": "5cee5d82a123007ffe192ab6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "stacklist",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Value of a gift",
+    "displayTitle": "",
+    "body": "<p>If the value of a gift is unknown or exceeds 3 (three) thousand rubles, it is necessary to:</p>",
+    "_id": "5cee5f94a123007ffe192abf",
+    "_parentId": "5cee5f87a123007ffe192abe",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "body": "<p>notify the Compliance Division at the address Gifts-OBI@mail.ca.sbrf.ru / Gifts- OBI@sberbank.ru in the form of the Notice of the Receipt of a Gift by Bank Executives within 3 (three) business days form the date of receipt of the gift;</p>",
+        "next": "Hand over"
+      },
+      {
+        "body": "<p>hand over the gift to the Bank's warehouse&nbsp;within 5 (five) business days from the day of notice registration. The person who handed over the gift may buy it out within 2 (two) months from the date of the gift handover.</p>",
+        "next": ""
+      }
+    ],
+    "_button": {
+      "startText": "Notify",
+      "continueText": "Next"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Procedure",
+    "displayTitle": "",
+    "body": "<p>The Bank executives may keep at their personal disposal a gift, the value of which does not exceed 3 (three) thousand rubles.</p>",
+    "_id": "5cee6046a123007ffe192ac1",
+    "_parentId": "5cee603ba123007ffe192ac0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Russian Legislative Requirements",
+    "displayTitle": "",
+    "body": "<p><img src='course/ru/assets/russia.png' width='180' height='118' class='leftimg'>In accordance with the Federal Law No. 224-FZ “On Counteracting the Misuse of Insider Information and Market Manipulation”&nbsp;all insiders are prohibited from:</p><ol class='column'><li>Using insider information for the purpose of making personal transaction or for giving recommendations to third parties.</li><li>Providing insider information to persons having no access thereto.</li><li>Making actions that qualify as market manipulation.</li></ol><p>Insiders are obliged to notify the Bank (within 10 business days from the date of transaction) and the Bank of Russia (if they receive a request from it) about transactions made by them with financial instruments.</p>",
+    "_id": "5cee62c4a123007ffe192ad2",
+    "_parentId": "5cee613da123007ffe192ac3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "EU Legislative Requirements",
+    "displayTitle": "",
+    "body": "<p><img src='course/ru/assets/european-union.png' width='180' height='118' class='leftimg'>In&nbsp;accordance with the EU Regulation No.&nbsp;596/2014 “On countering unscrupulous practices in the financial market” insiders of the Bank are prohibited from: insider trading, including attempts to insider trading; illegal disclosure of insider information; actions, related to market manipulation, including attempts to manipulate the market.</p><p>Members of the Supervisory Board, members of the Management Board, Senior Vice-Presidents, and persons closely associated with them   are obliged to notify the Bank and the EU authorized body (Financial Conduct Authority) about transactions with financial instruments of the Bank.</p>",
+    "_id": "5cee6304a123007ffe192ad3",
+    "_parentId": "5cee623aa123007ffe192ac8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Bank’s Internal Requirements",
+    "displayTitle": "",
+    "body": "<p><img src='course/ru/assets/sberbank.png' width='180' height='118' class='leftimg'>The&nbsp;procedure for employees of the Bank-insiders to disclose information and perform personal transactions (transactions) with financial instruments subject to agreement with the Compliance Division:</p><ol class='column'><li>Complete a certification form and deliver it to the compliance Division.</li><li>Independently check prior to making a personal transaction, whether any prohibitions and restrictions apply to the transaction, and obtain an approval of the application from the Director of the Compliance Division of the Central Head Office.</li><li>Provide the report on the transaction made.</li></ol>",
+    "_id": "5cee631ca123007ffe192ad4",
+    "_parentId": "5cee6289a123007ffe192acd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p>Detailed information about the requirements of the legislation&nbsp;and of the Bank’s&nbsp;internal policies is available <a href=\"#/id/5cefcfaaa123007ffe192be8\">at the link</a>.</p>",
+    "_id": "5cee635ba123007ffe192ad6",
+    "_parentId": "5cee634ea123007ffe192ad5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Definition",
+    "displayTitle": "",
+    "body": "<p><strong>Economic sanctions</strong>&nbsp;—&nbsp;mean the restrictions established by international organizations and individual states&nbsp;in respect of an entire country, a part of its territory, certain sectors of economy or groups of gods,&nbsp;particular designated individuals or legal entities, aimed at achieving political, economic or other purposes of a sanction initiator. Information on the types of sanctions is available at the <a href='./#5cefd307a123007ffe192bf4'>link</a>.</p><p>Sanctions in respect of countries may be divided into <i>comprehensive and selective</i>, and, by nature of restrictions, into <i>blocking, sectoral and other</i>. Examples of comprehensive country based blocking sanctions imposed by the USA are the programs in respect of Iran, North  Korea.</p><br><br><p>In connection with the developments in Ukraine, the European Union countries, the USA and some other countries introduced certain prohibitions and restriction in respect of particular Russian citizens and entities. The Bank and the companies controlled by Sberbank Group are subject to sectoral sanctions. Certain sanction programs also apply to the Republic  of Belarus.</p><p>There are sanction programs aimed at counteracting terrorism, drug trade, human rights violations, proliferation of weapons of mass destruction.</p><p>The Bank and Sberbank Group members observe the sanctions applicable in all countries of presence, taking into account the principles and minimum requirements determined by the Bank’s group-wide policy concerning sanctions.</p><p>As a rule, sanctional prohibitions and restrictions are binding in the jurisdictions of the states that introduced the sanctions on companies registered in such states and on citizens of such states, and, in certain cases, on persons having the right to reside permanently in the territory of such states (additional information on personal obligations is available <a href=\"#/id/5cefd8fba123007ffe192c11\">at the link</a>).</p>",
+    "_id": "5cee64eba123007ffe192ad9",
+    "_parentId": "5cee64e2a123007ffe192ad8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "AML/CFT/PF regulation",
+    "displayTitle": "",
+    "body": "<p><strong>AML/CFT/PF regulation is based on the experience, recommendations and rules of international organizations that form the basis for regulatory documents on local level and within a particular bank.</p>",
+    "_id": "5cee65aea123007ffe192ada",
+    "_parentId": "5cee3599a123007ffe192a78",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/dd4b98a90766f9532d655affbde3c3b53083f3d0.png",
+      "small": "course/en/assets/dd4b98a90766f9532d655affbde3c3b53083f3d0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "The AML/CFT/PF internal control system of the Bank",
+    "displayTitle": "",
+    "body": "<p><strong>The AML/CFT/PF internal control system of the Bank</strong> is aimed at protecting the Bank against intrusion of proceeds of crime into it, excluding any involvement and participation of its employees in the legalization (laundering) of proceeds of crime and terrorism financing.</p><p>The Bank developed the AML/CFT/PF Internal Control Rules determining the obligations of the Bank and its employees:</p><br><ul class='list-with-icons'><li class='list-icon'> <div class='img-container'><img src='course/ru/assets/icon-identify.png' alt='icon'></div><span>to identify onboarding persons, their beneficial owners, representatives and beneficiaries;</span></li><li class='list-icon'> <div class='img-container'><img src='course/ru/assets/icon-public.png' alt='icon'></div><span>to identify public officers (foreign and Russian) and pay closer attention to their transactions;</span></li><li class='list-icon'> <div class='img-container'><img src='course/ru/assets/icon-monitor.png' alt='icon'></div><span>to monitor transactions in order to identify the transactions subject to mandatory control and those having the signs of doubtful transactions;</span></li><li class='list-icon'> <div class='img-container'><img src='course/ru/assets/icon-deny.png' alt='icon'></div><span>to take measures to stop doubtful transactions using the right to refuse to perform a customer’s direction in respect of a transaction / to enter into a bank account agreement;</span></li><li class='list-icon'> <div class='img-container'><img src='course/ru/assets/icon-alert.png' alt='icon'></div><span>to notify the compliance unit in case of identification of customer’s non-standard activities or behavior.</span></li></ul>",
+    "_id": "5cee66f0a123007ffe192adf",
+    "_parentId": "5cee6600a123007ffe192ade",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Main types of customers’ doubtful transactions",
+    "displayTitle": "",
+    "body": "<p>Main types of customers’ doubtful transactions:</p><ul><li>cash-out transaction;</li><li>withdrawal of capital abroad;</li><li>transit transactions (flow of funds between entities without economic reasons).</li></ul><p>Examples of criteria that may evidence the customer’s involvement if doubtful transactions: low tax burden; existence of counterparties that conducted doubtful transactions in the past; absence of actual activities.</p>",
+    "_id": "5cee6860a123007ffe192aeb",
+    "_parentId": "5cee685ba123007ffe192aea",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "doubleaccordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Legislation of the Russian Federation",
+    "displayTitle": "",
+    "body": "<p>According to the requirements of the current legislation of the Russian Federation, the Bank and its employees will be subject to the following legal sanctions:</p>",
+    "_id": "5cee69d9a123007ffe192aec",
+    "_parentId": "5cee35bba123007ffe192a7b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "for the Bank",
+        "body": "<p><strong>Expand tabs to learn more</strong></p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_child": [
+          {
+            "childTitle": "Administrative liability:",
+            "childBody": "<ul><li>fine (in the amount of up to hundredfold amount of cash, value of securities, other property or property-related services, illegally transferred or rendered, promised or suggested on behalf of the Bank, but not less than 100 million rubles with confiscation of cash, securities, other property or value of property-related services);</li><li>restriction of certain transactions, suspension of activities, or prohibition of certain types of activities;</li><li>revocation of the license to carry out banking activities.</li></ul>",
+            "_childGraphic": ""
+          }
+        ]
+      },
+      {
+        "title": "for the Bank employees (officers and citizens)",
+        "body": "<p><strong>Expand tabs to learn more</strong></p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_child": [
+          {
+            "childTitle": "Disciplinary liability:",
+            "childBody": "<ul><li>admonition;</li><li>reprimand;</li><li>dismissal based on relevant grounds.</li></ul>",
+            "_childGraphic": ""
+          },
+          {
+            "childTitle": "Civil liability:",
+            "childBody": "<p>&nbsp; if the unlawful actions resulted in any losses caused to some persons, the Bank employee will be obliged to compensate for such losses.</p>",
+            "_childGraphic": ""
+          },
+          {
+            "childTitle": "Administrative liability:",
+            "childBody": "<ul><li>for citizens — a fine (in the amount of 2,000 to 5,000 rubles);</li><li>for officers — a fine (in the amount of 10,000 rubles to 50,000 rubles) or disqualification (for a period of one to three years).</li></ul>",
+            "_childGraphic": ""
+          },
+          {
+            "childTitle": "Criminal liability:",
+            "childBody": "<ul><li>fine of up to 5,000,000 rubles or up to 100 times the amount of the bribe;<br /></li><li>deprivation of right to hold specific posts or engage in certain activities for a period of up to ten years;<br /></li><li>imprisonment for up to fifteen years.</li></ul>",
+            "_childGraphic": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Requirements of the EU Regulation",
+    "displayTitle": "",
+    "body": "<p>According to the requirements of the EU Regulation, the Bank and its employees will be subject to the following legal sanctions:</p>",
+    "_id": "5cee6b19a123007ffe192aee",
+    "_parentId": "5cee6b0ba123007ffe192aed",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "for the Bank",
+        "body": "<p>Administrative responsibility:</p><ul><li>a fine in the amount of at least 15,000,000 euros or 15% of the company's annual turnover for market abuses, at least 1 million euros for violating the rules for compiling a list of insiders;</li><li>suspension of trading in relevant financial instruments.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "for the Bank employees (officers and citizens)",
+        "body": "<p>Administrative responsibility:</p><ul><li>a fine of at least EUR 5,000,000 for market abuses, at least EUR 500,000 for violation of the rules on the compilation of the list of insiders.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5ceef170a123007ffe192b20",
+    "_parentId": "5ceef164a123007ffe192b1f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "To home page",
+        "ariaLabel": "To home page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Forward >",
+        "ariaLabel": "Forward",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5ceef205a123007ffe192b22",
+    "_parentId": "5ceef1fca123007ffe192b21",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Back",
+        "ariaLabel": "Back",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "To home page",
+        "ariaLabel": "To home page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Forward >",
+        "ariaLabel": "Forward",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Standard for Handling Gifts",
+    "displayTitle": "",
+    "body": "<p>For the purposes of establishing stable and mutually beneficial business relationships between the Bank and its customers, counterparties and partners, as well as observing the principles of professional ethics and eliminating the corruption risk, the Bank established <a href=\"https://sbtatlas.sigma.sbrf.ru/wiki/pages/viewpageattachments.action?pageId=238421895\" target='_blank'>the Standard for Handling Gifts</a>.</p><p>Employees of the Bank are in no event permitted to accept or give gifts, which may influence unbiased decision-making in respect of customers, counterparties, or partners.</p><p>The Bank treats as a gift any valuable, for which there is no obligation to pay an ordinary consideration, including:</p><ul><li>business breakfast/lunch/dinner;</li><li>entertainment event;</li><li>educational event.</li></ul><p>The Bank allows for the receipt/provision of gifts only in connection with an evident and generally accepted ground (employee's birthday, International Women's Day, New Year and Defender of the Fatherland Day), provided that the gift is not classified as <a href=\"#/id/5cefb351a123007ffe192bda\">a prohibited gift</a>.</p><p>In other cases, the Bank establishes a zero limit on gifts, except gifts in the form of flowers and other floristic products that are not subject to the limits and restrictions.</p><p>Prohibited gifts must be rejected/returned to the donor at the time of receipt of such gifts.</p><p>The payment procedure for expenses on business breakfasts/lunches/dinners is established in the Bank’s internal documents on accountable corporate cards (hospitality expenses).</p><p>The participation in educational and entertainment events may be subject to prior approval by the compliance unit. The approval rules are available for review <a href=\"#/id/5cefb420a123007ffe192bdc\">here</a>.</p><p>The legislation establishes certain <a href=\"#/id/5cefb47ba123007ffe192bde\">rules for giving gifts to public officials and officers</a>.</p>",
+    "_id": "5cef014da123007ffe192b29",
+    "_parentId": "5cef0130a123007ffe192b28",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cef044ba123007ffe192b2b",
+    "_parentId": "5cef043ca123007ffe192b2a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Back",
+        "ariaLabel": "Back",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "To home page",
+        "ariaLabel": "To home page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Forward >",
+        "ariaLabel": "Forward",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cef04c3a123007ffe192b2d",
+    "_parentId": "5cef04b8a123007ffe192b2c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Back",
+        "ariaLabel": "Back",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "To home page",
+        "ariaLabel": "To home page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Forward >",
+        "ariaLabel": "Forward",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cef050ea123007ffe192b2f",
+    "_parentId": "5cef0502a123007ffe192b2e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Back",
+        "ariaLabel": "Back",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "To home page",
+        "ariaLabel": "To home page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Forward >",
+        "ariaLabel": "Forward",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cef0558a123007ffe192b31",
+    "_parentId": "5cef054ea123007ffe192b30",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Back",
+        "ariaLabel": "Back",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "To home page",
+        "ariaLabel": "To home page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Forward >",
+        "ariaLabel": "Forward",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cef059ea123007ffe192b33",
+    "_parentId": "5cef0590a123007ffe192b32",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Back",
+        "ariaLabel": "Back",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "To home page",
+        "ariaLabel": "To home page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Forward >",
+        "ariaLabel": "Forward",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cef05e7a123007ffe192b35",
+    "_parentId": "5cef05d9a123007ffe192b34",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Назад",
+        "ariaLabel": "Назад",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "To home page",
+        "ariaLabel": "To home page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Forward >",
+        "ariaLabel": "Forward",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Complete the training",
+        "ariaLabel": "Complete the training",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "1. Main Documents Regulating Compliance Activities ",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cefab24a123007ffe192bcc",
+    "_parentId": "5cefaaf3a123007ffe192bcb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Fundamental documents on compliance",
+        "body": "<ul><li>Compliance Risk Management Policy of the Bank;</li><li>Rules for Implementing Compliance Procedures in the Bank’s Processes;</li><li>Sberbank Book of Standards for Compliance Risk Management.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Counteracting corruption",
+        "body": "<ul><li>Federal Law dated December 25, 2008 No. 273-FZ \"On Counteracting Corruption\";</li><li>Code of Corporate Ethics of Sberbank Group;</li><li>Anti-Corruption Policy of the Bank;</li><li>Sberbank of Russia Group's Standard for Handling Gifts (Part 2).</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Conflict of interest management",
+        "body": "<ul><li>Conflict of Interest Management Policy of the Bank No. 3369;</li><li>Sberbank of Russia Group's Standard for Employees' Disclosure of Information on Potential Conflicts of Interest No. 4403 (Part 1).</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Counteracting misuse of insider information and market manipulation",
+        "body": "<ul><li>Federal Law dated July 27, 2010 No. 224-FZ \"On Counteracting the Misuse of Insider Information and Market Manipulation and on Amending Certain Legislative Acts of the Russian Federation\";</li><li>Sberbank Policy on Countering Unlawful Usage of Insider Information and Market Manipulation;</li><li>Sberbank of Russia Group's Standard for Personal Transactions Performed by Employees on Stock and Exchange Commodity Markets (Part 13).</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Economic sanctions",
+        "body": "<p>Policy of the Bank Regarding Special Economic Measures Imposed by International Organizations and Individual Countries.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "AML/CFT",
+        "body": "<ul><li>Federal Law dated August 07, 2001 No. 115-FZ \"On Counteracting the Legalization (Laundering) of Proceeds of Crime and Terrorism Financing\", as amended;</li><li>Rules of Internal Control for Counteracting the Legalization (Laundering) of Proceeds of Crime and Terrorism Financing.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "2. Main Tutorials Regulating Compliance Activities and Compliance Related Tutorials",
+    "displayTitle": "",
+    "body": "<p>Special courses about compliance are developed by bank and available in the system Succes Factors in the folder \"Education\". They are available 24/7 from any location with Internet including mobile devices.</p>",
+    "_id": "5cefac68a123007ffe192bce",
+    "_parentId": "5cefac5fa123007ffe192bcd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Fundamental documents on compliance",
+        "body": "<ul><li>Tutorial \"Introductory Course for Bank Employees on Compliance Risk Management\";</li><li>Tutorial \"AML/CFT Induction Training\".</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Counteracting corruption",
+        "body": "<ul><li>Tutorial \"Anti-Corruption Policy of the Bank\";</li><li>Tutorial \"Sberbank Group Rules for Handling Gifts\".</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Conflict of interest management",
+        "body": "<p>Tutorial \"Conflict of Interest Management Policy of the Bank\".</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Counteracting misuse of insider information and market manipulation",
+        "body": "<ul><li>Tutorial \"Rules for Using Insider Information and Employees Performing Personal Transactions on Stock and Exchange Commodity Markets\";</li><li>How to catch an insider instruder?</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Economic sanctions",
+        "body": "<p>Tutorial \"Policy of the Bank Regarding Special Economic Measures Imposed by International Organizations and Individual Countries\".</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "AML/CFT",
+        "body": "<ul><li>Tutorial \"AML/CFT Induction Training\";</li><li>Initial verification of AML/CFT knowledge;</li><li>Scheduled training on AML/CFT;</li><li>Off-schedule training on AML/CFT.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p><strong>You may report via the Compliance Hotline:</strong><br /><br /><strong>1. on&nbsp;actions having the signs of corruption, for example:</strong></p><p><!-- t508 --></p><ul><li>on a proposal/receipt of a bribe, a promise to give a bribe;</li><li>on illegal use of one’s own official position;</li><li>on provision/receipt of illegitimate or undeserved benefit;</li><li>on mediation in any of the above actions.</li></ul><p><!-- T004 --></p><p><strong>2. on</strong><strong>&nbsp;situations, where there is a potential conflict of interest,</strong> <strong>related in particular:</strong></p><p><!-- t508 --></p><ul><li>to an employee’s having any labour activities outside the Bank;</li><li>to the participation in share capital and governing bodies of third parties using personal funds;</li><li>to joint work of relatives.</li></ul><p><!-- T004 --></p><p><strong>3. on&nbsp;provision/receipt of prohibited gifts.<br />4. on&nbsp;performance of transactions using insider information.</strong></p>",
+    "_id": "5cefad7ba123007ffe192bd0",
+    "_parentId": "5cefad50a123007ffe192bcf",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Communication channels for reports:",
+    "displayTitle": "",
+    "body": "<p>Communication channels for reports:&nbsp;</p><p><strong>tel.: </strong>+7 (495) 665-86-09<br /><strong>e-mail:</strong> <a href=\"mailto:ethics@sberbank.ru\">ethics@sberbank.ru</a><br /><strong>Internet: </strong><br /><a href=\"https://www.sberbank.com/ru/compliance/ukipk\" onclick=\"window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;\">https://www.sberbank.com/ru/compliance/ukipk</a>&nbsp;<br /><a href=\"http://www.sberbank.ru/ru/person/dist_services/warning/uvb\" onclick=\"window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;\"><u>h</u></a><u><a href=\"http://www.sberbank.ru/ru/person/dist_services/warning/uvb\" onclick=\"window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;\">ttp://www.sberbank.ru/ru/person/dist_services/warning/uvb </a></u></p>",
+    "_id": "5cefb194a123007ffe192bd2",
+    "_parentId": "5cefb177a123007ffe192bd1",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "big-padding",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cefb1d9a123007ffe192bd3",
+    "_parentId": "5cefb177a123007ffe192bd1",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/ru/assets/3485badeab848f6442fe661fedc743809b69a4a1.png",
+      "small": "course/ru/assets/3485badeab848f6442fe661fedc743809b69a4a1.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Work principles",
+    "displayTitle": "Work principles",
+    "body": "",
+    "_id": "5cefb264a123007ffe192bd9",
+    "_parentId": "5cefb255a123007ffe192bd8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Anonymity",
+        "body": "<p>The hotline provides Bank employees with a technical possibility to apply&nbsp;thereto&nbsp;anonymously.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Confidentiality",
+        "body": "<p>Employee, who is an applicant disclosing information about himself/herself when applying to the hotline, remains unknown for everybody, except for persons authorized to register and verify his/her report.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Impartiality",
+        "body": "<p>Information is accepted for review irrespective of the official position of the person, in respect of whom it has been reported.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Promptness",
+        "body": "<p>It is ensured that the received information is timely reviewed and, if necessary, addressed for the purpose of taking measures to eliminate undesired events or causes thereof. Delivery of a response to each report is not guaranteed.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<ul><li>gifts in the form of monetary funds, loans, securities and derivative financial instruments in respect thereof, cash-equivalent items (including, without limitation, gift certificates, gift cards, prepaid bank cards);</li><li>gifts, contributions for political purposes, or entertainment events for political parties or candidates to political offices, made on behalf of the Bank /&nbsp;Group members;</li><li>gifts in the form of objects of art, antiques*;</li><li>gifts in the form of precious metals and/or precious stones, jewelry made of (with inclusion of) precious metals and/or precious stones, except promotional products with the Bank's logo*;</li><li>gifts provided to a party involved in an unfinished negotiation process aimed at the establishment of potential business relationships with the Bank / Group member;</li><li>gifts violating the current legislation of the Russian Federation&nbsp;/ national legislation of the countries of the Group members;</li><li>gifts in the form of hidden remuneration, which may result in receipt of any commercial preferences;</li><li>gifts directly or indirectly related to services under a contract for supply of a tourist product;</li><li>gifts in the form of vehicles and/or real property items.</li></ul><p><strong>Procedure for Actions Upon Receipt of Prohibited Gifts</strong><br /><br />If any gift, which is a prohibited gift, is suggested to a Bank employee, the employee should politely reject it and refer to the Bank’s internal policies. If a gift is given to a Bank employees without his/her knowledge, such gift must be returned by the Bank employee at his/her own expense to the donor.</p><p><!-- T004 --></p><p>* gifts received by Bank executives in the course of protocol events must be handed over to the Bank’s warehouse or bought out in accordance with the <a href=\"http://sbtatlas.sigma.sbrf.ru\"> Sberbank of Russia Group's Standard</a><a href=\"https://sbtatlas.sigma.sbrf.ru/wiki/pages/viewpageattachments.action?pageId=238421895\" target=\"_blank\"> for  Handling Gifts</a>.</p>",
+    "_id": "5cefb369a123007ffe192bdb",
+    "_parentId": "5cefb351a123007ffe192bda",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p>The participation in an educational event at the expense (in full or in part) of third parties shall only be allowed, if:</p><ul><li>the event is related to the goals of the Bank's activities and to the scope of the employee's functional responsibilities;</li><li>the event lasts less than one day and is held within the city, region (within the nearest cities, regions);</li><li>the employee of the Bank acts as s speaker on a gratuitous basis without accepting any benefits in the form of transportation and accommodation expenses associated with the participation in the educational event.</li></ul><p><strong>Is it possible to participate in an educational event that lasts more than 1 day?</strong></p><p>If the event lasts more than 1 day, or if the employee is provided with transportation, meals and accommodation at the expense of third parties, then it is necessary to obtain an approval of such participation by the compliance unit in the form of <a href='https://sbtatlas.sigma.sbrf.ru/wiki/pages/viewpageattachments.action?pageId=238422161' target='_blank'>a Notice of the Receipt of an Invitation to Participate in an Educational Event</a> sent to the e-mail address <a href='mailto:Gifts-OBI@mail.ca.sbrf.ru'>Gifts-OBI@mail.ca.sbrf.ru</a> / <a href='mailto:Gifts-OBI@sberbank.ru'>Gifts-OBI@sberbank.ru</a>. An invitation should not be accepted until the decision of the compliance unit on such matter is obtained.</p><p>The receipt/provision of invitations to participate in entertainment events is allowed, only subject to prior approval thereof by the compliance unit.</p><p><strong>How can the approval by the compliance unit be obtained?</strong></p><p>No later than 5 (five) business days prior to the proposed date of an event, you should deliver <a href='https://sbtatlas.sigma.sbrf.ru/wiki/pages/viewpageattachments.action?pageId=238422174' target='_blank'>a Notice of the Receipt/Provision of an Invitation to Participate in an Entertainment Event </a> to the e-mail address<a href='mailto:Gifts-OBI@mail.ca.sbrf.ru'> Gifts-OBI@mail.ca.sbrf.ru</a> / <a href='mailto:Gifts-OBI@sberbank.ru'>Gifts-OBI@sberbank.ru</a>. An invitation should not be accepted until the decision of the compliance unit on such matter is obtained.</p><p>Participation in a business breakfast/lunch/dinner shall be allowed, only if the purpose of such participation is the conduct of negotiations aimed at establishing and maintaining business relations.</p><p><strong>Has the Bank established any procedure for regulation and organization of business breakfasts/lunches/dinners?</strong></p><p>The accounting procedure for such expenses is established in the Bank’s internal documents on accountable cards.</p>",
+    "_id": "5cefb432a123007ffe192bdd",
+    "_parentId": "5cefb420a123007ffe192bdc",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p>In accordance with the legislation of the Russian Federation*, it shall be prohibited to give gifts, other than ordinary gifts with a value not exceeding 3 (three) thousand rubles to persons holding public offices of the Russian Federation, public offices of the federal entities of the Russian Federation, municipal offices, government officers, municipal officers, officers of the Bank of Russia in connection with their official position or in connection with their performance of official duties. The same limit on the value of gifts per calendar year applies to officers.</p><p>* The Civil Code of the Russian Federation, Article 575.</p><p><!-- T004 --></p>",
+    "_id": "5cefb495a123007ffe192bdf",
+    "_parentId": "5cefb47ba123007ffe192bde",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Public officials and officers include:",
+        "body": "<p>1. Government officers of the Russian Federation, of the federal entities of the Russian Federation, municipal officers – irrespective of the position held, in accordance with the legislation of the Russian Federation;<br /><br />2. Officers of the Bank of Russia;<br /><br />3. Any appointed or elected person holding any office in a legislative, executive, administrative or judicial body of the country of a Group member;<br /><br />4. Any other person performing any public function (including for a public agency or a public entity);<br /><br />5. Employees of organizations established by the state pursuant to laws;<br /><br />6. Any officer or employee of international organizations (e.g., UN, OECD, OPEC, etc.);<br /><br />7. Members of executive bodies of political parties;<br /><br />8. Candidates to positions in governmental bodies;<br /><br />9. Close relatives of the above mentioned person.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<ul><li>using confidential information for personal purposes; </li><li>performing during business hours any activities outside the Bank;</li><li>participating in share capital*, as well as working or holding office in governing bodies of competing organizations without the consent of the Compliance Committee of the Bank, except in cases when such activities have been assigned directly by the Bank / Group member in accordance with an established procedure;</li><li>representing the Bank / Group member in business relations and/or being involved in the completion of transactions with organizations, in the business of which an employee or his/her relative has a material personal interest different from the interests of the Bank / Group member;</li><li>being involved in internal investigations in respect of an employee’s relative;</li><li>being involved in carrying out control procedures and audit of areas of activities of the business unit, in which an employee’s relative works;</li><li>performing any function in the project**, in which an employee’s relative is responsible for the implementation of such project.</li></ul><p><!-- T004 --></p><p>* Except for organizations, whose shares are traded on organized securities markets, provided that such participation does not exceed 2% of the share capital.<br />** If it is impossible to exclude joint work of relatives within the same project  / business process, additional control mechanisms are established.</p>",
+    "_id": "5cefb5b9a123007ffe192be3",
+    "_parentId": "5cefb5a7a123007ffe192be2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p>In accordance with the EU Regulation No. 596/2014 on market abuse, members of the Supervisory Board, members of the Executive Board, Senior Vice-Presidents and persons closely associated with them must notify the issuer, as well as the EU authorized body (the Financial Conduct Authority) about transactions with the Bank’s financial instruments.</p>",
+    "_id": "5cefb624a123007ffe192be5",
+    "_parentId": "5cefb614a123007ffe192be4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Under the EU Regulation, closely associated persons include:",
+        "body": "<p>1. A spouse (partner) or a person with a similar status.<br /><br />2. Minor children.<br /><br />3. A legal person, trust/partnership, which is managed (directly or indirectly controlled) by a person performing managerial functions or by a spouse (partner or person having a similar status).<br /><br />4. Relatives who have shared the same household for at least one year on the date of completion of the transaction with the Bank’s financial instruments.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p><strong>Mandatory notice</strong> <strong>to the Financial Conduct Authority about transactions with the Bank’s financial instruments:</strong></p><p><!-- t508 --></p><ul><li>must be made no later than 12 PM Moscow time on the third business day from the date of completing such transaction  through the Financial Conduct Authority online service on the FCA official website – <a href=\"https://www.fca.org.uk/\" target=\"_blank\">https://www.fca.org.uk</a>;</li><li>A copy of the notice must be delivered to the Bank to the e-mail address <a href=\"mailto:EUreg@sberbank.ru\">EUreg@sberbank.ru</a> no later than 12 PM Moscow time on the third business day from the date of completing such transaction.</li></ul><p><!-- t508 --></p><p><strong>Who can I apply to, if I have questions concerning the application of the Russian and EU requirements in respect of insider dealing and personal transactions?</strong></p><p>You can apply to the Director of the Compliance Division L. Zalomikhina (<a href=\"mailto:LAZalomikhina@sberbank.ru\">LAZalomikhina@sberbank.ru</a>).</p>",
+    "_id": "5cefb66aa123007ffe192be7",
+    "_parentId": "5cefb65ba123007ffe192be6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p>The Bank has developed the measures to prevent misuse of insider information. The employees who are insiders of the Bank must follow a procedure for performing the transactions with securities, commodities and security and commodity derivatives. The procedure applies to the transactions made by an employee in his/her personal interests and at his/her own expense and/or by an employee on account of third parties by virtue of a power of attorney.<br /><br /><strong>Insiders</strong> <strong>are prohibited from:</strong></p><p><!-- t508 --></p><ul><li>using insider information when performing the transactions;</li><li>disclosing insider information to third parties;</li><li>conducting market manipulation.</li></ul>",
+    "_id": "5cefcfd7a123007ffe192be9",
+    "_parentId": "5cefcfaaa123007ffe192be8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p>When making personal <strong>transactions</strong> <strong>an insider</strong> <strong>of the Bank</strong> <strong>must act</strong> as follows:</p>",
+    "_id": "5cefd004a123007ffe192beb",
+    "_parentId": "5cefcffea123007ffe192bea",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "STEP 1",
+        "body": "<p><strong>Complete</strong> <a href=\"https://sbtatlas.sigma.sbrf.ru/wiki/pages/viewpageattachments.action?pageId=238422179\" target=\"_blank\">a Certification Form </a>on existence/absence of personal accounts and deliver it to the Compliance Division at the address: <a href=\"mailto:PAD@mail.ca.sbrf.ru\">PAD@mail.ca.sbrf.ru</a> or <a href=\"mailto:PAD@sberbank.ru\">PAD@sberbank.ru</a>:<br /><br />• in case of the initial entry of the insider into the List of insiders of the Bank;<br />• in case of changes in the information in respect of personal accounts.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "STEP 2",
+        "body": "<p>Prior to making a personal transaction:<br /><br />Check:<br />• applicability of the Sberbank of Russia Group's Standard for Personal Transactions Performed by Employees on Stock and Exchange Commodity Markets to the planned personal transaction with a financial instrument  (<a href=\"https://sberbank-sandbox.lms.sapsf.com/icontent_e/CUSTOM_ru/sberbank/self-managed/02_Ready/TS-000P-HST1827_IntroCompTOP_3/content/sco1/page2639406.html#11_9\" target='_blank'>operations that are subject and not subject to agreement with the Head of Compliance</a>);<br />• if there is any prohibition of the transactions with financial instruments included into the Restricted List;<br />! Because of the confidentiality of information, this List is available only on the internal portal of the Bank in the Alpha domain.<br />• if there are any <a href=\"https://sbtatlas.sigma.sbrf.ru/wiki/pages/viewpageattachments.action?pageId=238422187\" target=\"_blank\">Blackout Periods</a> for transaction with the Bank’s securities established for insiders of the Bank as a securities issuer.<br /><br />Obtain an approval of <a href=\"https://sbtatlas.sigma.sbrf.ru/wiki/pages/viewpageattachments.action?pageId=238422228\" target=\"_blank\">the Application</a> with the Director of Compliance of CA and send the agreed Application to the Compliance Division to the address: <a href=\"mailto:PAD@mail.ca.sbrf.ru\">PAD@mail.ca.sbrf.ru</a> or <a href=\"mailto:PAD@sberbank.ru\">PAD@sberbank.ru</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "STEP 3",
+        "body": "<p>Submit a report of the broker and/or depository to the Compliance Division at the address: <a href=\"mailto:PAD@sberbank.ru\">PAD@sberbank.ru</a> or <a href=\"mailto:PAD@mail.ca.sbrf.ru\">PAD@mail.ca.sbrf.ru</a>. The report should be provided in the form of an official report of the broker and/or depository electronically in time, no later than 10 working days from the beginning of the calendar month following the month during which the operation (operation) was conducted.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "STEP 4",
+        "body": "<p>Special requirements of the Federal Law No. 224-FZ<br /><br />A Bank insider is obliged to <a href=\"https://sbtatlas.sigma.sbrf.ru/wiki/pages/viewpageattachments.action?pageId=238422204\" target=\"_blank\">notify</a> the Compliance Division about completed personal transactions within 10 business days from the date when they were made in the following cases:<br /><br />• in case of having access to insider information of the Bank as a securities issuer: about transactions with the Bank’s securities and derivative financial instruments in respect of such securities;<br />• in case of having access to insider information of entities that included the Bank into their insider lists (hereinafter, the BITL list): about transactions with financial instruments, foreign currency and (or) commodities of such entities from the BITL List.<br />! Because of the confidentiality of information, this List is available only on the internal portal of the Bank in the Alpha domain.<br /><br />Notices on completed transactions must be sent to the following address: 19, Vavilova St., Moscow, the Russian Federation, 117997 marked \"to the attention of the Compliance Division (412)\" or <a href=\"mailto:insider@mail.ca.sbrf.ru\">insider@mail.ca.sbrf.ru</a> or to <a href=\"mailto:insider@sberbank.ru\">insider@sberbank.ru</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "STEP 5",
+        "body": "<p>Special requirements of the EU regulation on market abuse*:<br /><br />A Bank insider included in the list of persons performing managerial functions in the Bank, is obliged to:<br /><br />• notify the Financial Conduct Authority, a UK authorized regulatory body (hereinafter, the FCA), through a special service on the FCA official website, of each transaction related to the financial instruments of the Bank no later than 12 PM Moscow time on the 3d business day from the date of completing such transaction;<br />• deliver to the Bank a copy of the notice sent to the FCA no later than PM pm Moscow time on the third business day from the date of completing such transaction at the address: <a href=\"mailto:EUreg@sberbank.ru\">EUreg@sberbank.ru</a>.</p><p>! The Bank discloses the information provided by the Manager in the transaction notice on the websites of the London and Frankfurt exchanges.</p><p>* The requirements apply to transactions made at own expense in respect of shares, debt instruments, derivatives and other financial instruments related to the Bank.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p>* Clauses 1.5 and 1.6 of Sberbank of Russia Group's Standard for Personal Transactions Performed by Employees on Stock and Exchange Commodity Markets</p>",
+    "_id": "5cefd182a123007ffe192bef",
+    "_parentId": "5cefd163a123007ffe192bee",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Personal  transactions (transactions) with financial instruments subject to agreement with the Compliance Division:",
+        "body": "<p>• issuing securities of Russian issuers (shares, bonds, Russian depositary receipts) and derivative financial instruments on them;<br />• securities of foreign issuers, certifying the rights to Russian equity securities;<br />• foreign securities and derivative financial instruments on them;<br />• goods/commodities admitted to circulation on the organized market, and derivative financial instruments on them;<br />• Contracts for difference (CFD / Contracts for Difference) with respect to equity securities, goods/commodities.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Personal transactions (transactions) with financial instruments not subject to agreement with the Compliance Division:",
+        "body": "<p>• repo transactions;<br />• operations of a loan secured by securities;<br />• federal loan bonds (OFZ) and derivative financial instruments on them;<br />• state bonds of the external bonded loan of the Russian Federation;<br />• subfederal bonds of the Russian Federation;<br />• municipal bonds;<br />• sovereign eurobonds of third countries;<br />• units of investment funds (mutual fund, ETF) admitted for circulation on the organized market, and derivative financial instruments on them;<br />• currency and derivative financial instruments;<br />• indices and derivative financial instruments on them;<br />• Contracts for difference (CFD / Contracts for Difference) with respect to currency, crypto-currency;<br />• crypto-currencies and tokens (Bitcoin, Ethereum, Litecoin, Primecoin, etc.);<br />• credit default swaps (CDS).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cefd1f1a123007ffe192bf1",
+    "_parentId": "5cefd1dba123007ffe192bf0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Set No. 1 Dissemination of misleading information",
+        "body": "<p>The price of, demand for, supply or trading volume of a financial instrument, foreign currency and/or commodity have, as a result of information dissemination, declined from the level, or been maintained at the level materially different from the level that would have formed without the dissemination of such information (a person understands that the information is not true to the fact, wishes the dissemination thereof and the occurrence of the below consequences (specific intent)).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Set No. 2 Transactions by prior arrangement",
+        "body": "<p>Completion of transactions (>1) through anonymous addressless tenders based on a prior arrangement between the participants, their employees or other persons, at the expense of which or in the interests of which the tender participants (customers of the tender participants or other persons) act.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Set No. 3 Transactions made at the expense of one person",
+        "body": "<p>Completion through anonymous addressless tenders within a trading day of transactions  (>1), under which obligations of each of the parties are performed at the expense of one person (tender participant, its customer or another person).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Set No. 4 Cross trade",
+        "body": "<p>Tendering bids at the expense or in the interests of one person, as a result of which two or more opposite bids (>1) appear in the anonymous addressless tender at the same time, where the purchase price is higher than or equal to the sale price.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Set No. 5 Pegging of prices",
+        "body": "<p>Completion of multiple (>1) transactions within a trading day at the expense (in the interests) of one person, as a result of which the price has been maintained at the level materially different from the level that would have formed without such transactions (there must be a purpose to circumvent about the price of a financial instrument, foreign currency and (or) commodity (specific intent)).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Set No. 6 Exchange trend formation",
+        "body": "<p>Tendering bids (>1) at the expense (in the interests) of one person that, at the time of being tendered, have the highest purchase price or the lowest selling price (best bids) (the transactions changing the market price must be completed for the purpose of subsequently making opposite transactions (existence of a specific intent) through anonymous, as well as addressless tenders).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Set No. 7 Failure to perform transactions",
+        "body": "<p>Multiple (>1) failure to perform obligations under the transactions made through on-exchange trading (there must be a specific intent: lack of intent to perform the transactions made). The above actions are not recognized as manipulation, if the obligations under the relevant transactions were terminated on the grounds provided for by the rules of the market operator and (or) clearing institution.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Exceptions   ",
+    "displayTitle": "",
+    "body": "<p><strong>Exceptions</strong></p><p>Manipulation does not include the actions formally having the signs of the manipulation sets No. 2 to 6, which are aimed at maintaining:</strong><br /><br />• prices of issue-grade securities in connection with the placement and trading of securities performed by tender participants pursuant to an agreement with the issuer;<br />• prices in connection with a buy-out, acquisition of shares, redemption of investment units of  closed-end funds in cases stipulated by federal laws;<br />• prices of, demand for, supply or trading volume of a financial instrument, foreign currency and/or commodity and are carried out by tender participants pursuant to an agreement, in which one of the parties is the market operator (market makers and specialists).</p>",
+    "_id": "5cefd283a123007ffe192bf3",
+    "_parentId": "5cefd274a123007ffe192bf2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cefd326a123007ffe192bf5",
+    "_parentId": "5cefd307a123007ffe192bf4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Blocking sanctions",
+        "body": "<p>Sanctions in respect a list of persons, any interaction/operations/transactions with which are prohibited (in the USA — the Specially Designated Nationals (SDN) List, in the EU — the list of persons whose accounts are subject to asset freeze, in Russia — persons named in schedules to decrees of the President / Government of the Russian Federation).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Sectoral sanctions",
+        "body": "<p>Sanctions in respect a list of persons in certain sectors of economy, operations with which are restricted (in the USA — the Sectoral Sanctions (SSI) List, in the EU — the list of persons, operations with which are restricted). Sectoral sanctions in respect of the financial sector introduce a restriction on the provision of funding for a period longer than an established term. At present, such term for most companies and banks, including Sberbank, constitutes 30 days.* Sectoral sanctions in respect of oil and gas, energy and defense sectors of economy restrict the supply of certain groups of commodities and technologies.<br /><br />* This period is applicable from November 28, 2017, earlier, before this date, under the US sanctions regime, there was a restriction on the provision of funding for more than 30 days.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Territorial sanctions ",
+        "body": "<p>The establishment of bans/restrictions on carrying out certain types of activities within a particular territory (e.g., in the Republic of Crimea, Sevastopol).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Export control ",
+        "body": "<p>Restrictions on export and re-export of commodities, including military hardware, subject to dual-use commodity control and certain other commodities.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "\"Secondary\" sanctions ",
+        "body": "<p>Sanctions provided for by the U.S. legislation that may be applied to non-U.S. companies (e.g., for completion of certain types of significant transactions with Iran).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p><img src='course/ru/assets/united-states.png' width='180' height='118' class='leftimg'>US persons are prohibited <strong>from entering into any types of transactions that envisage the provision of funding</strong> <strong>to the Bank</strong> <strong>in any form for a period of</strong> <strong>14 days*</strong> <strong>or more</strong>, including:</p><ul class='column'><li>completion of transactions directly or indirectly related to operations with new debt instruments with a term to maturity of 14 days or more;</li><li>completion of transactions with newly issued shares.</li></ul><p><!-- T004 --></p><p>* This period is applicable from November 28, 2017, earlier, before this date, under the US sanctions regime, there was a restriction on the provision of funding for more than 30 days.</p>",
+    "_id": "5cefd42ea123007ffe192bfb",
+    "_parentId": "5cefd3cea123007ffe192bf6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p><img src='course/ru/assets/european-union.png' width='180' height='118' class='leftimg'><strong>European companies and citizens are prohibited from making the</strong> <strong>following transactions with the</strong> <strong>Bank</strong>:</p><ul class='column'><li>transactions directly or indirectly related to the shares or bonds (similar instruments) issued by the entities covered by the sanctions after September 12, 2014 with a maturity of 30 days or more;</li><li>transactions directly or indirectly related to money market instruments, such as commercial promissory notes, certificates of deposit of the Bank with a maturity of 30 days or more, which were issued after September 12;</li><li>provision of credits (loans) to the Bank for a term of 30 days or more.</li></ul>",
+    "_id": "5cefd47fa123007ffe192c00",
+    "_parentId": "5cefd450a123007ffe192bfc",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p>The US Law \"On Countering America’s Adversaries through Sanctions Act\" <strong>(CAATSA</strong><strong>)</strong> adopted on August 2, 2017, established the extraterritorial principle of sanctions on the \"Ukraine\" program. Thus, non US persons shall take into account the risks of applying sanctions (including those blocking them) for violating US sanctions under the \"Ukraine\" program. According to article 228 of this law and in accordance with official explanations, deals with subjects of sectoral sanctions (including Sberbank) will be considered as prohibited in the following cases:</p><ul><li>if an American person participated in the transaction with the subject of sectoral sanctions when such person should apply to the OFAC for permission (license);</li><li>the transaction contains signs of deliberate circumvention/deception (for example, concealment of participants or objectives of the transaction, other actions are performed in circumvention of sanctions);</li><li>the significance of the transaction, when the significance is evaluated by the following 7 factors:<br />1) the size, number and frequency of transactions;<br />2) the nature of the transaction;<br />3) whether the management is aware of whether the transaction is typical for the organization;<br />4) linking the transaction to the subjects of the blocking sanctions;<br />5) the relevance and impact of thetransaction on the organization's statutory goals;<br />6) whether the transaction contains unfair practices that are misleading;<br />7) any other factor that an authorized US Treasury official deems appropriate.</li></ul>",
+    "_id": "5cefd4c1a123007ffe192c02",
+    "_parentId": "5cefd4aea123007ffe192c01",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Other countries that adopted a decision to apply economic sanctions",
+    "displayTitle": "",
+    "body": "<p><strong>Other countries that adopted a decision to apply economic sanctions&nbsp;</strong></p>",
+    "_id": "5cefd72aa123007ffe192c0b",
+    "_parentId": "5cefd71aa123007ffe192c0a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a3422192cb304ea893046cde2971cad7ec121cd3.png",
+      "small": "course/en/assets/a3422192cb304ea893046cde2971cad7ec121cd3.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cefd88aa123007ffe192c10",
+    "_parentId": "5cefd873a123007ffe192c0f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "The Unites States and European Union sanctions relating to the \"Ukraine\" program",
+        "body": "<p>In March 2014, the EU and the USA introduced blocking sanctions against persons related to the former government of Ukraine, and then against Russian legal entities and individuals due to the situation in the South-East of Ukraine and in Crimea. In September 2014, the sanctions list was significantly expanded*.<br /><br />The specific feature of the sanctions has been the introduction of special restrictions in respect of representatives of certain sectors of the Russian economy, namely: financial, defense, fuel and energy sectors (sectoral sanctions).<br /><br />In December 2014, the U.S. President signed a Decree on introduction of sanctions in respect of enterprises acting in the territory of the Republic of Crimea and in Sevastopol, which restrict commercial and other activities in the peninsula for U.S. companies.<br /><br />This is a unique set of restrictive measures that does not form part of blocking, nor sectoral sanctions, and is intended to restrict business activities in the peninsula.<br /><br />In December 2014, additional EU sanctions were enacted against Crimea. Like the U.S. sanctions, they are intended to restrict business activities in the peninsula, to restrict investments in Crimean infrastructure and economy by EU companies. Certain other countries joined the sanctions.<br /><br />On August 2, 2017, the USA adopted the Law \"On Countering America’s Adversaries through Sanctions Act\" (CAATSA), which established the extraterritorial principle ** of sanctions against the 'Ukraine' program, introduced new grounds for the application of sanctions, ordered the US President the time frame for imposing such sanctions according to a certain list (including blocking sanctions) and made it impossible for the President of the United States to abolish previously imposed sanctions on the \"Ukraine\" program without the approval of the US Congress.<br /><br />* The sanctions apply not only to the persons named in the sanction lists, but to companies controlled by them as well (where the share of direct or indirect ownership is 50% or more).<br />** For example, previously only US individuals had no right to conclude transactions with individuals — SDN entities. Now, sanctions can be extended to citizens of any state or any organization for cooperation with SDN entities / transactions with them in any currency.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": " Sanctions against the Republic of Belarus",
+        "body": "<p>Sanctions against public officials were first introduced by the EU in 2004 due to political developments in Belarus. The sanctions list was subsequently expanded. In 2011, a prohibition was introduced on the sale, supply, transfer or export to Belarus from the EU of weapons and material resources related to weapons. In October 2015, after release of some prisoners by Minsk and presidential elections in the country, the EU significantly eased the sanction regime. At present, sanctions have been lifted for all actors from the list, except four persons, who are considered by the EU to be personally liable for disappearance of people.</p><p><br />As regards the USA, in 2006, they introduced sanctions that provided for the blocking of property and assets of ten executives of the Belarus Government, including the country’s President. Since then, the decree has been updated each year. The sanctions were extended to cover certain companies controlled by the government. In October 2015, the USA issued a General License in respect of nine Belarusian companies, which permits transactions that had been prohibited earlier. This License has been extended until October 25, 2019.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Sanctions against Iran",
+        "body": "<p>Sanctions against Iran have been in effect for a long period of time. The sanctions were introduced by the UN, the USA and the EU in response to certain events that took place in Iran. The toughening of sanctions, especially by the USA, was connected to the nuclear programme of Iran.<br /><br />The prohibitive measures introduced an absolute ban for U.S. persons and persons controlled by them on any transactions with Iran, as well as a tougher control of the financial institutions dealing with Iranian persons. The sanctions applied to everyone who was cooperating with any enterprises from the fuel, petrochemical or gas sector of Iran, or helping the country’s oil and gas industry to acquire goods, services, technologies or infrastructure elements. The restrictions were also introduced by the EU and included a ban on export of technologies and investments to the oil and gas industry of Iran. From 2012, almost all banks of Iran were cut off from the financial data transmission system SWIFT.<br /><br />On January 16, 2016, as a result of approval and adoption of Joint Comprehensive Plan of Action (hereinafter referred to as JCPOA) the sanctions related to the nuclear programme of Iran were lifted by the UN, the USA and the EU The relaxation was least of all for the U.S. sanctions. But on May 8, 2018, the new USA President decided to unilaterally withdraw the US from JCPOA and gradually introduce previously canceled USA sanctions against Iran. By the end of 2018, us sanctions against Iran had been fully restored and strengthened.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Sanctions against North Korea",
+        "body": "<p>Sanctions against North Korea were introduced by the UN and the EU from 2006. The sanctions were enacted after nuclear tests and launch of ballistic missiles. Global U.S. sanctions related to nuclear tests were introduced from 2008. In January 2016, after new tests, the UN Security Council adopted the resolution No. 2270, which materially toughens the international sanction regime against North Korea. The measures stipulated by the resolution introduce bans on military and technical, trade and economic, banking and financial cooperation with North Korea. It is prohibited to acquire from North Korea coal, iron and iron ore, gold, titanium and vanadium ores, rare-earth minerals. It is prohibited to supply jet fuel to North Korea, except the refueling of North-Korean civil aircrafts in the territory of third countries. Member states are prescribed to freeze the assets of the institutions of the government or the Workers’ Party of North Korea, if the states have information that such assets are related to North Korean nuclear missile activities.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p>In his/her activities performed in the interests and on behalf of Sberbank, an employee, who is a citizen, resident of the USA, a EU member state or another country (jurisdiction) that has introduced economic sanctions applicable to such person, or who works for the Bank in the said countries (jurisdictions) under an employment contract with Sberbank, must refrain from participation in any activity that may, in the conditions of the introduced economic sanctions, be related to sanctional prohibitions applicable to him/her.<br /><br />Such requirement is due to the fact that the prohibitions established by the economic sanctions apply, inter alia, to individuals — citizens, residents of the country (jurisdiction), which introduced the sanctions, as well as to persons having a place of work in such country (jurisdiction).<br /><br />In this regard, the compliance unit prepared recommendations that are designed to contribute to the observance by the above mentioned categories of Bank employees of sanctional prohibitions applicable to them, in particular:</p><p><!-- t508 --></p><ul><li>refrain from being present in the premises, participating in a conference, meeting, discussion by any other means (including by means of telephone or video communication) in the course of considering any matters that may, in the conditions of the introduced economic sanctions, be related to sanctional prohibitions applicable to the employee;</li><li>refrain from approving (by putting his/her signature or otherwise) or refusing to approve any resolutions or minutes of meetings, at which any matters were considered that may, in the conditions of the introduced economic sanctions, be related to sanctional prohibitions applicable to the employee;</li><li>refrain from approving (by putting his/her signature or otherwise) or refusing to approve any proposals, documents or activities, including contracts and agreements, that may, in the conditions of the introduced economic sanctions, be related to sanctional prohibitions applicable to the employee, or to any matters that may be related to such sanctions;</li><li>refrain from giving any recommendations or comments on any matters that may, in the conditions of the introduced economic sanctions, be related to sanctional prohibitions applicable to the employee;</li><li>inform his/her superiors and subordinates participating in the consideration of matters that may, in the conditions of the introduced economic sanctions, be related to sanctional prohibitions applicable to the employee, about the impossibility for him/her to work on the said matter;</li><li>refrain from public speeches or statements on any matters that may, in the conditions of the introduced economic sanctions, be related to sanctional prohibitions applicable to the him/her.</li></ul><p><!-- T004 --></p><p>The list of recommendations is not exhaustive, the above mentioned categories of employees bear personal responsibility for the compliance with legal requirements, including the taking of reasonable measures to monitor changes in the sanctional prohibitions applicable to them in the conditions of the introduced economic sanctions, and the review of such changes.</p>",
+    "_id": "5cefd90ea123007ffe192c12",
+    "_parentId": "5cefd8fba123007ffe192c11",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p>The sectoral sanctions applicable to Sberbank generally do not restrict the possibility of interaction with its employees and, in particular, do not prevent Bank employees from attending international forums, conferences (events in other format) in the interests or on behalf of the Bank.<br />At the same time, the sanctions applicable to Sberbank do not restrict its ability to pay for the participation of its employees in the above mentioned events or to act as their sponsor.</p>",
+    "_id": "5cefd95ca123007ffe192c14",
+    "_parentId": "5cefd938a123007ffe192c13",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Audio podcast",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cf0887ba123007ffe192c1f",
+    "_parentId": "5cf08862a123007ffe192c1e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "You can listen to this section in the audio podcast",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/audio1-en.mp3",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": [
+      ]
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Audio podcast",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cf08966a123007ffe192c23",
+    "_parentId": "5cf08958a123007ffe192c22",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "You can listen to this section in the audio podcast",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/audio2-en.mp3",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": [
+      ]
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Audio podcast",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cf08995a123007ffe192c26",
+    "_parentId": "5cf08988a123007ffe192c25",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "You can listen to this section in the audio podcast",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/audio3-en.mp3",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": [
+      ]
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Audio podcast",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cf089c2a123007ffe192c29",
+    "_parentId": "5cf089b1a123007ffe192c28",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "You can listen to this section in the audio podcast",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/audio4-en.mp3",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": [
+      ]
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Audio podcast",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cf089eea123007ffe192c2c",
+    "_parentId": "5cf089e1a123007ffe192c2b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "You can listen to this section in the audio podcast",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/audio5-en.mp3",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": [
+      ]
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Audio podcast",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cf08a16a123007ffe192c2f",
+    "_parentId": "5cf08a09a123007ffe192c2e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "You can listen to this section in the audio podcast",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/audio6-en.mp3",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": [
+      ]
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Audio podcast",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cf08a3ca123007ffe192c32",
+    "_parentId": "5cf08a2ea123007ffe192c31",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "You can listen to this section in the audio podcast",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/audio7-en.mp3",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": [
+      ]
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Audio podcast",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cf08a62a123007ffe192c35",
+    "_parentId": "5cf08a51a123007ffe192c34",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "You can listen to this section in the audio podcast",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/audio8-en.mp3",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": [
+      ]
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cf7e5dba123007ffe192d3b",
+    "_parentId": "5cf7e5c9a123007ffe192d3a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "To home page",
+        "ariaLabel": "To home page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Next >",
+        "ariaLabel": "Next Page",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "",
+    "displayTitle": "",
+    "body": "<p><strong>Congratulations!</strong></p><p>You have completed the «Introduction to compliance for senior managers» course. From this course you've learned about the basic rules of compliance. Follow these rules in your work to prevent the appearance of compliance risks and their consequences.</p><p>You can download the course to your mobile device in .pdf by clicking on the menu icon in the upper right corner.</p>",
+    "_id": "lastPage-article-component1",
+    "_parentId": "lastPage-article-block1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Навигация",
+    "displayTitle": "",
+    "body": "",
+    "_id": "lastPage-article-component2",
+    "_parentId": "lastPage-article-block2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "На главную",
+        "ariaLabel": "На главную",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Next >",
+        "ariaLabel": "Next Page",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close course",
+        "ariaLabel": "Close course",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  }
+]

@@ -1,0 +1,179 @@
+{
+  "type":"object",
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "id": "http://jsonschema.net",
+  "required":false,
+  "globals": {
+  },
+  "properties":{
+    "pluginLocations": {
+      "type":"object",
+      "required":true,
+      "properties":{
+        "config": {
+          "type":"object"
+        },
+        "course": {
+          "type":"object",
+          "properties": {
+            "_canNotifyContent": {
+              "type": "object",
+              "required": false,
+              "legend": "Can Notify Content",
+              "properties": {
+                "_isEnabled": {
+                  "type": "boolean",
+                  "required": false,
+                  "default": true,
+                  "title": "Enable the can notify extension for this course?",
+                  "inputType": {
+                    "type": "Boolean",
+                    "options": [true, false]
+                  }
+                }
+              }
+            }
+          }
+        },
+        "contentobject": {
+          "type":"object"
+        },
+        "article": {
+          "type":"object",
+          "properties": {
+            "_canNotifyContent": {
+              "type": "object",
+              "required": false,
+              "legend": "Can Notify Content",
+              "properties": {
+                "_items" : {
+                  "type": "array",
+                  "required": false,
+                  "title": "Items",
+                  "items": {
+                    "type": "object",
+                    "required": false,
+                    "properties": {
+                      "_id": {
+                        "type": "string",
+                        "required": true,
+                        "default": "",
+                        "title": "Notify id",
+                        "inputType": "Text",
+                        "validators": ["required"]
+                      },
+                      "title": {
+                        "type": "string",
+                        "default": "",
+                        "inputType": "Text",
+                        "validators": [],
+                        "translatable": true
+                      },
+                      "body": {
+                        "type": "string",
+                        "default": "",
+                        "inputType": "TextArea",
+                        "validators": [],
+                        "translatable": true
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "block": {
+          "type":"object",
+          "properties": {
+            "_canNotifyContent": {
+              "type": "object",
+              "required": false,
+              "legend": "Can Notify Content",
+              "properties": {
+                "_items" : {
+                  "type": "array",
+                  "required": false,
+                  "title": "Items",
+                  "items": {
+                    "type": "object",
+                    "required": false,
+                    "properties": {
+                      "_id": {
+                        "type": "string",
+                        "required": true,
+                        "default": "",
+                        "title": "Notify id",
+                        "inputType": "Text",
+                        "validators": ["required"]
+                      },
+                      "title": {
+                        "type": "string",
+                        "default": "",
+                        "inputType": "Text",
+                        "validators": [],
+                        "translatable": true
+                      },
+                      "body": {
+                        "type": "string",
+                        "default": "",
+                        "inputType": "TextArea",
+                        "validators": [],
+                        "translatable": true
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "component": {
+          "type":"object",
+          "properties": {
+            "_canNotifyContent": {
+              "type": "object",
+              "required": false,
+              "legend": "Can Notify Content",
+              "properties": {
+                "_items" : {
+                  "type": "array",
+                  "required": false,
+                  "title": "Items",
+                  "items": {
+                    "type": "object",
+                    "required": false,
+                    "properties": {
+                      "_id": {
+                        "type": "string",
+                        "required": true,
+                        "default": "",
+                        "title": "Notify id",
+                        "inputType": "Text",
+                        "validators": ["required"]
+                      },
+                      "title": {
+                        "type": "string",
+                        "default": "",
+                        "inputType": "Text",
+                        "validators": [],
+                        "translatable": true
+                      },
+                      "body": {
+                        "type": "string",
+                        "default": "",
+                        "inputType": "TextArea",
+                        "validators": [],
+                        "translatable": true
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

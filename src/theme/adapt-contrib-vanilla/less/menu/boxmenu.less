@@ -1,0 +1,224 @@
+.menu {
+  background: @background-color;
+
+  .menu-container {
+    width: 100%;
+  }
+
+  .menu-container-inner {
+    padding: 0;
+  }
+
+  .menu-header {
+    margin-bottom: -30px;
+    background-color: @background-color-inverted;
+  }
+
+  .menu-header-inner {
+    max-width: @device-width-large;
+    margin: auto;
+    padding: 150px 0;
+    text-align: center;
+
+    @media all and (max-width: (@device-width-large + 20px)) {
+      padding: (@menu-header-padding-top / 2) 20px @menu-header-padding-bottom;
+    }
+
+    @media all and (max-width: (@device-width-small + 20px)) {
+      padding: 20px 10px 20px;
+    }
+  }
+
+  .menu-title {
+    margin: @menu-block-title-margin-top 0 @menu-block-title-margin-bottom;
+    color: @foreground-color-inverted;
+    line-height: 100%;
+  }
+
+  .menu-title-inner {
+    font-size: 40px;
+
+    @media screen and (max-width: @device-width-small) {
+      font-size: 24px;
+    }
+  }
+
+  .menu-body {
+    margin: @menu-block-body-margin-bottom 0;
+    padding-left: 30px;
+    color: @foreground-color-inverted;
+
+    a {
+      color: @primary-color;
+    }
+  }
+
+  .menu-item {
+    margin: 0 auto 30px;
+
+    &.nth-child-even {
+      .menu-item-inner {
+        margin-left: 2%;
+
+        .dir-rtl & {
+          margin-right: 2%;
+        }
+      }
+    }
+
+    &.nth-child-odd {
+      .menu-item-inner {
+        margin-right: 2%;
+
+        .dir-rtl & {
+          margin-left: 2%;
+        }
+      }
+    }
+  }
+
+  .menu-item-inner {
+    position: relative;
+    max-width: (@device-width-large / 2) - (@item-padding * 2);
+    min-height: 505px;
+    margin: 0 auto auto;
+    padding: 0;
+    background-color: white;
+    color: black;
+    border: 1px solid @gray;
+    box-sizing: border-box;
+    box-shadow: none;
+  }
+
+  .menu-item-title {
+    margin: @menu-block-title-margin-top 0 @menu-block-title-margin-bottom;
+    padding: 20px 50px 0;
+    .item-title;
+    font-size: 18px;
+  }
+
+  .menu-item-body {
+    margin-bottom: @menu-block-body-margin-bottom;
+    padding: 0;
+  }
+
+  .menu-item-instruction {
+    margin-bottom: @menu-block-instruction-margin-bottom;
+    padding: 0;
+  }
+
+  .page-level-progress-menu-item {
+    width: 70px;
+    height: 10px;
+    float: none;
+    padding: 0;
+    position: absolute;
+    right: 45px;
+    bottom: 48px;
+
+    .dir-rtl & {
+      left: (@menu-block-padding-left+4);
+      right: auto;
+    }
+  }
+
+  .page-level-progress-menu-item-indicator {
+    width: 70px;
+    height: 10px;
+    background-color: transparent;
+    border: 1px solid @primary-color;
+    border-radius: 25px;
+
+    .page-level-progress-menu-item-indicator-bar {
+      height: 10px;
+    }
+  }
+
+  .menu-item-duration {
+    position: absolute;
+    right: 45px;
+    bottom: 68px;
+    float: none;
+
+    .dir-rtl & {
+      float: none;
+      left: (@menu-block-padding-left);
+      right: auto;
+    }
+  }
+
+  .menu-item-button {
+    padding: 0 45px 45px;
+
+    button {
+      padding: @button-padding-top (@button-padding-right*2) @button-padding-bottom (@button-padding-left*2);
+      color: @white;
+      font-weight: 600;
+      background-color: @secondary-color;
+      border-radius: 5px;
+
+      &:hover {
+        background-color: @button-color-hover;
+      }
+
+      .disabled, &:disabled {
+        background-color: @gray;
+      }
+    }
+  }
+}
+
+@media all and (max-width: @device-width-medium) {
+
+  .menu {
+    .menu-inner {
+      padding: 0;
+    }
+
+    .menu-title-inner {
+      padding: 0;
+    }
+
+    .menu-body-inner {
+      padding: 0;
+    }
+
+    .menu-item {
+      &.nth-child-even,
+      &.nth-child-odd {
+        .menu-item-inner,
+        .dir-rtl & .menu-item-inner {
+          margin: 0 auto;
+        }
+      }
+    }
+  }
+}
+
+.menu-item-graphic img {
+  width: 100%
+}
+
+@media all and (max-width: 540px) {
+  .menu-header-inner:after {
+    display: none !important
+  }
+
+  .menu-body {
+    box-sizing: border-box;
+    padding: 0 15px !important
+  }
+
+  .menu .menu-item {
+    padding: 0 10px;
+    box-sizing: border-box
+  }
+}
+
+.menu-body-inner, .menu-item-button button {
+  font-size: 16px
+}
+
+.menu-item-title {
+  font-size: 18px;
+}

@@ -1,0 +1,108 @@
+// Drawer styling
+// ==============
+
+.drawer {
+  color: @drawer-item-text-color;
+
+  .drawer-toolbar {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    border-bottom: 1px solid @drawer-border-color;
+  }
+
+  .drawer-toolbar .icon {
+    color: @gray;
+    padding: @navigation-padding;
+    .transition-color;
+
+    .no-touch &:hover {
+      color: @primary-color;
+    }
+  }
+
+  .drawer-holder {
+    padding-top: ((@navigation-padding * 2) + @icon-size + 1);
+  }
+
+  .drawer-inner {
+    background-color: @white;
+    border-left: 5px solid @light-gray;
+
+    .dir-rtl & {
+      border-left: inherit;
+      border-right: 5px solid @drawer-border-color;
+    }
+  }
+
+  .drawer-item {
+    .drawer-item-title {
+      .sub-title;
+    }
+
+    .drawer-item-description {
+      font-size: @body-text-font-size;
+      line-height: @body-text-line-height;
+    }
+
+    .drawer-item-open {
+      border-bottom: 1px solid @drawer-item-color;
+      color: @drawer-item-text-color;
+      text-decoration: none;
+      width: 100%;
+
+      .no-touch &:hover {
+        background-color: @drawer-item-color-hover;
+        color: @drawer-item-text-color-hover;
+      }
+    }
+  }
+
+  .drawer-item-open {
+    padding: @drawer-item-padding-top @drawer-item-padding-right @drawer-item-padding-bottom @drawer-item-padding-left;
+    .transition-background-color;
+
+    //stops rollover of drawar items on touch devices
+    .no-touch &:hover {
+      background-color: @drawer-color;
+    }
+  }
+}
+
+.drawer-holder {
+  display: flex;
+  flex-direction: column-reverse
+}
+
+.drawer, .drawer .drawer-item, .drawer .page-level-progress-item-title {
+  background-color: #ffff
+}
+
+.drawer .drawer-item:hover, .no-touch .drawer .drawer-item .drawer-item-open:hover {
+  background-color: @primary-color;
+  color: white
+}
+
+.drawer .drawer-item .drawer-item-open {
+  outline: none;
+  color: @black
+}
+
+.no-touch .drawer.has-toc .toc-item-title:hover:not(.disabled), .drawer.has-toc .toc-item-title.disabled {
+  background-color: @primary-color;
+  color: white;
+}
+
+.drawer .drawer-item:hover button, .no-touch .drawer .drawer-item .drawer-item-open:hover button {
+  color: white;
+}
+
+.drawer .drawer-item .drawer-item-open:hover {
+  color: white;
+}
+
+@media screen and (max-width: 450px) {
+  .drawer .drawer-item .drawer-item-title, .glossary-item button {
+    font-size: 18px
+  }
+}

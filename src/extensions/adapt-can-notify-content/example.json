@@ -1,0 +1,13 @@
+// Inside content (article, block, component)
+"_canNotifyContent": {
+"_items": [
+{
+"_id": "1",
+"title": "Notify 1",
+"body": "<p>Some body text</p>"
+}
+]
+}
+
+// Inside body of content
+<p><span class="can-notify-content" data-can-notify-content-id="1">Open notify 1</span></p>

@@ -1,0 +1,75 @@
+<div class="component-inner notify-imagegrid-inner" role="region"
+     aria-label="{{_globals._components._notify-imagegrid.ariaRegion}}"
+     {{#if _globals._components._notify-imagegrid.ariaRegion}}tabindex="0"{{/if}}>
+    {{> component this}}
+    <div class="component-widget notify-imagegrid-widget">
+
+        <div class="notify-imagegrid-grid">
+            <div class="notify-imagegrid-grid-inner clearfix">
+
+                {{#each _items}}
+                    <div class="notify-imagegrid-grid-item {{_itemClasses}}">
+                        <div class="{{../_id}}-fbnotify a11y-ignore" aria-hidden="true" tabindex="-1"
+                             style="display:none;">********** [ IMAGE GRID ITEM CONTENT ] **********
+                        </div>
+                        <div class="base notify-imagegrid-item-image">
+                            <img src="{{_graphic.src}}" tabindex="0"
+                                 alt="{{#if _graphic.alt}} {{_graphic.alt}} {{/if}}{{#if
+                                         _isVisited}} {{../_globals._accessibility._ariaLabels.visited}}.{{/if}}"/>
+                        </div>
+
+                        {{#if _graphic.title}}
+                            <div class="notify-imagegrid-item-title">
+                                <div class="notify-imagegrid-item-title-inner"
+                                     {{#if _graphic.gridmessage}} {{else}}tabindex="0"{{/if}}>
+                                    {{{_graphic.title}}}
+                                </div>
+                            </div>
+                        {{/if}}
+
+                        {{#if _graphic.gridmessage}}
+
+                            <div class="howmanygrid" style="display:none"></div>
+                            <script>
+                                $('img[src="{{_graphic.src}}"]').addClass('img2click');
+                                $('img[src="{{_graphic.src}}"]').on('click', function () {
+                                    var $gridmsg = '{{{_graphic.gridmessage}}}';
+                                    require('coreJS/adapt').trigger('notify:popup', {
+                                        title: '{{{_graphic.title}}}',
+                                        body: $gridmsg
+                                    });
+                                    return false;
+                                });
+                            </script>
+                            <div class="{{../_id}}-fbnotify a11y-ignore" aria-hidden="true" tabindex="-1"
+                                 style="display:none;">[ Image Grid Notify Title ] = {{{_graphic.title}}}
+                                <div class="{{../_id}}-fbnotify a11y-ignore" aria-hidden="true" tabindex="-1"
+                                     style="display:none;">[ Image Grid Notify Body ] = {{{_graphic.gridmessage}}}</div>
+                            </div>
+
+                        {{/if}}
+
+                    </div>
+                {{/each}}
+
+            </div>
+        </div>
+
+    </div>
+    {{#if bottomText}}
+        <div class="accordion-bottom-text" tabindex="0">
+            {{{bottomText}}}
+        </div>
+    {{/if}}
+    <div class="totalgrid" style="display:none"></div>
+    <script>
+        var count{{_id}} = 0;
+        $(".{{_id}} .img2click").click(function () {
+            count{{_id}}++;
+            $(".{{_id}} .totalgrid").html("" + count{{_id}});
+        });
+    </script>
+</div>
+<script class="{{_id}}-fbnotify">if (!$('html').hasClass('pagesave2txt')) {
+    $(".{{_id}}-fbnotify").remove();
+}</script>

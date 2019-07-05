@@ -1,0 +1,77 @@
+// Article styling
+// ===============
+
+.article {
+  margin-bottom: 20px;
+
+  .article-inner {
+    background-color: @background-color;
+    padding-top: 0;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+
+    button {
+      border-radius: 10px;
+    }
+
+    .dropdown button {
+      border-radius: 0;
+    }
+
+    @media all and (max-width: (@device-width-large + 20px)) {
+      padding: (@article-padding-top / 2) 0 (@article-padding-bottom / 2);
+    }
+    @media all and (max-width: (@device-width-small + 20px)) {
+      padding: (@article-padding-top / 3) 0 (@article-padding-bottom / 3);
+    }
+  }
+
+  .article-header {
+    max-width: @device-width-large;
+    margin: auto;
+    padding: 0;
+
+    @media all and (max-width: (@device-width-large + 20px)) {
+      padding: 0 20px;
+    }
+
+    @media all and (max-width: (@device-width-small + 20px)) {
+      padding: 0 10px;
+    }
+  }
+
+  .article-title {
+    margin-bottom: @article-title-margin-bottom;
+    font-size: 24px;
+    text-align: center;
+    color: @black;
+
+    .dir-rtl & {
+      text-align: right;
+    }
+  }
+
+  .article-title-inner {
+    margin-bottom: 40px;
+  }
+
+  .article-body {
+    margin-bottom: @article-body-margin-bottom;
+  }
+
+  .article-instruction {
+    margin-bottom: @article-instruction-margin-bottom;
+    .instruction-text;
+  }
+}
+
+.footer  {
+  min-height: 100px !important;
+
+  .article-inner {
+    background-color: @ultra-gray;
+    border: 0;
+    box-shadow: none;
+    padding: 0
+  }
+}

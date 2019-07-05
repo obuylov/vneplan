@@ -1,0 +1,60 @@
+// Block styling
+// =============
+
+.block {
+
+  .block-inner {
+    max-width: @device-width-large;
+    margin: auto;
+    padding: 0;
+
+    a {
+      color: @primary-color;
+    }
+
+    // reduce padding as screen width decreases
+    @media all and (max-width: (@device-width-large + 20px)) {
+      padding: (@block-padding-top / 2) 20px (@block-padding-bottom / 2);
+    }
+
+    @media all and (max-width: (@device-width-small + 20px)) {
+      padding: (@block-padding-top / 3) 10px (@block-padding-bottom / 3);
+    }
+
+  }
+
+  .block-title {
+    margin-bottom: 30px;
+    font-size: 24px;
+    text-align: center;
+    color: @black;
+
+    .dir-rtl & {
+      text-align: right;
+    }
+  }
+
+  .block-body {
+    margin-bottom: @block-body-margin-bottom;
+  }
+
+  .block-instruction {
+    margin-bottom: @block-instruction-margin-bottom;
+    .instruction-text;
+  }
+}
+
+.block-container {
+  max-width: 1000px !important;
+  margin: 0 auto;
+  box-shadow: 0 0 4px rgba(0, 0, 0, .25)
+}
+
+.block-padding {
+  padding-bottom: 40px;
+}
+
+.full-article .block-container {
+  max-width: 100vw;
+  box-shadow: none
+}

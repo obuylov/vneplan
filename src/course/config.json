@@ -1,0 +1,124 @@
+{
+  "_defaultLanguage": "ru",
+  "_defaultDirection": "ltr",
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "_id": "5cee3437a123007ffe192a5f",
+  "_courseId": "5cee3436a123007ffe192a5e",
+  "_drawer": {
+    "_showEasing": "easeOutQuart",
+    "_hideEasing": "easeInQuart",
+    "_duration": 400
+  },
+  "_accessibility": {
+    "_isEnabled": false,
+    "_isEnabledOnTouchDevices": false,
+    "_shouldSupportLegacyBrowsers": true,
+    "_isTextProcessorEnabled": false,
+    "_isSkipNavigationEnabled": true
+  },
+  "screenSize": {
+    "small": 519,
+    "medium": 759,
+    "large": 1024
+  },
+  "__v": 0,
+  "_inview": {
+    "_allowScrollOver": true
+  },
+  "_logging": {
+    "_isEnabled": true,
+    "_level": "info",
+    "_console": true
+  },
+  "_spoor": {
+    "_isEnabled": true,
+    "_tracking": {
+      "_requireCourseCompleted": true,
+      "_requireAssessmentPassed": false,
+      "_shouldSubmitScore": false,
+      "_shouldStoreResponses": false,
+      "_shouldRecordInteractions": false
+    },
+    "_reporting": {
+      "_onTrackingCriteriaMet": "completed",
+      "_onAssessmentFailure": "incomplete",
+      "_resetStatusOnLanguageChange": false
+    },
+    "_advancedSettings": {
+      "_showDebugWindow": false,
+      "_commitOnStatusChange": true,
+      "_timedCommitFrequency": 10,
+      "_maxCommitRetries": 5,
+      "_commitRetryDelay": 2000,
+      "_suppressErrors": false,
+      "_commitOnVisibilityChangeHidden": true
+    }
+  },
+  "_completionCriteria": {
+    "_requireContentCompleted": false,
+    "_requireAssessmentCompleted": false,
+    "_customCompletion": {
+      "_requirePageVisited": "lastPage",
+      "_requireComponentVisited": "lastPage-article-component1"
+    }
+  },
+  "_languagePicker": {
+    "_isEnabled": true,
+    "title": "Выбор языка",
+    "displayTitle": "Выбор языка / Change the language",
+    "body": "",
+    "_showOnCourseLoad": true,
+    "_languagePickerIconClass": "icon-language-2",
+    "_classes": "",
+    "_languages": [
+      {
+        "_language": "ru",
+        "_direction": "ltr",
+        "displayName": "Русский <img class='flag-img' src='course/ru/assets/russia.png'>",
+        "warningTitle": "Change the language",
+        "warningMessage": "Подтвердите выбор / Confirm selection",
+        "_buttons": {
+          "yes": "Да / Yes",
+          "no": "Нет / No"
+        }
+      },
+      {
+        "_language": "en",
+        "_direction": "ltr",
+        "displayName": "English <img class='flag-img' src='course/ru/assets/united-states.png'>",
+        "warningTitle": "Выбор языка",
+        "warningMessage": "Подтвердите выбор / Confirm selection",
+        "_buttons": {
+          "yes": "Да / Yes",
+          "no": "Нет / No"
+        }
+      }
+    ],
+    "_accessibility": {
+      "accessibilityToggleTextOn": "Turn accessibility on?",
+      "accessibilityToggleTextOff": "Turn accessibility off?",
+      "_accessibilityInstructions": {
+        "touch": "Usage instructions. Use swipe right for next. Use swipe left for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page.",
+        "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
+        "ipad": "Usage instructions for touchscreens. Use swipe right for next. Use swipe left for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use right for next. Use left for previous. Use up and down together to select."
+      }
+    }
+  },
+  "_altxapi": {
+    "_isEnabled": true,
+    "_courseID": "https://sberbank.ru/introduction-to-compliance/",
+    "_identifyById": true,
+    "_localLoggingOnly": false,
+    "_saveLoadState": false,
+    "_ignoreEvents": [],
+    "_launchMethod": "spoor",
+    "_endPoint": "https://lrs1.hr.sber.cloud/data/xAPI/",
+    "_userName": "2afb7e5e11792b99c041c5e55a411b88a1597287",
+    "_password": "0192e1b20f139ed4099911498f2973dd8aab381f",
+    "_mbox": "mailto:johndoe@example.com",
+    "_fullName": "John Doe",
+    "_homePage": "http://www.mylms.com"
+  }
+}

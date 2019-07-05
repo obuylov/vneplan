@@ -1,0 +1,19 @@
+.trickle-nudge {
+	position: fixed;
+	right: 10px;
+	z-index: 1000;
+
+	.triangle {
+		width: 0;
+		height: 0;
+		border-style: solid;
+		border-width: 24px 10px 0 10px;
+		border-color: @primary-color transparent transparent transparent;
+		margin-left: 20px;
+	}
+
+	.nudge-content:before {
+		content: "\e638";
+	}
+		
+}

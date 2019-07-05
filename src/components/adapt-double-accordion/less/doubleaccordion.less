@@ -1,0 +1,200 @@
+.doubleaccordion-component {
+
+  .item {
+    margin-bottom: @item-margin-bottom;
+  }
+
+  .item-title-icon {
+    position: absolute;
+    top: 50%;
+    left: @item-padding-left;
+    margin-top: -(@icon-size/2);
+    color: @item-text-color;
+
+    .dir-rtl & {
+      left: inherit;
+      right: @item-padding-left;
+    }
+  }
+
+  .item-text {
+    padding-bottom: 30px;
+  }
+
+  .item-title-inner {
+    padding: 10px;
+  }
+
+  .child-item-title {
+    display: block;
+    position: relative;
+    padding: @item-padding;
+    padding-left: (@icon-size+(@item-padding-left*2));
+    color: @item-text-color;
+    background-color: @item-color;
+    text-decoration: none;
+    width: 90%;
+
+    .dir-rtl & {
+      padding-left: inherit;
+      padding-right: (@icon-size+(@item-padding-left*2));
+    }
+
+    &.visited {
+      color: @item-text-color-visited;
+      background-color: @item-color-visited;
+      border-color: @item-border-color-visited;
+
+      .child-item-title-icon {
+        color: @item-text-color-visited;
+      }
+    }
+
+    &.selected {
+      color: @item-text-color-selected;
+      background-color: @item-color-selected;
+      border-color: @item-border-color-selected;
+
+      .child-item-title-icon {
+        color: @item-text-color-selected;
+      }
+    }
+
+    .no-touch & {
+      &:hover {
+        color: @item-text-color-hover;
+        background-color: @item-color-hover;
+        border-color: @item-border-color-hover;
+
+        .child-item-title-icon {
+          color: @item-text-color-hover;
+        }
+      }
+
+      &.visited:hover {
+        color: @item-text-color-hover;
+        background-color: @item-color-hover;
+        border-color: @item-border-color-hover;
+
+        .child-item-title-icon {
+          color: @item-text-color-hover;
+        }
+      }
+
+      &.selected:hover {
+        background-color: @item-color-hover;
+      }
+    }
+  }
+
+  .child-item-title-inner {
+    text-align: left;
+  }
+
+  .item-title {
+    display: block;
+    position: relative;
+    padding: @item-padding;
+    padding-left: (@icon-size+(@item-padding-left*2));
+    color: @item-text-color;
+    background-color: @item-color;
+    text-decoration: none;
+    width: 90%;
+
+    .dir-rtl & {
+      padding-left: inherit;
+      padding-right: (@icon-size+(@item-padding-left*2));
+    }
+
+    &.visited {
+      color: @item-text-color-visited;
+      background-color: @item-color-visited;
+      border-color: @item-border-color-visited;
+
+      .item-title-icon {
+        color: @item-text-color-visited;
+      }
+    }
+
+    &.selected {
+      color: @item-text-color-selected;
+      background-color: @item-color-selected;
+      border-color: @item-border-color-selected;
+
+      .item-title-icon {
+        color: @item-text-color-selected;
+      }
+    }
+
+    .no-touch & {
+      &:hover {
+        color: @item-text-color-hover;
+        background-color: @item-color-hover;
+        border-color: @item-border-color-hover;
+
+        .item-title-icon {
+          color: @item-text-color-hover;
+        }
+      }
+
+      &.visited:hover {
+        color: @item-text-color-hover;
+        background-color: @item-color-hover;
+        border-color: @item-border-color-hover;
+
+        .item-title-icon {
+          color: @item-text-color-hover;
+        }
+      }
+
+      &.selected:hover {
+        background-color: @item-color-hover;
+      }
+    }
+  }
+
+  .child-item {
+    padding-bottom: 10px;
+
+  }
+
+  .child-item-title-icon {
+    position: absolute;
+    top: 50%;
+    left: @item-padding-left;
+    margin-top: -(@icon-size/2);
+    color: @item-text-color;
+
+    .dir-rtl & {
+      left: inherit;
+      right: @item-padding-left;
+    }
+  }
+
+  .child-item-body {
+    color: @item-body-text-color;
+    padding: 10px;
+    display: none;
+  }
+
+  .children {
+    color: @item-body-text-color;
+  }
+
+  .item-body {
+    display: none;
+  }
+
+  .item-body-inner {
+    padding: @item-padding;
+  }
+
+  .child-item-graphic {
+    padding: @item-padding-top 0 0;
+
+    img {
+      vertical-align: bottom;
+      height: 170px;
+    }
+  }
+}

@@ -1,0 +1,170 @@
+// Narrative styling
+// ==================
+.narrative-component {
+
+  .narrative-content-title {
+    margin-bottom: @title-text-margin;
+    .item-title;
+  }
+
+  .narrative-content {
+    width: 49%;
+    display: inline-block;
+    background-color: @white;
+    color: @black
+  }
+
+  .narrative-controls {
+    width: 35px;
+    height: (@icon-size * 2.5);
+    margin-top: -(@icon-size * 2);
+    background-color: @secondary-color;
+    border-radius: 8px 0 0 8px;
+    outline: none;
+
+    &:hover {
+      background-color: @secondary-color-inverted;
+
+      .icon {
+        color: @item-text-color-hover;
+      }
+    }
+
+    .icon {
+      font-size: 21px;
+      font-weight: bold;
+      margin: 0 0 0 5px;
+      color: @item-text-color;
+    }
+  }
+
+  .narrative-text-controls .narrative-content .narrative-content-inner {
+
+    .narrative-controls-container {
+      top: 0;
+
+      .narrative-controls {
+        width: auto;
+        height: auto;
+        margin-top: (@icon-size * 1.5);
+
+        .icon {
+          font-size: @icon-size;
+        }
+      }
+
+      .narrative-indicators {
+
+        margin-top: (@icon-size/2);
+        text-align: center;
+        width: 100%;
+        left: 0;
+
+        .narrative-progress {
+          display: inline-block;
+          background-color: darken(@item-color, 10%);
+
+          &.selected {
+            background-color: @component-background-color;
+          }
+        }
+
+      }
+    }
+
+    .narrative-content-item {
+      padding-top: (@icon-size * 2 + 16); // indicator height + controlls
+    }
+  }
+
+
+  .narrative-progress {
+    background-color: darken(@component-background-color, 10%);
+    border: inherit;
+
+    &.selected {
+      background-color: @secondary-color;
+    }
+  }
+
+  .narrative-strapline-title {
+    background-color: @primary-color;
+    color: @item-text-color;
+    .item-title;
+
+    .icon {
+      padding: @item-padding-top @item-padding-right @item-padding-bottom;
+      color: @item-text-color;
+    }
+
+    &:hover {
+      background-color: @item-color-hover;
+      color: @item-text-color-hover;
+
+      .icon {
+        color: @item-text-color-hover;
+      }
+
+    }
+  }
+
+  .narrative-strapline-title-inner {
+    padding-left: (@item-padding-left);
+    padding-right: (@item-padding-left + @item-padding-right + @icon-size);
+
+    .dir-rtl & {
+      padding-right: (@item-padding-left);
+      padding-left: (@item-padding-left + @item-padding-right + @icon-size);
+    }
+  }
+}
+
+.narrative-component.desktop .narrative-slide-container {
+  width: 50%;
+  margin-right: 0
+}
+
+.narrative-component .narrative-control-left {
+  border-radius: 0 8px 8px 0
+}
+
+.narrative-component.desktop .narrative-slider-graphic img {
+  width: 100%
+}
+
+.mode-large.narrative-component .narrative-slide-container {
+  width: 49%
+}
+
+.mode-large.narrative-component .narrative-slide-container {
+  margin-right: 0
+}
+
+.narrative-widget {
+  border: 1px solid @gray
+}
+
+
+
+
+.stacklist-item {
+  background: @white !important;
+  color: @black !important
+}
+
+.stacklist-item {
+  background-color: initial;
+  border: 1px solid @gray;
+  color: initial
+}
+
+.stacklist-button button {
+  margin-top: 10px;
+  outline: none;
+  background-color: @secondary-color;
+  border-radius: 8px
+}
+
+.stacklist-button button:hover {
+  background-color: @primary-color;
+}

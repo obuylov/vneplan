@@ -1,0 +1,14 @@
+{
+  "name": "adapt-can-notify-content",
+  "version": "1.0.0",
+  "framework": ">2.0.0",
+  "displayName": "Can Notify Content",
+  "extension": "can-notify-content",
+  "description": "Adds support for displaying notify popup on click",
+  "main": "/js/adapt-can-notify-content.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-extension"
+  ],
+  "targetAttribute": "_canNotifyContent"
+}

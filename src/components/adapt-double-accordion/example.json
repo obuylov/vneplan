@@ -1,0 +1,57 @@
+{
+  "_id": "c-15",
+  "_parentId": "b-15",
+  "_type": "component",
+  "_component": "doubleaccordion",
+  "_classes": "",
+  "_layout": "full",
+  "title": "Pets",
+  "displayTitle": "Pets",
+  "body": "When looking for a pet there is a large amount of decisions that need to be made. What speices do you want? What kind of breed do you want.",
+  "instruction": "Click on the header to view the species of pets and then click on the secondary headers to explore the breeds of those pets.",
+  "_items": [
+    {
+      "title": "Dog",
+      "body": "Dogs or Canis familiaris are very loyal pets. They can very easily be trained by humans to perform tricks or tasks.",
+      "_child": [
+        {
+          "childTitle": "Pug",
+          "childBody": "Pugs are usually very short with a wrinkly, short-muzzled face and a curved tail.",
+          "_childGraphic": "course/en/images/pug.jpg"
+        },
+        {
+          "childTitle": "Shiba Inu",
+          "childBody": "Shiba Inu are very independent dogs.",
+          "_childGraphic": "course/en/images/shiba.jpg"
+        },
+        {
+          "childTitle": "German Shepherd",
+          "childBody": "German Shepherds are very large and intelligent dogs. They are often used by the police.",
+          "_childGraphic": "course/en/images/germanshepherd.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Cats",
+      "body": "Cats or Felis catus are another popular choice as a pet. They are known to be very lazy cats that sleep for many hours of the day.",
+      "_child": [
+        {
+          "childTitle": "Scottish Fold",
+          "childBody": "Scottish folds have a very 'owl-like' appearance."
+        },
+        {
+          "childTitle": "Bengal cat",
+          "childBody": "The Bengal cat was bred to resemble the looks of more wild cats like Leopards and Ocelots."
+        }
+      ]
+    },
+    {
+      "title": "Alligators",
+      "body": "Alligators are very dangerous! It's not recommended to keep them as pets!",
+      "_graphic": {
+        "src": "course/en/images/alligator.jpg",
+        "alt": ""
+      }
+    }
+  ]
+}

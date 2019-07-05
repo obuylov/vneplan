@@ -1,0 +1,367 @@
+// Additional theme classes or attributes to be applied in JSON for more custom style 
+// ====================================================================
+
+// Divider block - used to separate content or break up pages. 
+// =============
+
+// Class applies alternative background color and component styling
+
+.border-top {
+  padding-top: 55px;
+
+  .block-title {
+    margin-bottom: 30px;
+  }
+
+  @media screen and (max-width: @device-width-small) {
+    .component.component-left, .component.component-right {
+      padding: 0;
+    }
+  }
+}
+
+.leftimg {
+  float: left;
+  margin: 5px 30px 10px 0
+}
+
+.full-width {
+  width: 100%;
+
+  .article-inner {
+    padding: 50px 20px;
+  }
+}
+
+.small-heading {
+  font-size: 20px
+}
+
+.icon-arrow-down:before {
+  display: none
+}
+
+ul li {
+  list-style: none;
+  background: url(assets/tick.png) no-repeat 0 5px;
+  padding: 5px 0 5px 30px;
+  margin: 0;
+}
+
+.navigation .icon {
+  color: @primary-color;
+  outline: none
+}
+
+button, a {
+  outline: none;
+  cursor: pointer
+}
+
+p, ul li {
+  font-size: 16px
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+ol {
+  font-size: 16px;
+}
+
+.focused,
+*:focus,
+input:focus + label {
+  .accessibility.no-touch & {
+    outline: @focus-outline;
+  }
+}
+
+.divider-block {
+  background-color: @background-color-inverted;
+  color: @foreground-color-inverted;
+  text-align: center;
+
+  .block-title,
+  .block-body,
+  .block-instruction,
+  .component-title,
+  .component-body,
+  .component-instruction {
+    color: @foreground-color-inverted;
+    text-align: center;
+  }
+
+  .component-inner {
+    background-color: transparent;
+  }
+}
+
+.full-article {
+  .article-inner {
+    padding: 60px 0;
+    background-color: transparent;
+  }
+
+  .photo {
+    background-color: white !important;
+  }
+
+  .card-element {
+    background-color: white !important;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+
+    .block-inner {
+      padding: 60px 0 20px 0;
+
+      @media screen and (max-width: @device-width-small) {
+        padding: 60px 20px 20px;
+      }
+
+      .block-title {
+        margin-bottom: 20px;
+      }
+    }
+  }
+}
+
+.pho {
+  background-color: white !important;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+
+  .block-inner {
+    padding: 55px 50px;
+
+    .block-title {
+      margin-bottom: 40px;
+    }
+  }
+
+  @media screen and (max-width: @device-width-small) {
+    .component.component-left, .component.component-right {
+      padding: 0;
+    }
+  }
+}
+
+.one-block {
+  padding: 40px 0 0;
+
+  .component .component-body {
+    margin-top: 0;
+  }
+}
+
+.flag-img {
+  height: 25px;
+  margin-left: 20px;
+}
+
+.list-with-icons {
+  li {
+    padding: 5px 0;
+    list-style: none;
+    background: none;
+  }
+
+  .list-icon {
+    display: flex;
+    align-items: center;
+
+    .img-container {
+      height: 35px;
+      min-width: 40px;
+      display: flex;
+      justify-content: center;
+      margin-right: 10px;
+    }
+
+    img {
+      height: 35px;
+    }
+  }
+}
+
+.icon-home {
+  display: inline-block;
+}
+
+.padding-top {
+  .block-inner {
+    padding-top: 40px;
+  }
+}
+
+.article-top {
+  .article-inner {
+    padding-top: 80px;
+    padding-bottom: 55px;
+  }
+
+  .one-block.nth-child-1 {
+    padding-top: 0;
+  }
+}
+
+@media screen and (max-width: @device-width-small) {
+  a {
+    word-break: break-word
+  }
+
+  .drawer .drawer-item .drawer-item-title,
+  .glossary-item button {
+    font-size: 18px
+  }
+
+  .article:not(.footer):not(.footer-2) .article-inner {
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px
+  }
+
+  .full-article {
+    .article-inner {
+      margin: 0 !important;
+    }
+
+    .block-inner {
+      padding: 20px;
+    }
+  }
+
+  .photo {
+    padding: 20px !important
+  }
+
+}
+
+
+.footer, .footer .article-inner {
+  margin-bottom: 0;
+}
+
+.no-break {
+  word-break: keep-all;
+}
+
+.bottomnavigation-widget button[data-type='_previous'] {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAAACXBIWXMAAA3XAAAN1wFCKJt4AAAF32lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoV2luZG93cykiIHhtcDpDcmVhdGVEYXRlPSIyMDE5LTA2LTExVDE5OjA5OjE3KzAzOjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxOS0wNi0xMVQxOToxMTo0OCswMzowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxOS0wNi0xMVQxOToxMTo0OCswMzowMCIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjEiIHhtcE1NOkRvY3VtZW50SUQ9ImFkb2JlOmRvY2lkOnBob3Rvc2hvcDpmMTkxYmQyYi0zYTM1LTU1NDAtYTRjMy1kZGMwYzhjNzZmYmIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6ZDc4NGFlMGUtZWNiMC1iODRlLWEyMWItZGE1NzI4MzhiYTIxIiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9ImFkb2JlOmRvY2lkOnBob3Rvc2hvcDoyNGI3ZjNmNi04ZTUzLTQzNGQtYTdiMS03MDg3ZWJjMDQ5YmUiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmM0Mzk3NjExLTg3NzYtY2Y0Mi04MmM5LWYxNDAyMjBkMjExNCIgc3RFdnQ6d2hlbj0iMjAxOS0wNi0xMVQxOTowOToxNyswMzowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKFdpbmRvd3MpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJzYXZlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDpkNzg0YWUwZS1lY2IwLWI4NGUtYTIxYi1kYTU3MjgzOGJhMjEiIHN0RXZ0OndoZW49IjIwMTktMDYtMTFUMTk6MTE6NDgrMDM6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE5IChXaW5kb3dzKSIgc3RFdnQ6Y2hhbmdlZD0iLyIvPiA8L3JkZjpTZXE+IDwveG1wTU06SGlzdG9yeT4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7dVVu8AAACBklEQVRo3tWZvU4CQRRGWTVqREAwxsKOQkNjotGXsIDYU1ERQ4xvY2ICwZhQUaid8Sk0FjRWEgtDIYa/qOyxUCIBZjO7syvX2Xaz39mZO/ebuTdEKIAnyiEl1nTeDUI+Ro4nmlzpIPgvHyfPI31sPQT/5QvU+ATA5o1LVrH+DiDBMQ98MBg2LS7YYOZvABKccD8k/z2aFEkyGzxAghPuxuQBXjlli7lgAVYoKOQBnjlgKUiAOEfc866Q73DODgvBAcTIU1P+fZcK28wHFwNRcjz+bLzx0aNKSrX+5gAWYbLU6U8Ut2lzQ9JpE5oBWETI0MBWyLe4ZTO4TGgRJc2LYuo15b0DWEQc5KGtJ+8dIEzGQb7HjZ68V4AoWRpK+S5Vkrrf8ur3dUXoQYcKKefINwMY+L1Kvsy20743BRj2+0mhV2RXnfXMAUb9flT+jD1VzvcDYLLfD8vvu5V3A6D2+1/5Rfchrb/2xw5/36HofvLdAMQpOKx9hzK73uT1AIz83hzA0O/NAHzwexMAX/zeO4BPfu8VwDe/9wrgm9//W4CpL8HUg1DANhSQiASkYhFmJMCOBRxIBBzJBBxKBRzLBVxMBFzNBFxOBVzPBRQoBJRopl6kElCmE1CoFFCqFVGsFlCuF9CwENCyEdC0EtC2E9C4FNC6HW5eX0+neR0ixDJpSqzrvPsFcChDEDibwIwAAAAASUVORK5CYII=');
+}
+
+.bottomnavigation-widget button[data-type='_up'], .bottomnavigation-widget button[data-type='_root'] {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAAACXBIWXMAAA3XAAAN1wFCKJt4AAAF32lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoV2luZG93cykiIHhtcDpDcmVhdGVEYXRlPSIyMDE5LTA2LTExVDE5OjA5OjE3KzAzOjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxOS0wNi0xMVQxOToxODoxMCswMzowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxOS0wNi0xMVQxOToxODoxMCswMzowMCIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjEiIHhtcE1NOkRvY3VtZW50SUQ9ImFkb2JlOmRvY2lkOnBob3Rvc2hvcDozZGQ1YTQ5Mi1hZTcxLTBiNDItOTFmMy02YThhYjZhMDFlODciIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6ODE5NmEyMDgtOTVjNC0zYTQ0LTg3NzctMDgyZDVlMTc2OTMzIiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9ImFkb2JlOmRvY2lkOnBob3Rvc2hvcDoyNGI3ZjNmNi04ZTUzLTQzNGQtYTdiMS03MDg3ZWJjMDQ5YmUiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOjJkZWRlMjk2LTBjOWItOWY0My05ZmE2LWY3MTBmNjBkNzdjOSIgc3RFdnQ6d2hlbj0iMjAxOS0wNi0xMVQxOTowOToxNyswMzowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKFdpbmRvd3MpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJzYXZlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDo4MTk2YTIwOC05NWM0LTNhNDQtODc3Ny0wODJkNWUxNzY5MzMiIHN0RXZ0OndoZW49IjIwMTktMDYtMTFUMTk6MTg6MTArMDM6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE5IChXaW5kb3dzKSIgc3RFdnQ6Y2hhbmdlZD0iLyIvPiA8L3JkZjpTZXE+IDwveG1wTU06SGlzdG9yeT4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7hNkWZAAACLElEQVRo3u2ZvU4CQRSFF2KkQBF4BAsTGwvjcyyxp6IihBBfSGJl5QsQn0JDsQ0VVISGRMQo8FmsyLJw52dxUZO5lOzM/Xa4c85J8PB+9+M5gP8NkCFPnsxvAWQ4pkKF410QdmlfwGfIEJ9CcoRd3t5nCMAQP/kpJAXIU/lqHyJUyO8ToECVEdEaUaWwL4ATagxYrAEsGFDjZB8AJer0mBOvOT3qlNIGKNEkYMa2mhHQtEWwa1+mRZcPpPqgS4tyWgBlbnhWtA8RnrmxQbBr/6RpHyI82SCY//Yt7dtHT6FlOgvmo9c1bL+cBcNxNLv3dQKL9iFCQN1EF0xUr0ZPuHjwxpvwzYweNb066v2+ymCL7ITqN6FDh0lMFVfSNKCqywt6vx8J2y944ZEzznjkRXxmpMsLer9H2d7DUyKgywsmfr+tJt/tlwgT8VllXjDz+83R60TahwgdcRyVecHU76M15YHTjTWnPDAV14h5wdTvV/XKPedkN1ZlOeeeV3FmhLxg7vfL9ndccLD13A644E5EEPJCfJMiDdHvAW655FC8OYdcciuunRHQoKgCKNPUWM4VOaV05bjS2FRz3Sk3DfddqfE5rXTnlOvf42Zt6/cm5mWVF2z9fneAWF6w9fufAFjLC7Z+/zMAkbzgcaT0+7QAvvOCh09flJ00AWBOn2uPNmNRdtMFWDCmbbtNcgDrQOIAHIADcAB/FCB5OQAH4AAcgANwf1w6gL8K8Akb+MT9Hzh+qQAAAABJRU5ErkJggg==') !important;
+}
+
+.bottomnavigation-widget button[data-type='_next'] {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAAACXBIWXMAAA3XAAAN1wFCKJt4AAAF32lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoV2luZG93cykiIHhtcDpDcmVhdGVEYXRlPSIyMDE5LTA2LTExVDE5OjA5OjE3KzAzOjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxOS0wNi0xMVQxOToxMTozNiswMzowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxOS0wNi0xMVQxOToxMTozNiswMzowMCIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjEiIHhtcE1NOkRvY3VtZW50SUQ9ImFkb2JlOmRvY2lkOnBob3Rvc2hvcDo5YWI5NGRmOS0zZThkLWE0NGMtOWMyYy0xM2M5NzcwYTRmNzUiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MTE5MWZmODItZjY3MS04YjQ0LWEzNWEtNTBjYjhhNGM2NDc0IiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9ImFkb2JlOmRvY2lkOnBob3Rvc2hvcDoyNGI3ZjNmNi04ZTUzLTQzNGQtYTdiMS03MDg3ZWJjMDQ5YmUiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOjlmMDkzN2U3LWExMWQtNGU0NS04MTNlLTEzMzljZmEzODViYSIgc3RFdnQ6d2hlbj0iMjAxOS0wNi0xMVQxOTowOToxNyswMzowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKFdpbmRvd3MpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJzYXZlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoxMTkxZmY4Mi1mNjcxLThiNDQtYTM1YS01MGNiOGE0YzY0NzQiIHN0RXZ0OndoZW49IjIwMTktMDYtMTFUMTk6MTE6MzYrMDM6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE5IChXaW5kb3dzKSIgc3RFdnQ6Y2hhbmdlZD0iLyIvPiA8L3JkZjpTZXE+IDwveG1wTU06SGlzdG9yeT4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6UFl77AAACCklEQVRo3t2ZPUsDQRCGLzHkxGj8QizsUkTSBBT9ExaKvVUqkSD+G0FIUIRUKdRO/BUJFjapFAtJoeIXnrnHQoWI7rm3u8kE98oZ2Je9mdlnZzw8jW+GKutktXxjfnrbH3PHJSXGJQR8bB/SocUmk/0VkGCaI+4JAXjjgrJrCVHGJHMc8vC5PUDAOdtM9UfAEDkq3PF9BTTZcSlBZUgxzy63/FwBDZcSVIYRVrjm9xXQoMxEbwX4LHDAk0LCK0223ISj2pSmSI1n5SlcsOmiLkQZUxSo86KQ8EaLkn11jDYnyXHKY1cidq8OV2yQIdHbSpjn7Fst6F4hbdYYs5Gg4xQlAW5YJWsuQc8tzxmPECHB+BR0HfOcKsMRblgj01sBHjnqyqSENhtmGaHvmqRATVmaQq7MeCGOc4oi+0oJhrwQzz3NIhVlOBrxQtwj81liTynBgBfih43PcqSEmLxgkjrDf0iIxQtm9ctniYoyHAOabOvGgmkN91mMyIiAc91wNL/HHPGCzV3uhBfscMIBL9hTnSUvuCBbK15wQ/cWvODqhWPMC/9EgPAvEA5C0TQULkTCpVj4MhK+joWBRBjJhKFUGMuFHybCTzPxx6nw81y4QSHcohFuUom26YQblcKtWuFmtXi7XnxgIT6yER9aDcDYbgAGlwMwuv2ScCI5vPbwmKXKKqO9GN+/A9IXQxDy9IDTAAAAAElFTkSuQmCC');
+}
+
+.bottomnavigation-widget button:not([data-type='_close']) {
+  background-size: 1.3em 1.3em;
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 1.3em;
+  height: 1.3em;
+}
+
+.bottomnavigation button:not([data-type='_close']) .text {
+  display: none;
+}
+
+.menu-5cf8f54fb7b6931869d765a4 .menu-header {
+  background-image: url('course/ru/assets/osnovi.png') !important;
+  background-size: cover !important;
+}
+
+.clickAndLearn-indicator {
+  width: 100%;
+  padding: 0;
+  background-color: white !important;
+
+  img {
+    width: 100%;
+  }
+}
+
+.article1-3 .article-inner {
+  padding-top: 0;
+}
+
+.article3-2 .article-inner {
+  padding-top: 40px;
+}
+
+
+/*
+// Block background color - used to apply variable based background colors on blocks
+// ======================
+
+.block {
+  &.primary-color {
+    background-color: @primary-color;
+  }
+
+  &.secondary-color {
+    background-color: @secondary-color;
+  }
+
+  &.tertiary-color {
+    background-color: @tertiary-color;
+  }
+
+  &.background-color {
+    background-color: @background-color;
+  }
+
+  &.background-color-inverted {
+    background-color: @background-color-inverted;
+    color: @font-color-inverted;
+
+    .component-inner {
+      background-color: transparent;
+    }
+  }
+}
+
+// Component background - used to apply variable based background color and padding on components
+// ====================
+
+.component-background {
+  background-color: @component-background-color;
+  padding: @component-padding;
+}
+
+// Assessment - remove graphic components for mobile view (when components snap down to single span).
+// ==========
+
+.assessment {
+  .graphic-component {
+    display: block;
+
+    @media all and (max-width: @device-width-medium) {
+      display: none;
+    }
+  }
+}
+
+// THIS CLASS IS FOR THE PURPOSE OF THE ADAPT DEMO
+// blank component demo - applied at block level to add a background image in place of a blank component
+// ====================
+
+.blank-background {
+  background-image: url(assets/blank-bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+
+  @media all and (max-width: @device-width-large) {
+    background-image: url(assets/blank-bg-900.jpg);
+    background-position: right;
+  }
+
+  @media all and (max-width: @device-width-medium) {
+    background-image: none;
+  }
+}
+*/

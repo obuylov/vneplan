@@ -1,0 +1,1 @@
+# adapt-can-notify-content

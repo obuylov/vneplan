@@ -1,0 +1,86 @@
+// To go in the course.json file
+"_pinchZoomer": {
+"_isEnabled": true
+}
+
+// To go in component.json to graphic / accordion which you want to magnify / zoom image
+"_pinchZoomer": {
+"_isEnabled": true,
+"_mobileInstructionText": "Please Double tap to Zoom in the Image"
+}
+
+{
+"_id": "c-25",
+"_parentId": "b-15",
+"_type": "component",
+"_component": "graphic",
+"_classes": "",
+"_layout": "full",
+"title": "Graphic",
+"displayTitle": "Graphic",
+"body": "This is the graphic component body. You can introduce your graphic or you may just want to let the graphics do the talking.<br><br>Component can either be single or spanned.",
+"instruction": "",
+"_graphic": {
+"large": "course/en/images/full_width.jpg",
+"small": "course/en/images/full_width.jpg",
+"alt": "Placeholder graphic.",
+"attribution": ""
+},
+"_pinchZoomer": {
+"_isEnabled": true,
+"_mobileInstructionText": "Please Double tap to Zoom in the Image"
+}
+}
+
+// accordion
+{
+"_id": "c-45",
+"_parentId": "b-35",
+"_type": "component",
+"_component": "accordion",
+"_classes": "",
+"_layout": "full",
+"title": "Accordion",
+"displayTitle": "Accordion",
+"body": "You can use the <strong>accordion</strong> component to present learners with a series of headings, which once selected, expand to reveal associated text. Select each of the headings below to find out more about how accordions can be used.<br><br>These components can be either single or spanned. If spanned they can also contain a graphic.",
+"instruction": "Select the headings to find out more.",
+"_items": [
+{
+"title": "Lists",
+"body": "This is display text 1 and we’re using it to discuss lists.<br><br>If you need to present a list that can stand alone as a piece of content, but which can also be explored in more detail, accordions are a great choice.",
+"_graphic": {
+"src": "course/en/images/accordion_full_width.jpg",
+"alt": "Placeholder graphic."
+},
+"_pinchZoomer": {
+"_isEnabled": true
+}
+},
+{
+"title": "Steps in a process",
+"body": "This is display text 2 and now we’re discussing how accordions can be great at presenting a process.<br><br>The headings can be used to present the high-level stages in the process, which once selected, provide a more extensive explanation of what happens at that specific point.",
+"_graphic": {
+"src": "course/en/images/accordion_full_width.jpg",
+"alt": "Placeholder graphic."
+},
+"_pinchZoomer": {
+"_isEnabled": true
+}
+},
+{
+"title": "Recaps",
+"body": "This is display text 3 and we’re now talking about using accordions to provide the learner with a summary.<br><br>Each accordion item corresponds to a key piece of learning presented on the page. When this item is selected a short summary of the learning point is provided.",
+"_graphic": {
+"src": "course/en/images/accordion_full_width.jpg",
+"alt": "Placeholder graphic."
+},
+"_pinchZoomer": {
+"_isEnabled": true
+}
+}
+],
+"_pinchZoomer": {
+"_isEnabled": true,
+"_mobileInstructionText":"Please Double tap to Zoom in the Image"
+}
+}

@@ -1,0 +1,19 @@
+// To go in the course.json file
+"_canMeter": {
+"_isEnabled": true,
+"_meterItems": [
+{
+"id": "Meter1",
+"name": "Meter",
+"meterStartValue": 50,
+"meterMinValue": 0,
+"meterMaxValue": 100,
+"_attempts": 1,
+"_resetType": "soft"
+"_pageIds": [
+"page1",
+"page2"
+]
+}
+]
+}

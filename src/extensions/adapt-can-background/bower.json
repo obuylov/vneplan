@@ -1,0 +1,18 @@
+{
+  "name": "adapt-can-background",
+  "repository": "",
+  "homepage": "",
+  "framework": ">2.0.0",
+  "version": "1.0.0",
+  "issues": "",
+  "displayName": "Can Background",
+  "extension": "canBackground",
+  "description": "Adds the option of implementing a background graphic or colour to a page header or article/block/component elements.",
+  "main": "/js/adapt-can-background.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-extension"
+  ],
+  "license": "GPLv3",
+  "targetAttribute": "_canBackground"
+}

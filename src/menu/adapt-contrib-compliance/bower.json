@@ -1,0 +1,17 @@
+{
+  "name": "adapt-contrib-compliance",
+  "version": "0.0.7",
+  "framework": ">=2.1",
+  "homepage": "https://github.com/adaptlearning/adapt-contrib-compliance",
+  "issues": "https://github.com/adaptlearning/adapt_framework/issues/new",
+  "displayName": "Комплаенс",
+  "menu": "compliance",
+  "description": "Меню для курса комплаенс",
+  "main": "js/adapt-contrib-compliance.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-menu"
+  ],
+  "license": "GPLv3",
+  "targetAttribute": "_compliance"
+}

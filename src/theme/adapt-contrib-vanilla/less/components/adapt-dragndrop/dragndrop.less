@@ -1,0 +1,95 @@
+.dragndrop-inner .dragndrop-question {
+  margin-bottom: 0;
+  background-color: white;
+  color: black;
+  border: 1px solid @light-gray;
+  border-bottom: none;
+
+  &:last-child {
+    border-bottom: 1px solid @light-gray;
+  }
+}
+
+.dragndrop-inner .dragndrop-question .ui-droppable {
+  max-width: 100%;
+  border: 2px dashed @light-gray;
+  border-radius: 10px;
+}
+
+.dragndrop-inner .dragndrop-answers .dragndrop-answer, .dragndrop-inner .dragndrop-answers .dragndrop-answer.ui-state-placed {
+  background-color: @gray;
+  color: white;
+  border: none;
+  box-shadow: none;
+  border-radius: 10px;
+  font-size: 16px;
+}
+
+.dragndrop-inner .dragndrop-question .ui-droppable.ui-state-active {
+  background-color: white;
+}
+
+.dragndrop-inner .dragndrop-question .ui-droppable.ui-state-enabled.ui-state-hover {
+  background-color: white;
+}
+
+.dropdown button {
+  padding: 20px 0 15px 0;
+  font-size: 16px;
+  background-color: white;
+  background-image: none;
+  border: 2px solid @button-color;
+  color: @black
+}
+
+.dropdown button:hover, .dropdown button[aria-expanded='true'] {
+  background-color: @primary-color;
+  color: white;
+}
+
+.dropdown li {
+  padding: 15px 0 10px 10px;
+  background-image: none;
+  background-color: #f9f9f9;
+  border: 1px solid @light-gray;
+  color: black;
+}
+
+.dropdown li:hover {
+  background-color: @light-blue;
+  color: white;
+}
+
+.dropdown-button[aria-expanded=true] {
+  background-color: @primary-color;
+}
+
+.dropdown .dropdown__inner .dropdown__arrow .icon {
+  color: #3599B3 !important;
+}
+
+.dragndrop-correct-icon .icon .icon-tick {
+  color: @primary-color;
+}
+
+.dragndrop-incorrect-icon .icon .icon-cross {
+  color: @red;
+}
+
+.dragndrop-overlay {
+  display: none;
+}
+
+.dragndrop-inner .dragndrop-question .ui-droppable.ui-state-disabled {
+  border: none;
+}
+
+.dropdown .dropdown__arrow .icon {
+  border-color: #3599B3 transparent transparent transparent;
+}
+
+.dropdown button:disabled, .dropdown button[disabled] {
+  background-color: white !important;
+  color: black !important;
+  border: 1px solid @light-gray;
+}
