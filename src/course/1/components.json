@@ -1,0 +1,147 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "1",
+    "displayTitle": "",
+    "body": "<p>В соответствии с <strong>п. 2.15.5.1 ПВК</strong> Банк не осуществляет оформление, выдачу и перевыпуск банковских карт:</p><ul><li>физическому лицу &mdash; фигуранту ПЭ/СПТ*</li><li>в случае наличия сведений о физическом лице в АС СТОП-ЛИСТ с кодом 4.05 со статусом &laquo;присутствует-подтверждена&raquo;</li></ul><div class=\"yellow\"><p>Обратите внимание!</p><p>Ранее были определены исключения для некоторых карт. В новой редакции ПВК исключений нет.</p></div><ul><li>в других случаях (по решению Управления комплаенс территориального банка)</li></ul><p><div class='quote'>*Перечень организаций и физических лиц, в отношении которых имеются сведения об их причастности к экстремистской деятельности или терроризму/ Список причастных к терроризму.</div></p>",
+    "_id": "c-01",
+    "_parentId": "b-01",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "1",
+    "displayTitle": "",
+    "body": "<p>В соответствии с <strong>п. 2.15.7 ПВК</strong> работникам Банка запрещено информировать Клиентов и иных лиц о принимаемых мерах по ПОД/ФТ, <strong>за исключением информирования</strong> Клиентов:</p><ul><li>о принятых мерах по замораживанию (блокированию) денежных средств или иного имущества;</li><li>о приостановлении операции;</li><li>об отказе в выполнении распоряжения клиента о совершении операций, об отказе от заключения договора банковского счета (вклада), о расторжении договора банковского счета (вклада) <strong>и их причинах</strong>;</li><li>о необходимости предоставления документов по основаниям, предусмотренным Законом №115-Ф3.</li></ul>",
+    "_id": "c-02",
+    "_parentId": "b-01",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "1",
+    "displayTitle": "",
+    "body": "<p>Текст</p>",
+    "_id": "c-03",
+    "_parentId": "b-02",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "1",
+    "displayTitle": "",
+    "body": "<p>Текст</p>",
+    "_id": "c-04",
+    "_parentId": "b-03",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "1",
+    "displayTitle": "",
+    "body": "<p>Текст</p>",
+    "_id": "c-05",
+    "_parentId": "b-04",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "1",
+    "displayTitle": "",
+    "body": "<p>Текст</p>",
+    "_id": "c-06",
+    "_parentId": "b-05",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  }
+]

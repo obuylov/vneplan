@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Внеплановый инструктаж по ПОД/ФТ",
+    "displayTitle": "Внеплановый инструктаж по ПОД/ФТ",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Изучить",
+    "duration": "2 минуты",
+    "_lockedBy": [
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "p-01",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": "course/1/assets/adfa7fd1c34369a6ecc9b00792970963ad49cdb8.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    }
+  }
+]

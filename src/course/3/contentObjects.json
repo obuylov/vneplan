@@ -1,12 +1,12 @@
 [
   {
-    "title": "Тон сверху – роль руководителей в управлении комплаенс-риском",
-    "displayTitle": "Тон сверху – роль руководителей в управлении комплаенс-риском",
+    "title": "'Tone at the Top' — Executives’ Role in Compliance Risk Management",
+    "displayTitle": "\"Tone at the Top\" — Executives’ Role in Compliance Risk Management",
     "body": "",
     "_classes": "",
     "pageBody": "",
-    "linkText": "Изучить",
-    "duration": "2 минуты",
+    "linkText": "View",
+    "duration": "2 minutes",
     "_lockedBy": [
     ],
     "_lockType": "",
@@ -37,13 +37,13 @@
     }
   },
   {
-    "title": "Противодействие коррупции",
-    "displayTitle": "Противодействие коррупции",
+    "title": "Counteracting Corruption",
+    "displayTitle": "Counteracting Corruption",
     "body": "",
     "_classes": "",
     "pageBody": "",
-    "linkText": "Изучить",
-    "duration": "2 минуты",
+    "linkText": "View",
+    "duration": "2 minutes",
     "_lockedBy": [
       "5cee3439a123007ffe192a60"
     ],
@@ -75,13 +75,13 @@
     }
   },
   {
-    "title": "Правила и ограничения в области получения и предоставления подарков",
-    "displayTitle": "Правила и ограничения в области получения и предоставления подарков",
+    "title": "Rules and Restrictions Relating to Receiving and Making Gifts",
+    "displayTitle": "Rules and Restrictions Relating to Receiving and Making Gifts",
     "body": "",
     "_classes": "",
     "pageBody": "",
-    "linkText": "Изучить",
-    "duration": "3 минуты",
+    "linkText": "View",
+    "duration": "3 minutes",
     "_lockedBy": [
       "5cee3519a123007ffe192a64"
     ],
@@ -113,13 +113,13 @@
     }
   },
   {
-    "title": "Управление конфликтами интересов",
-    "displayTitle": "Управление конфликтами интересов",
+    "title": "Conflict of Interest Management",
+    "displayTitle": "Conflict of Interest Management",
     "body": "",
     "_classes": "",
     "pageBody": "",
-    "linkText": "Изучить",
-    "duration": "3 минуты",
+    "linkText": "View",
+    "duration": "3 minutes",
     "_lockedBy": [
       "5cee354da123007ffe192a6a"
     ],
@@ -151,13 +151,13 @@
     }
   },
   {
-    "title": "Инсайдерская информация и персональные операции с ценными бумагами работников Банка",
-    "displayTitle": "Инсайдерская информация и персональные операции с ценными бумагами работников Банка",
+    "title": "Insider Information and Personal Transactions with Securities Made by the Bank Employees",
+    "displayTitle": "Insider Information and Personal Transactions with Securities Made by the Bank Employees",
     "body": "",
     "_classes": "",
     "pageBody": "",
-    "linkText": "Изучить",
-    "duration": "4 минуты",
+    "linkText": "View",
+    "duration": "4 minutes",
     "_lockedBy": [
       "5cee3562a123007ffe192a6d"
     ],
@@ -189,13 +189,13 @@
     }
   },
   {
-    "title": "Экономические санкции",
-    "displayTitle": "Экономические санкции",
+    "title": "Economic Sanctions",
+    "displayTitle": "Economic Sanctions",
     "body": "",
     "_classes": "",
     "pageBody": "",
-    "linkText": "Изучить",
-    "duration": "2 минуты",
+    "linkText": "View",
+    "duration": "2 minutes",
     "_lockedBy": [
       "5cee3584a123007ffe192a70"
     ],
@@ -227,13 +227,13 @@
     }
   },
   {
-    "title": "Противодействие легализации (отмыванию) доходов, полученных преступным путем, финансированию терроризма (ПОД/ФТ/ПРОМУ)",
-    "displayTitle": "Противодействие легализации (отмыванию) доходов, полученных преступным путем, финансированию терроризма (ПОД/ФТ/ПРОМУ)",
+    "title": "Anti-Money Laundering and Counteracting the Financing of Terrorism (AML/CFT)",
+    "displayTitle": "Anti-Money Laundering and Counteracting the Financing of Terrorism (AML/CFT)",
     "body": "",
     "_classes": "",
     "pageBody": "",
-    "linkText": "Изучить",
-    "duration": "4 минуты",
+    "linkText": "View",
+    "duration": "4 minutes",
     "_lockedBy": [
       "5cee3597a123007ffe192a73"
     ],
@@ -265,13 +265,13 @@
     }
   },
   {
-    "title": "Ответственность за несоблюдение требований комплаенс",
-    "displayTitle": "Ответственность за несоблюдение требований комплаенс",
+    "title": "Liability for Failure to Observe the Compliance Requirements",
+    "displayTitle": "Liability for Failure to Observe the Compliance Requirements",
     "body": "",
     "_classes": "",
     "pageBody": "",
-    "linkText": "Изучить",
-    "duration": "3 минуты",
+    "linkText": "View",
+    "duration": "3 minutes",
     "_lockedBy": [
       "5cee3599a123007ffe192a76"
     ],
@@ -303,12 +303,12 @@
     }
   },
   {
-    "title": "Завершение курса",
-    "displayTitle": "Завершение курса",
+    "title": "Course completion",
+    "displayTitle": "Course completion",
     "body": "",
     "_classes": "",
     "pageBody": "",
-    "linkText": "Завершить",
+    "linkText": "Complete",
     "duration": "",
     "_lockedBy": [
     ],
@@ -340,12 +340,12 @@
     }
   },
   {
-    "title": "Приложения",
-    "displayTitle": "Приложения",
+    "title": "Annexes",
+    "displayTitle": "Annexes",
     "body": "",
     "_classes": "",
     "pageBody": "",
-    "linkText": "Изучить",
+    "linkText": "View",
     "duration": "",
     "_lockedBy": [
     ],

@@ -1,0 +1,284 @@
+{
+    "_globals": {
+        "_components": {
+            "_accordion": {
+                "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+            },
+            "_assessmentResults": {
+                "ariaRegion": "Assessment results."
+            },
+            "_clickAndLearn": {
+                "ariaRegion": "This component is a click and learn type of component where we have few clickable cards, after clicking on one of those card they reveal text associated with them."
+            },
+            "_flipcard": {
+                "ariaRegion": "This component is a flipcard comprised of flippable cards containing display image. Select the front face image to flip to the back face of these card to display associated text."
+            },
+            "_gmcq": {
+                "ariaRegion": "Multiple choice question. Select your option and then submit."
+            },
+            "_graphic": {
+                "ariaRegion": ""
+            },
+            "_hotgraphic": {
+                "ariaRegion": "Image with selectable areas. Select each button to show more information.",
+                "popupPagination": "{{itemNumber}} / {{totalItems}}"
+            },
+            "_matching": {
+                "ariaRegion": "Matching. Select from lists and then submit."
+            },
+            "_mcq": {
+                "ariaRegion": "Multiple choice question. Select your option and then submit."
+            },
+            "_media": {
+                "ariaRegion": "This is a media player component. Select the play / pause button to watch or listen.",
+                "skipToTranscript": "Skip to transcript",
+                "transcriptButton": "Alternatively you can select the link below for the transcript."
+            },
+            "_narrative": {
+                "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
+            },
+            "_objectMatching": {
+                "ariaRegion": "This question component requires you to select the matching option. When you have selected your answers select the submit button."
+            },
+            "_reveal": {
+                "ariaLabel": "Reveal toggle button."
+            },
+            "_slider": {
+                "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+                "labelStart": "Start of the scale",
+                "labelEnd": "End of the scale"
+            },
+            "_text": {
+                "ariaRegion": ""
+            },
+            "_textinput": {
+                "ariaRegion": "Text input. Type your answer and then submit."
+            },
+            "_doubleaccordion": {
+                "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+            },
+            "_dragndrop": {
+                "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+            },
+            "_expose": {
+                "ariaRegion": ""
+            },
+            "_notify-imagegrid": {
+                "ariaRegion": "This component contains images laid out in a flexible grid."
+            },
+            "_stacklist": {
+                "ariaRegion": "This stacklist component presents a list of items. Select the button to access each item in turn.",
+                "ariaButtonLabel": "Select this button to access the next item in the stacklist."
+            },
+            "_tabs": {
+                "ariaRegion": "A tabbed content container. Content can be text, graphic or both."
+            },
+            "_textinputinline": {
+                "ariaRegion": "This question requires you to input your answer in the textbox provided. When you have done so, select the submit button below."
+            },
+            "_timedMcq": {
+                "ariaRegion": "This component is a timed multiple choice question. You must select the correct answer within the time limit."
+            }
+        },
+        "_extensions": {
+            "_close": {
+                "closeButton": "Select here to close the window."
+            },
+            "_glossary": {
+                "glossary": "Glossary"
+            },
+            "_languagePicker": {
+                "navigationBarLabel": "Select course language",
+                "languageSelector": "Language selector"
+            },
+            "_pageLevelProgress": {
+                "pageLevelProgress": "Page sections",
+                "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
+                "pageLevelProgressMenuBar": "You have completed ",
+                "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+                "optionalContent": "Optional Content"
+            },
+            "_resources": {
+                "resources": "Additional resources."
+            },
+            "_trickle": {
+                "incompleteContent": "There is incomplete content above. You must complete this before you can proceed through the course."
+            },
+            "_nudge": {
+                "scroll": "Внизу страницы Вы найдете плеер для навигации по курсу",
+                "plp": "Это прогресс-бар. Он заполняется, когда Вы изучаете элементы на странице. Нажав на прогресс-бар, Вы можете ознакомиться с содержанием раздела.",
+                "trickle": "",
+                "complete": "Нажмите на иконку, если хотите вернуться на главную страницу"
+            }
+        },
+        "_menu": {
+            "_compliance": {
+                "ariaRegion": "Menu",
+                "durationLabel": "",
+                "menuItem": "Menu item.",
+                "menuEnd": "You have reached the end of the menu."
+            }
+        },
+        "_accessibility": {
+            "accessibilityToggleTextOn": "Turn accessibility on?",
+            "accessibilityToggleTextOff": "Turn accessibility off?",
+            "skipNavigationText": "Skip navigation",
+            "_accessibilityInstructions": {
+                "touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page.",
+                "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
+                "ipad": "Usage instructions for touchscreens. Use swipe left for next. Use swipe right for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use left for next. Use right for previous. Use up and down together to select."
+            },
+            "_ariaLabels": {
+                "navigation": "Course navigation bar",
+                "skipNavigation": "Skip Navigation",
+                "menuLoaded": "Menu loaded",
+                "page": "Page",
+                "pageLoaded": "Page loaded",
+                "previous": "Back",
+                "navigationDrawer": "Open course resources and search",
+                "drawer": "Side drawer",
+                "closePopup": "Close popup",
+                "next": "Next",
+                "done": "Done",
+                "complete": "Complete",
+                "incomplete": "Incomplete",
+                "correct": "Correct",
+                "incorrect": "Incorrect",
+                "locked": "Locked",
+                "accessibilityToggleButton": "By selecting this button you can set whether accessibility is turned on or off",
+                "feedbackPopUp": "Popup opened",
+                "visited": "Visited",
+                "menuIndicatorHeading": "Menu item heading "
+            }
+        }
+    },
+    "title": "Внеплановый инструктаж по ПОД/ФТ",
+    "displayTitle": "Внеплановый инструктаж по ПОД/ФТ",
+    "body": "<p>В связи с изменениями Правил внутреннего контроля по противодействию легализации (отмыванию) доходов, полученных преступным путем, и финансированию терроризма № 881-9-р.</p><p><em>ПВК № 881-9/5-р (изменения 5)</em></br><em>ПВК № 881-9/6-р (изменения 6)</em></p>",
+    "description": "",
+    "_latestTrackingId": 72,
+    "_buttons": {
+        "_submit": {
+            "buttonText": "Submit",
+            "ariaLabel": "Submit"
+        },
+        "_reset": {
+            "buttonText": "Reset",
+            "ariaLabel": "Reset"
+        },
+        "_showCorrectAnswer": {
+            "buttonText": "Show correct answer",
+            "ariaLabel": "Show correct answer"
+        },
+        "_hideCorrectAnswer": {
+            "buttonText": "Hide correct answer",
+            "ariaLabel": "Hide correct answer"
+        },
+        "_showFeedback": {
+            "buttonText": "Show feedback",
+            "ariaLabel": "Show feedback"
+        },
+        "remainingAttemptsText": "remaining attempts",
+        "remainingAttemptText": "final attempt",
+        "disabledAriaLabel": "This button is disabled at the moment"
+    },
+    "_classes": "",
+    "_lockType": "",
+    "_id": "course",
+    "_start": {
+        "_isEnabled": true,
+        "_id": "p-01",
+        "_force": true
+    },
+    "_type": "course",
+    "themeVariables": {
+        "_colors": {
+            "primary-color": "#000000",
+            "primary-color-inverted": "#ffffff",
+            "secondary-color": "#f4a024",
+            "secondary-color-inverted": "#ffffff",
+            "tertiary-color": "#ffffff",
+            "tertiary-color-inverted": "#000000",
+            "quaternary-color": "#ffffff",
+            "quaternary-color-inverted": "#ffffff",
+            "foreground-color": "#000000",
+            "background-color": "#ffffff",
+            "foreground-color-inverted": "#ffffff",
+            "background-color-inverted": "#546e7a",
+            "validation-error": "#FF5740",
+            "validation-success": "#009B0A",
+            "disabled-color": "#F4A023",
+            "disabled-color-inverted": "#ffffff"
+        }
+    },
+    "_pageLevelProgress": {
+        "_isEnabled": true,
+        "_showPageCompletion": true
+    },
+    "_bookmarking": {
+        "_isEnabled": true,
+        "_level": "component",
+        "_showPrompt": true,
+        "title": "Закладки",
+        "body": "Хотите продолжить с того места, где остановились?",
+        "_buttons": {
+            "yes": "Да",
+            "no": "Нет"
+        }
+    },
+    "_close": {
+        "_isEnabled": true,
+        "_button": {
+            "_closeViaLMSFinish": false,
+            "_isEnabled": true,
+            "_notifyPromptIfIncomplete": {
+                "_isEnabled": true,
+                "title": "Закрыть курс",
+                "body": "<p>Вы еще не прошли курс. Уверены, что хотите закрыть его?</p>",
+                "confirm": "Закрыть",
+                "cancel": "Отмена"
+            },
+            "_notifyPromptIfComplete": {
+                "_isEnabled": true,
+                "title": "Закрыть курс",
+                "body": "<p>Вы уверены, что хотите закрыть курс?</p>",
+                "confirm": "Закрыть",
+                "cancel": "Отмена"
+            }
+        },
+        "browserPromptIfIncomplete": "",
+        "browserPromptIfComplete": ""
+    },
+    "_canBackground": {
+        "_isActive": true
+    },
+    "_menuBackground": {
+        "_menuHeader": {
+            "_link": "course/1/assets/1f79f798dba67649369f59ee7aaf0270ad347170.png",
+            "_applyToPage": false
+        },
+        "_backgroundLink": ""
+    },
+    "_nudge": {
+        "_isEnabled": false,
+        "_nonInteractiveComponents": {
+            "_autoAssign": false,
+            "_components": [
+                "assessmentResults",
+                "blank",
+                "graphic",
+                "text"
+            ]
+        },
+        "_isScrollEnabled": true,
+        "_isPlpEnabled": true,
+        "_isTrickleEnabled": false,
+        "_isPageCompletionEnabled": true,
+        "_isTrackingEnabled": true,
+        "_nudgePlpBeforeScroll": false,
+        "_showScrollNudgeOnlyOnce": false,
+        "_visibilityThreshold": 33,
+        "_wait": 5000,
+        "_debug": false
+    }
+}

@@ -1,5 +1,5 @@
 {
-  "_defaultLanguage": "ru",
+  "_defaultLanguage": "1",
   "_defaultDirection": "ltr",
   "_questionWeight": 1,
   "_generateSourcemap": false,
@@ -65,34 +65,56 @@
     }
   },
   "_languagePicker": {
-    "_isEnabled": true,
-    "title": "Выбор языка",
-    "displayTitle": "Выбор языка / Change the language",
-    "body": "",
+    "_isEnabled": false,
+    "title": "Выбор подразделения",
+    "displayTitle": "Выбор подразделения",
+    "body": "<p>Рады приветствовать Вас в курсе &laquo;Внеплановый инструктаж по ПОД/ФТ&raquo;.</p><p>Курс предназначен для изучения сотрудниками изменений, произошедших в программах внутреннего контроля по противодействию легализации (отмыванию) доходов, полученных преступным путем, и финансированию терроризма.</p><p>Для прохождения обучения Вам необходимо выбрать курс, соответствующий направлению деятельности Вашего подразделения.</p>",
     "_showOnCourseLoad": true,
     "_languagePickerIconClass": "icon-language-2",
     "_classes": "",
     "_languages": [
       {
-        "_language": "ru",
+        "_language": "1",
         "_direction": "ltr",
-        "displayName": "Русский <img class='flag-img' src='course/ru/assets/russia.png'>",
-        "warningTitle": "Change the language",
-        "warningMessage": "Подтвердите выбор / Confirm selection",
+        "displayName": "Обслуживание, сопровождение операций частных клиентов",
+        "warningTitle": "Выбор подразделения",
+        "warningMessage": "Подтвердите выбор",
         "_buttons": {
-          "yes": "Да / Yes",
-          "no": "Нет / No"
+          "yes": "Да",
+          "no": "Нет"
         }
       },
       {
-        "_language": "en",
+        "_language": "2",
         "_direction": "ltr",
-        "displayName": "English <img class='flag-img' src='course/ru/assets/united-states.png'>",
-        "warningTitle": "Выбор языка",
-        "warningMessage": "Подтвердите выбор / Confirm selection",
+        "displayName": "Обслуживание, сопровождение операций корпоративных клиентов",
+        "warningTitle": "Выбор подразделения",
+        "warningMessage": "Подтвердите выбор",
         "_buttons": {
-          "yes": "Да / Yes",
-          "no": "Нет / No"
+          "yes": "Да",
+          "no": "Нет"
+        }
+      },
+      {
+        "_language": "3",
+        "_direction": "ltr",
+        "displayName": "Комплаенс, аудит, право, безопасность",
+        "warningTitle": "Выбор подразделения",
+        "warningMessage": "Подтвердите выбор",
+        "_buttons": {
+          "yes": "Да",
+          "no": "Нет"
+        }
+      },
+      {
+        "_language": "4",
+        "_direction": "ltr",
+        "displayName": "Остальные подразделения",
+        "warningTitle": "Выбор языка",
+        "warningMessage": "Подтвердите выбор",
+        "_buttons": {
+          "yes": "Да",
+          "no": "Нет"
         }
       }
     ],

@@ -55,8 +55,8 @@
         }
     },
     {
-        "title": "Причины и пути решения",
-        "displayTitle": "Причины и пути решения",
+        "title": "Block title",
+        "displayTitle": "Reasons and Solutions",
         "body": "",
         "_classes": "pho card-element",
         "_trackingId": 4,
@@ -95,8 +95,8 @@
         }
     },
     {
-        "title": "Требования законодательства РФ",
-        "displayTitle": "Требования законодательства РФ",
+        "title": "Russian Legislative Requirements",
+        "displayTitle": "Russian Legislative Requirements",
         "body": "",
         "_classes": "one-block",
         "_trackingId": 6,
@@ -115,8 +115,8 @@
         }
     },
     {
-        "title": "1. Основные документы, регулирующие деятельность комплаенс (в действующей редакции)",
-        "displayTitle": "1. Основные документы, регулирующие деятельность комплаенс (в действующей редакции)",
+        "title": "1. Main Documents Regulating Compliance Activities (in the current version)",
+        "displayTitle": "1. Main Documents Regulating Compliance Activities and Compliance Related Tutorials (in the current version)",
         "body": "",
         "_classes": "padding-top",
         "_trackingId": 7,
@@ -395,8 +395,8 @@
         }
     },
     {
-        "title": "Требования законодательства ЕС",
-        "displayTitle": "Требования законодательства ЕС",
+        "title": "EU Legislative Requirements",
+        "displayTitle": "EU Legislative Requirements",
         "body": "",
         "_classes": "one-block",
         "_trackingId": 24,
@@ -418,7 +418,7 @@
         "title": "Block title",
         "displayTitle": "",
         "body": "",
-        "_classes": "",
+        "_classes": "one-block border-bottom",
         "_trackingId": 25,
         "instruction": "",
         "_isOptional": false,
@@ -438,7 +438,7 @@
         "title": "Block title",
         "displayTitle": "",
         "body": "",
-        "_classes": "one-block border-bottom",
+        "_classes": "",
         "_trackingId": 26,
         "instruction": "",
         "_isOptional": false,
@@ -475,8 +475,8 @@
         }
     },
     {
-        "title": "2. Обучающие курсы по направлениям комплаенс",
-        "displayTitle": "2. Обучающие курсы по направлениям комплаенс",
+        "title": "2. Main Tutorials Regulating Compliance Activities",
+        "displayTitle": "2. Main Tutorials Regulating Compliance Activities and Compliance Related Tutorials",
         "body": "",
         "_classes": "padding-top",
         "_trackingId": 28,
@@ -535,8 +535,8 @@
         }
     },
     {
-        "title": "Внутренние требования Банка",
-        "displayTitle": "Внутренние требования Банка",
+        "title": "Bank’s Internal Requirements",
+        "displayTitle": "Bank’s Internal Requirements",
         "body": "",
         "_classes": "one-block",
         "_trackingId": 31,
@@ -635,8 +635,8 @@
         }
     },
     {
-        "title": "3. «Горячая линия комплаенс» – возможность сообщить о нарушениях в сфере комплаенс",
-        "displayTitle": "3. «Горячая линия комплаенс» – возможность сообщить о нарушениях в сфере комплаенс",
+        "title": "3. \"Compliance Hotline\" – a Possibility to Report Violations in the Area of Compliance",
+        "displayTitle": "3. \"Compliance Hotline\" – a Possibility to Report Violations in the Area of Compliance",
         "body": "",
         "_classes": "padding-top",
         "_trackingId": 36,
@@ -855,8 +855,8 @@
         }
     },
     {
-        "title": "4. Банк запрещает следующие виды подарков вне зависимости от их стоимости",
-        "displayTitle": "4. Банк запрещает следующие виды подарков вне зависимости от их стоимости",
+        "title": "4. The Following Types of Gifts are Prohibited Irrespective of Their Value",
+        "displayTitle": "4. The Following Types of Gifts are Prohibited Irrespective of Their Value",
         "body": "",
         "_classes": "padding-top",
         "_trackingId": 47,
@@ -875,8 +875,8 @@
         }
     },
     {
-        "title": "5. Правила участия в мероприятиях",
-        "displayTitle": "5. Правила участия в мероприятиях",
+        "title": "5. Rules for Participation in Events",
+        "displayTitle": "5. Rules for Participation in Events",
         "body": "",
         "_classes": "padding-top",
         "_trackingId": 48,
@@ -895,8 +895,8 @@
         }
     },
     {
-        "title": "6. Правила дарения подарков государственным служащим и должностным лицам",
-        "displayTitle": "6. Правила дарения подарков государственным служащим и должностным лицам",
+        "title": "6. Rules for Giving Gifts to Public Officials and Officers",
+        "displayTitle": "6. Rules for Giving Gifts to Public Officials and Officers",
         "body": "",
         "_classes": "padding-top",
         "_trackingId": 49,
@@ -915,8 +915,8 @@
         }
     },
     {
-        "title": "7. Во избежание конфликта интересов работникам Банка запрещено",
-        "displayTitle": "7. Во избежание конфликта интересов работникам Банка запрещено",
+        "title": "7. In Order to Avoid Conflict of Interest, Bank Employees Are Prohibited from",
+        "displayTitle": "7. In Order to Avoid Conflict of Interest, Bank Employees Are Prohibited from",
         "body": "",
         "_classes": "padding-top",
         "_trackingId": 50,
@@ -935,8 +935,8 @@
         }
     },
     {
-        "title": "8. Регуляторные требования Европейского Союза",
-        "displayTitle": "8. Регуляторные требования Европейского Союза",
+        "title": "8. Regulatory Requirements of the European Union",
+        "displayTitle": "8. Regulatory Requirements of the European Union",
         "body": "",
         "_classes": "padding-top",
         "_trackingId": 51,
@@ -975,8 +975,8 @@
         }
     },
     {
-        "title": "9. Обязанности инсайдера по соблюдению законодательства об инсайде (224-ФЗ) и внутренних правил Банка",
-        "displayTitle": "9. Обязанности инсайдера по соблюдению законодательства об инсайде (224-ФЗ) и внутренних правил Банка",
+        "title": "9. Insider’s Obligations to Observe the Insider Dealing Legislation (224-FZ) and the Bank’s Internal Rules",
+        "displayTitle": "9. Insider’s Obligations to Observe the Insider Dealing Legislation (224-FZ) and the Bank’s Internal Rules",
         "body": "",
         "_classes": "padding-top",
         "_trackingId": 53,
@@ -1015,8 +1015,8 @@
         }
     },
     {
-        "title": "10. Перечень персональных операций с финансовым инструментом* ",
-        "displayTitle": "10. Перечень персональных операций с финансовым инструментом* ",
+        "title": "10. List of personal transactions with a financial instrument* ",
+        "displayTitle": "10. List of personal transactions with a financial instrument* ",
         "body": "",
         "_classes": "padding-top",
         "_trackingId": 55,
@@ -1035,8 +1035,8 @@
         }
     },
     {
-        "title": "11. Краткий обзор составов манипулирования ",
-        "displayTitle": "11. Краткий обзор составов манипулирования ",
+        "title": "11. Summary of Sets of Elements of Manipulation",
+        "displayTitle": "11. Summary of Sets of Elements of Manipulation",
         "body": "",
         "_classes": "padding-top",
         "_trackingId": 56,
@@ -1075,8 +1075,8 @@
         }
     },
     {
-        "title": "12. Виды экономических санкций ",
-        "displayTitle": "12. Виды экономических санкций ",
+        "title": "12. Types of Economic Sanctions",
+        "displayTitle": "12. Types of Economic Sanctions",
         "body": "",
         "_classes": "padding-top",
         "_trackingId": 58,
@@ -1095,8 +1095,8 @@
         }
     },
     {
-        "title": "13. Санкции в отношении Банка ",
-        "displayTitle": "13. Санкции в отношении Банка ",
+        "title": "13. Sanctions against the Bank",
+        "displayTitle": "13. Sanctions against the Bank",
         "body": "",
         "_classes": "padding-top",
         "_trackingId": 59,
@@ -1158,7 +1158,7 @@
         "title": "Block title",
         "displayTitle": "",
         "body": "",
-        "_classes": "one-block border-bottom",
+        "_classes": "one-block",
         "_trackingId": 62,
         "instruction": "",
         "_isOptional": false,
@@ -1175,8 +1175,8 @@
         }
     },
     {
-        "title": "14. Краткое описание санкционных программ ",
-        "displayTitle": "14. Краткое описание санкционных программ ",
+        "title": "14. Brief Description of Sanction Programs",
+        "displayTitle": "14. Brief Description of Sanction Programs",
         "body": "",
         "_classes": "padding-top",
         "_trackingId": 63,
@@ -1195,8 +1195,8 @@
         }
     },
     {
-        "title": "15. Осуществление деятельности в интересах и от имени Сбербанка в условиях санкционных ограничений отдельными категориями работников ",
-        "displayTitle": "15. Осуществление деятельности в интересах и от имени Сбербанка в условиях санкционных ограничений отдельными категориями работников ",
+        "title": "15. Performance by Certain Categories of Employees of Activities in the Interests and on Behalf of Sberbank in Conditions of Sanctional Restrictions",
+        "displayTitle": "15. Performance by Certain Categories of Employees of Activities in the Interests and on Behalf of Sberbank in Conditions of Sanctional Restrictions",
         "body": "",
         "_classes": "padding-top",
         "_trackingId": 64,
@@ -1215,8 +1215,8 @@
         }
     },
     {
-        "title": "16. Участие в международных форумах, конференциях в интересах или от имени Сбербанка ",
-        "displayTitle": "16. Участие в международных форумах, конференциях в интересах или от имени Сбербанка ",
+        "title": "16. Participation in International Forums, Conferences in the Interests or on Behalf of Sberbank",
+        "displayTitle": "16. Participation in International Forums, Conferences in the Interests or on Behalf of Sberbank",
         "body": "",
         "_classes": "padding-top",
         "_trackingId": 65,

@@ -1,0 +1,157 @@
+[
+  {
+    "title": "Раздел 2. Программа организации системы ПОД/ФТ",
+    "displayTitle": "<strong>Раздел 2</strong>. Программа организации системы ПОД/ФТ",
+    "body": "",
+    "_classes": "article-top",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "a-01",
+    "_parentId": "p-01",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "src": "",
+      "mobileSrc": "",
+      "bannerHeight": 300,
+      "mobileBannerHeight": 150,
+      "backgroundSize": "cover",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundAttachement": "fixed",
+      "backgroundColor": "transparent",
+      "transparentChildren": true
+    }
+  },
+  {
+    "title": "Раздел 3. Программа идентификации Клиента, представителя Клиента, выгодоприобретателя и бенефициарного владельца в целях 115-ФЗ",
+    "displayTitle": "<strong>Раздел 3</strong>. Программа идентификации Клиента, представителя Клиента, выгодоприобретателя и бенефициарного владельца в целях 115-ФЗ",
+    "body": "",
+    "_classes": "article-top",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "a-02",
+    "_parentId": "p-01",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "src": "",
+      "mobileSrc": "",
+      "bannerHeight": 300,
+      "mobileBannerHeight": 150,
+      "backgroundSize": "cover",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundAttachement": "fixed",
+      "backgroundColor": "transparent",
+      "transparentChildren": true
+    }
+  },
+  {
+    "title": "Раздел 4. Программа управления риском легализации (отмывания) доходов",
+    "displayTitle": "<strong>Раздел 4</strong>. Программа управления риском легализации (отмывания) доходов",
+    "body": "",
+    "_classes": "article-top",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "a-03",
+    "_parentId": "p-01",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "src": "",
+      "mobileSrc": "",
+      "bannerHeight": 300,
+      "mobileBannerHeight": 150,
+      "backgroundSize": "cover",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundAttachement": "fixed",
+      "backgroundColor": "transparent",
+      "transparentChildren": true
+    }
+  },
+  {
+    "title": "Раздел 6. Программа организации работы по отказу от заключения договора",
+    "displayTitle": "<strong>Раздел 6</strong>. Программа организации работы по отказу от заключения договора",
+    "body": "",
+    "_classes": "article-top",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "a-04",
+    "_parentId": "p-01",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "src": "",
+      "mobileSrc": "",
+      "bannerHeight": 300,
+      "mobileBannerHeight": 150,
+      "backgroundSize": "cover",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundAttachement": "fixed",
+      "backgroundColor": "transparent",
+      "transparentChildren": true
+    }
+  },
+  {
+    "title": "Последний раздел",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "article-top",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "a-05",
+    "_parentId": "p-01",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "src": "",
+      "mobileSrc": "",
+      "bannerHeight": 300,
+      "mobileBannerHeight": 150,
+      "backgroundSize": "cover",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundAttachement": "fixed",
+      "backgroundColor": "transparent",
+      "transparentChildren": true
+    }
+  }
+]

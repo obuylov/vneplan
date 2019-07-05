@@ -1,0 +1,379 @@
+[
+  {
+    "title": "'Tone at the Top' — Executives’ Role in Compliance Risk Management",
+    "displayTitle": "\"Tone at the Top\" — Executives’ Role in Compliance Risk Management",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "2 minutes",
+    "_lockedBy": [
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cee3439a123007ffe192a60",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": "course/ru/assets/adfa7fd1c34369a6ecc9b00792970963ad49cdb8.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    }
+  },
+  {
+    "title": "Counteracting Corruption",
+    "displayTitle": "Counteracting Corruption",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "2 minutes",
+    "_lockedBy": [
+      "5cee3439a123007ffe192a60"
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cee3519a123007ffe192a64",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/ru/assets/332035996bbe2f2b52ff0567df1269f91da54a7e.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    }
+  },
+  {
+    "title": "Rules and Restrictions Relating to Receiving and Making Gifts",
+    "displayTitle": "Rules and Restrictions Relating to Receiving and Making Gifts",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "3 minutes",
+    "_lockedBy": [
+      "5cee3519a123007ffe192a64"
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cee354da123007ffe192a6a",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/ru/assets/ae7d5dc0433799c65bee7fded33b6ca563ea3f55.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    }
+  },
+  {
+    "title": "Conflict of Interest Management",
+    "displayTitle": "Conflict of Interest Management",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "3 minutes",
+    "_lockedBy": [
+      "5cee354da123007ffe192a6a"
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cee3562a123007ffe192a6d",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/ru/assets/fc3ae26327fa70a769c457e5139e81c2a2594f46.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    }
+  },
+  {
+    "title": "Insider Information and Personal Transactions with Securities Made by the Bank Employees",
+    "displayTitle": "Insider Information and Personal Transactions with Securities Made by the Bank Employees",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "4 minutes",
+    "_lockedBy": [
+      "5cee3562a123007ffe192a6d"
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cee3584a123007ffe192a70",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/ru/assets/07d64529ab6ad484b7760c9cc5fe33ab54501c14.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    }
+  },
+  {
+    "title": "Economic Sanctions",
+    "displayTitle": "Economic Sanctions",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "2 minutes",
+    "_lockedBy": [
+      "5cee3584a123007ffe192a70"
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cee3597a123007ffe192a73",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/ru/assets/9787d2f128548efb11cd0bce66b71b3ecbfb3507.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    }
+  },
+  {
+    "title": "Anti-Money Laundering and Counteracting the Financing of Terrorism (AML/CFT)",
+    "displayTitle": "Anti-Money Laundering and Counteracting the Financing of Terrorism (AML/CFT)",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "4 minutes",
+    "_lockedBy": [
+      "5cee3597a123007ffe192a73"
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cee3599a123007ffe192a76",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/ru/assets/758f828b09563205bd3cefe19046d26d29f40794.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    }
+  },
+  {
+    "title": "Liability for Failure to Observe the Compliance Requirements",
+    "displayTitle": "Liability for Failure to Observe the Compliance Requirements",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "3 minutes",
+    "_lockedBy": [
+      "5cee3599a123007ffe192a76"
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cee35bba123007ffe192a79",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/ru/assets/b32251fec1685c117bf3825b1e6f85403028f18e.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": false,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "title": "Course completion",
+    "displayTitle": "Course completion",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Complete",
+    "duration": "",
+    "_lockedBy": [
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "lastPage",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/ru/assets/lastpage.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": false,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "title": "Annexes",
+    "displayTitle": "Annexes",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cefaaf3a123007ffe192bc9",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/ru/assets/a8b720f9dce6a64ffea2af57a2261e51b35ef4ce.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": false,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  }
+]
