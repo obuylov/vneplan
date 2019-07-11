@@ -30,6 +30,21 @@
         "_type": "block"
     },
     {
+        "title": "Статья 2 | Блок 2",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 73,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "b-02-2",
+        "_parentId": "a-02",
+        "_type": "block"
+    },
+    {
         "title": "Статья 3 | Блок 1",
         "displayTitle": "В раздел 4 ПВК внесены изменения",
         "body": "",
