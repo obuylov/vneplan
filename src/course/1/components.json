@@ -282,7 +282,7 @@
         "ariaLabel": "Вперед >",
         "_showTooltip": false,
         "tooltip": "{{displayTitle}}",
-        "_customRouteId": "p-01"
+        "_customRouteId": "p-02"
       },
       "_sibling": {
         "_isEnabled": false,
@@ -746,6 +746,294 @@
       "_isEnabled": true
     },
     "instruction": ""
-  }
+  },
 
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "В Раздел 2 ПВК внесены изменения",
+    "displayTitle": "В Раздел 2 ПВК внесены изменения",
+    "body": "<p>1. Банк не заключает договоры эквайринга с организациями и лицами &ndash; фигурантами <span data-title='Перечень организаций и физических лиц, в отношении которых имеются сведения об их причастности к экстремистской деятельности или терроризму/Список причастных к терроризму' data-rel='tooltip' onmouseenter='tooltip.call(this)'><span class='i-text'>ПЭ/СПТ</span> <span class='i'></span></span> <strong>п. 2.15.4 ПВК</strong>.</p>",
+    "_id": "c-02_01",
+    "_parentId": "b-02_01",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "2",
+    "displayTitle": "",
+    "body": "<p>2. В соответствии с п. 2.15.6.1 ПВК Банк не осуществляет оформление, выдачу и перевыпуск банковских карт:</p><ul><li>юридическому и физическому лицу &ndash; фигурантам ПЭ/СПТ</li><li>в случае наличия сведений о физическом лице, ИП, юридическом лице в АС СТОП-ЛИСТ с кодом 4.05 со статусом &laquo;присутствует-подтверждена&raquo;</li></ul><p><strong>Обратите внимание! </strong></p><p>Ранее были определены исключения для некоторых карт. В новой редакции ПВК исключений нет.</p><ul><li>в других случаях (по решению Управления комплаенс территориального банка)</li></ul>",
+    "_id": "c-02_02",
+    "_parentId": "b-02_02",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "3",
+    "displayTitle": "",
+    "body": "<p>3. В соответствии с <strong>п. 2.15.7 ПВК</strong> работникам Банка запрещено информировать Клиентов и иных лиц о принимаемых мерах по ПОД/ФТ, <strong>за исключением информирования</strong> Клиентов:</p><ul><li>о принятых мерах по замораживанию (блокированию) денежных средств или иного имущества</li><li>о приостановлении операции</li><li>об отказе в выполнении распоряжения клиента о совершении операций, об отказе от заключения договора банковского счета (вклада), о расторжении договора банковского счета (вклада) <strong>и их причинах</strong></li><li>о необходимости предоставления документов по основаниям, предусмотренным Законом №115-ФЗ</li></ul>",
+    "_id": "c-02_03",
+    "_parentId": "b-02_03",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "4",
+    "displayTitle": "",
+    "body": "<p>4. Отменена ранее действующая процедура &laquo;Особенности приема на обслуживание юридических лиц/ИП, данные которых содержатся в массиве данных АС СТОП-ЛИСТ с кодом причины внесения 4.05&raquo; (исключаются п. 2.17, 2.17.1, 2.17.2 и 2.17.3 и соответствующая форма Заключения о пересмотре решения Приложение № 27 ПВК ) в нумерации редакции ПВК №5)) В случае наличия данных клиента в указанном массиве следует действовать в соответствии с иными процедурами, указанными в ПВК, в т. ч. в соответствии с Программой по отказам (Раздел 4)</p>",
+    "_id": "c-02_04",
+    "_parentId": "b-02_04",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "В Раздел 3 ПВК внесены изменения",
+    "displayTitle": "В Раздел 3 ПВК внесены изменения",
+    "body": "<p>1. <strong>Приведены уточнения (буллит 2 п. 3.8.10.2 ПВК)</strong>, касающиеся второй части анкеты клиента &ndash; юридического лица/ индивидуального предпринимателя сегмента Микро и Малый бизнес: При использовании инструмента Iserve сводный файл &laquo;Сведения Клиента&raquo; с идентификационными данными&nbsp;создается автоматически при завершении активности с новым Клиентом.</p>",
+    "_id": "c-02_05",
+    "_parentId": "b-02_05",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "2",
+    "displayTitle": "",
+    "body": "<p>2. Требования по фиксированию в Анкете клиента сведений о бенефициарном владельце (<strong>п. 3.8.10.4 ПВК</strong>). В анкете клиента фиксируется как информация о бенефициарном владельце, представленная клиентом, так и информация о бенефициарном владельце, установленная Банком по результатам анализа совокупности имеющихся документов и (или) информации о клиенте, в т.ч. полученные при использовании доступных на законных основаниях источников информации.</p>",
+    "_id": "c-02_06",
+    "_parentId": "b-02_06",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "3",
+    "displayTitle": "",
+    "body": "<p>3. В соответствии с <strong>п. 3.11.7 ПВК</strong> Решение о признании физического лица бенефициарным владельцем <strong>приобщается в юридическое дело</strong> Клиента.</p><div class=\"green\"><p><strong>Внимание!</strong> Форма Решения, а также процедуры выявления и идентификации бенефициарных владельцев корпоративных Клиентов определены в Сборнике Методик 4525 Часть 4 (актуальная редакция №4525-1/5 от 20.03.2018).</p></div>",
+    "_id": "c-02_07",
+    "_parentId": "b-02_07",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "4",
+    "displayTitle": "",
+    "body": "<p>4. Сбор информации о принадлежности бенефициарных владельцев и ЕИО принятых на обслуживание клиентов к ПДЛ/ИПДЛ и их родственникам осуществляется по форме Приложений 9, 9А и 10 в рамках процедуры идентификации. Ответственным за сбор <span data-title='Информационные сведения клиента (предоставляются при приеме на обслуживание и при обновлении данных клиента)' data-rel='tooltip' onmouseenter='tooltip.call(this)'><span class='i-text'>ИСК</span> <span class='i'></span></span> является сотрудник, проводящий идентификацию/обновление сведений (<strong>п.3.15.6 ПВК</strong>).</p>",
+    "_id": "c-02_08",
+    "_parentId": "b-02_08",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "В раздел 4 ПВК внесены изменения",
+    "displayTitle": "В раздел 4 ПВК внесены изменения",
+    "body": "<p>ПЦП Центр комплаенс направляет в подразделения Банка <strong>информацию о клиентах</strong>, совершивших &laquo;подозрительные&raquo; операции, а также о клиентах, в отношении которых были направлены сообщения об отказе в заключении договора банковского счета/ выполнении распоряжения о совершении операции, сообщения о расторжении договора <strong>для пересмотра уровня риска</strong>, согласно <strong>п. 4.11 ПВК</strong>.</p><div class=\"green\"><p><strong>Обратите внимание!</strong> Клиентом является лицо, у которого с Банком установлены отношения. Если лицо не имеющее установленных с Банком отношений, обратилось с целью заключения договора банковского счета или с целью совершения операции, Банком принято решение об отказе, то по такому лицу не надо проставлять повышенный уровень риска, т.к. это лицо &ndash; не клиент Банка.</p></div>",
+    "_id": "c-02_09",
+    "_parentId": "b-02_09",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "В раздел 5 ПВК внесены изменения",
+    "displayTitle": "В раздел 5 ПВК внесены изменения",
+    "body": "<p><ul><li>Операции группы 30 &ndash; операции, связанные с государствами, не выполняющими рекомендации ФАТФ</li><li>Операции группы 41 &ndash; расчеты по государственному оборонному заказу</li></ul><p>Перечень изменений</p>",
+    "_id": "c-02_10",
+    "_parentId": "b-02_10",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "В раздел 6 ПВК внесены изменения",
+    "displayTitle": "В раздел 6 ПВК внесены изменения",
+    "body": "<p>Установлен Порядок действий в случае представления Клиентом в Банк документов и (или) сведений об отсутствии оснований для принятия решения об отказе от проведения операции или об отказе от заключения договора банковского счета (вклада) <strong>п. 6.11</strong>.</p><div class=\"green\"><p><strong>Обратите внимание!</strong> Клиент может представить в Банк документы и (или) сведения, свидетельствующие/ подтверждающие отсутствие оснований для принятия решения об отказе от проведения операции или об отказе от заключения договора банковского счета (вклада) на электронный адрес otkaz115fz@sberbank.ru либо путем размещения обращения на сайте www.sberbank.ru в разделе &laquo;обратная связь с Банком&raquo;.</p></div>",
+    "_id": "c-02_11",
+    "_parentId": "b-02_11",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Изменились формы следующих документов",
+    "displayTitle": "Изменились формы следующих документов",
+    "body": "<div class=\"yellow\"><p>ВАЖНО!</p><ol><li>Приложение 9 ИСК для юр.лиц</li><li>Приложение 9А ИСК для юр.лиц/ИП (для Клиентов, имеющих расчетный счет)</li><li>Приложение 10 ИСК ИП</li><li>Приложение 12 Дополнительные сведения в целях FATCA и CRS</li><li>Приложение 16 Уведомление об отказе</li></ol></div><p><span style=\"color: #1e9110;\">Внимание!</span> Внеплановый инструктаж по ПОД/ФТ проводится в связи с изменениями Правил внутреннего контроля в целях ПОД/ФТ, что подтверждается собственноручной подписью работника в <strong>Листе учета</strong>.</p><p>Редакция ПВК № 881-9/6-р</p><p>Пожалуйста, направьте в подразделение по работе с персоналом (для хранения в личном деле) распечатанные и <span data-title='В Листе учета подлежат заполнению поля:&lt;/br&gt;1) Фамилия, Имя, Отчество &lt;/br&gt;2) Подразделение &lt;/br&gt; 3) Должность &lt;/br&gt; 4) Дата (в случае если заранее не указана) </br> 5) Подпись работника, прошедшего обучение/проверку' data-rel='tooltip' onmouseenter='tooltip.call(this)'><span class='i-text'>заполненные</span> <span class='i'></span></span> Листы учета.</p><p><strong>Обратите внимание, Вам необходимо заполнить 2 документа &ndash; Лист учета 1 и Лист учета 2.</strong></p><p>Лист учета 1</p><p>Лист учета 2</p>",
+    "_id": "c-02_12",
+    "_parentId": "b-02_12",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  }
 ]

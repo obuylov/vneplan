@@ -72,5 +72,42 @@
       "_showPageCompletion": true,
       "_excludeAssessments": false
     }
+  },
+  {
+    "title": "Обслуживание, сопровождение операций корпоративных клиентов",
+    "displayTitle": "Внеплановый инструктаж по ПОД/ФТ",
+    "body": "<p>В связи с изменениями Правил внутреннего контроля по противодействию легализации (отмыванию) доходов, полученных преступным путем, и финансированию терроризма № 881-9-р.</p><p><em>ПВК № 881-9/5-р (изменения 5)</em></br><em>ПВК № 881-9/6-р (изменения 6)</em></p>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Изучить",
+    "duration": "2 минуты",
+    "_lockedBy": [
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "p-02",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": "course/1/assets/adfa7fd1c34369a6ecc9b00792970963ad49cdb8.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    }
   }
 ]
