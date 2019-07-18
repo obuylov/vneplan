@@ -626,5 +626,68 @@
       "backgroundColor": "transparent",
       "transparentChildren": true
     }
+  },
+
+  {
+    "title": "Внесены изменения",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "article-top",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "a-04_01",
+    "_parentId": "p-04",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "src": "",
+      "mobileSrc": "",
+      "bannerHeight": 300,
+      "mobileBannerHeight": 150,
+      "backgroundSize": "cover",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundAttachement": "fixed",
+      "backgroundColor": "transparent",
+      "transparentChildren": true
+    }
+  },
+  {
+    "title": "Последний раздел",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "article-top",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "a-04_02",
+    "_parentId": "p-04",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "src": "",
+      "mobileSrc": "",
+      "bannerHeight": 300,
+      "mobileBannerHeight": 150,
+      "backgroundSize": "cover",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundAttachement": "fixed",
+      "backgroundColor": "transparent",
+      "transparentChildren": true
+    }
   }
 ]

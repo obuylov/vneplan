@@ -630,5 +630,35 @@
         "_id": "b-03_15",
         "_parentId": "a-03_06",
         "_type": "block"
+    },
+    {
+        "title": "Статья 1 | Блок 1",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 121,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "b-04_01",
+        "_parentId": "a-04_01",
+        "_type": "block"
+    },
+    {
+        "title": "Статья 2 | Блок 1",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 122,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "b-04_02",
+        "_parentId": "a-04_02",
+        "_type": "block"
     }
 ]
