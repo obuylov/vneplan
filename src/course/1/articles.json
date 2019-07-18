@@ -336,7 +336,7 @@
     }
   },
   {
-    "title": "Раздел 5. Программа выявления в деятельности Клиентов операций, подлежащих обязательному контролю, и операций, в отношении которых возникают подозрения, что они осуществляются в целях легализации (отмывания) доходов, полученных преступным путем, или финансирования терроризма",
+    "title": "Раздел 5",
     "displayTitle": "<strong>Раздел 5</strong>. Программа выявления в деятельности Клиентов операций, подлежащих обязательному контролю, и операций, в отношении которых возникают подозрения, что они осуществляются в целях легализации (отмывания) доходов, полученных преступным путем, или финансирования терроризма",
     "body": "",
     "_classes": "article-top",
@@ -367,7 +367,7 @@
     }
   },
   {
-    "title": "Раздел 6. Программа организации работы по отказу от заключения договора банковского счета (вклада) физическим лицом, юридическим лицом, иностранной структурой без образования юридического лица отказу выполнении распоряжения клиента о совершении операции и по расторжению договора банковского счета (вклада)",
+    "title": "Раздел 6",
     "displayTitle": "<strong>Раздел 6</strong>. Программа организации работы по отказу от заключения договора банковского счета (вклада) физическим лицом, юридическим лицом, иностранной структурой без образования юридического лица отказу выполнении распоряжения клиента о совершении операции и по расторжению договора банковского счета (вклада)",
     "body": "",
     "_classes": "article-top",
@@ -409,6 +409,205 @@
     "_isVisible": true,
     "_id": "a-02_06",
     "_parentId": "p-02",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "src": "",
+      "mobileSrc": "",
+      "bannerHeight": 300,
+      "mobileBannerHeight": 150,
+      "backgroundSize": "cover",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundAttachement": "fixed",
+      "backgroundColor": "transparent",
+      "transparentChildren": true
+    }
+  },
+
+  {
+    "title": "Раздел 2. Программа организации системы ПОД/ФТ",
+    "displayTitle": "<strong>Раздел 2</strong>. Программа организации системы ПОД/ФТ",
+    "body": "",
+    "_classes": "article-top",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "a-03_01",
+    "_parentId": "p-03",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "src": "",
+      "mobileSrc": "",
+      "bannerHeight": 300,
+      "mobileBannerHeight": 150,
+      "backgroundSize": "cover",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundAttachement": "fixed",
+      "backgroundColor": "transparent",
+      "transparentChildren": true
+    }
+  },
+  {
+    "title": "Раздел 3. Программа идентификации Клиента, представителя Клиента, выгодоприобретателя \nи бенефициарного владельца в целях 115-ФЗ",
+    "displayTitle": "<strong>Раздел 3</strong>. Программа идентификации Клиента, представителя Клиента, выгодоприобретателя и бенефициарного владельца в целях 115-ФЗ",
+    "body": "",
+    "_classes": "article-top",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "a-03_02",
+    "_parentId": "p-03",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "src": "",
+      "mobileSrc": "",
+      "bannerHeight": 300,
+      "mobileBannerHeight": 150,
+      "backgroundSize": "cover",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundAttachement": "fixed",
+      "backgroundColor": "transparent",
+      "transparentChildren": true
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": true,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": true,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": null
+    }
+  },
+  {
+    "title": "Раздел 5",
+    "displayTitle": "<strong>Раздел 5</strong>. Программа выявления в деятельности Клиентов операций, подлежащих обязательному контролю, и операций, в отношении которых возникают подозрения, что они осуществляются в целях легализации (отмывания) доходов, полученных преступным путем, или финансирования терроризма",
+    "body": "",
+    "_classes": "article-top",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "a-03_03",
+    "_parentId": "p-03",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "src": "",
+      "mobileSrc": "",
+      "bannerHeight": 300,
+      "mobileBannerHeight": 150,
+      "backgroundSize": "cover",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundAttachement": "fixed",
+      "backgroundColor": "transparent",
+      "transparentChildren": true
+    }
+  },
+  {
+    "title": "Раздел 6",
+    "displayTitle": "<strong>Раздел 6</strong>. Программа организации работы по отказу от заключения договора банковского счета (вклада) физическим лицом, юридическим лицом, иностранной структурой без образования юридического лица отказу выполнении распоряжения клиента о совершении операции и по расторжению договора банковского счета (вклада)",
+    "body": "",
+    "_classes": "article-top",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "a-03_04",
+    "_parentId": "p-03",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "src": "",
+      "mobileSrc": "",
+      "bannerHeight": 300,
+      "mobileBannerHeight": 150,
+      "backgroundSize": "cover",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundAttachement": "fixed",
+      "backgroundColor": "transparent",
+      "transparentChildren": true
+    }
+  },
+  {
+    "title": "Изменения в процедурах и функциях подразделений комплаенс:",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "article-top",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "a-03_05",
+    "_parentId": "p-03",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "src": "",
+      "mobileSrc": "",
+      "bannerHeight": 300,
+      "mobileBannerHeight": 150,
+      "backgroundSize": "cover",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundAttachement": "fixed",
+      "backgroundColor": "transparent",
+      "transparentChildren": true
+    }
+  },
+  {
+    "title": "Последний раздел",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "article-top",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "a-03_06",
+    "_parentId": "p-03",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
