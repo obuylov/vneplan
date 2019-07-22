@@ -215,6 +215,42 @@
         "_isEnabled": true,
         "_showPageCompletion": true
     },
+    "_resources": {
+        "_isEnabled": true,
+        "_drawerOrder": 0,
+        "title": "Download course",
+        "description": "",
+        "_filterButtons": {
+            "all": "All",
+            "document": "Documents",
+            "media": "Media",
+            "link": "Links"
+        },
+        "_filterAria": {
+            "allAria": "View all resources",
+            "documentAria": "View document resources",
+            "mediaAria": "View media resources",
+            "linkAria": "View resource links"
+        },
+        "_resourcesItems": [
+            {
+                "_type": "document",
+                "_forceDownload": true,
+                "title": "Документ АБВ",
+                "filename": "app_29.pdf",
+                "description": "",
+                "_link": "course/1/assets/app_29.pdf"
+            },
+            {
+                "_type": "document",
+                "_forceDownload": true,
+                "title": "Документ АБВГД",
+                "filename": "app_29.pdf",
+                "description": "",
+                "_link": "course/1/assets/app_29.pdf"
+            }
+        ]
+    },
     "_bookmarking": {
         "_isEnabled": true,
         "_level": "component",
