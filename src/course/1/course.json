@@ -348,10 +348,34 @@
             {
                 "_type": "document",
                 "_forceDownload": true,
-                "title": "Лист учета 2",
-                "filename": "gen_List_2.pdf",
+                "title": "Перечень изменений",
+                "filename": "ChangeList_gr_30_41.pdf",
                 "description": "",
-                "_link": "course/1/assets/gen_List_2.pdf"
+                "_link": "course/1/assets/ChangeList_gr_30_41.pdf"
+            },
+            {
+                "_type": "document",
+                "_forceDownload": true,
+                "title": "Приложение 19A",
+                "filename": "app_19A.pdf",
+                "description": "",
+                "_link": "course/1/assets/app_19A.pdf"
+            },
+            {
+                "_type": "document",
+                "_forceDownload": true,
+                "title": "Лист учета 1",
+                "filename": "kapb_List_1.pdf",
+                "description": "",
+                "_link": "course/1/assets/kapb_List_1.pdf"
+            },
+            {
+                "_type": "document",
+                "_forceDownload": true,
+                "title": "Лист учета 2",
+                "filename": "kapb_List_2.pdf",
+                "description": "",
+                "_link": "course/1/assets/kapb_List_2.pdf"
             }
         ]
     },
