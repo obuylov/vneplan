@@ -236,18 +236,122 @@
             {
                 "_type": "document",
                 "_forceDownload": true,
-                "title": "Документ АБВ",
-                "filename": "app_29.pdf",
+                "title": "Приложение №30",
+                "filename": "app_30.pdf",
                 "description": "",
-                "_link": "course/1/assets/app_29.pdf"
+                "_link": "course/1/assets/app_30.pdf"
             },
             {
                 "_type": "document",
                 "_forceDownload": true,
-                "title": "Документ АБВГД",
-                "filename": "app_29.pdf",
+                "title": "Приложение №20",
+                "filename": "app_20.pdf",
                 "description": "",
-                "_link": "course/1/assets/app_29.pdf"
+                "_link": "course/1/assets/app_20.pdf"
+            },
+            {
+                "_type": "document",
+                "_forceDownload": true,
+                "title": "Сборник Методик 4525 Часть 4",
+                "filename": "SM_4525_pt4.pdf",
+                "description": "",
+                "_link": "course/1/assets/SM_4525_pt4.pdf"
+            },
+            {
+                "_type": "document",
+                "_forceDownload": true,
+                "title": "Редакция ПВК № 881-9/6-р",
+                "filename": "PVK_ed6.pdf",
+                "description": "",
+                "_link": "course/1/assets/PVK_ed6.pdf"
+            },
+            {
+                "_type": "document",
+                "_forceDownload": true,
+                "title": "Лист учета 1",
+                "filename": "rb_List_1.pdf",
+                "description": "",
+                "_link": "course/1/assets/rb_List_1.pdf"
+            },
+            {
+                "_type": "document",
+                "_forceDownload": true,
+                "title": "Лист учета 2",
+                "filename": "rb_List_2.pdf",
+                "description": "",
+                "_link": "course/1/assets/rb_List_2.pdf"
+            },
+            {
+                "_type": "document",
+                "_forceDownload": true,
+                "title": "Приложение 9 ИСК для юр.лиц",
+                "filename": "app_9.pdf",
+                "description": "",
+                "_link": "course/1/assets/app_9.pdf"
+            },
+            {
+                "_type": "document",
+                "_forceDownload": true,
+                "title": "Приложение 9А ИСК для юр.лиц/ИП",
+                "filename": "app_9A.pdf",
+                "description": "",
+                "_link": "course/1/assets/app_9A.pdf"
+            },
+            {
+                "_type": "document",
+                "_forceDownload": true,
+                "title": "Приложение 10 ИСК ИП",
+                "filename": "app_10.pdf",
+                "description": "",
+                "_link": "course/1/assets/app_10.pdf"
+            },
+            {
+                "_type": "document",
+                "_forceDownload": true,
+                "title": "Приложение 12 Дополнительные сведения в целях FATCA и CRS",
+                "filename": "app_12.pdf",
+                "description": "",
+                "_link": "course/1/assets/app_12.pdf"
+            },
+            {
+                "_type": "document",
+                "_forceDownload": true,
+                "title": "Приложение 16 Уведомление об отказе",
+                "filename": "app_16.pdf",
+                "description": "",
+                "_link": "course/1/assets/app_16.pdf"
+            },
+            {
+                "_type": "document",
+                "_forceDownload": true,
+                "title": "Лист учета 1",
+                "filename": "kb_List_1.pdf",
+                "description": "",
+                "_link": "course/1/assets/kb_List_1.pdf"
+            },
+            {
+                "_type": "document",
+                "_forceDownload": true,
+                "title": "Лист учета 2",
+                "filename": "kb_List_2.pdf",
+                "description": "",
+                "_link": "course/1/assets/kb_List_2.pdf"
+            },
+            {
+                "_type": "document",
+                "_forceDownload": true,
+                "title": "Лист учета 1",
+                "filename": "gen_List_1.pdf",
+                "description": "",
+                "_link": "course/1/assets/gen_List_1.pdf"
+            },
+            {
+                "_type": "document",
+                "_forceDownload": true,
+                "title": "Лист учета 2",
+                "filename": "gen_List_2.pdf",
+                "description": "",
+                "_link": "course/1/assets/gen_List_2.pdf"
             }
         ]
     },
