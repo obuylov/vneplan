@@ -732,7 +732,7 @@
     "_isVisible": true,
     "title": "Изменились формы следующих документов",
     "displayTitle": "Изменились формы следующих документов",
-    "body": "<div class=\"yellow\"><p><strong>ВАЖНО!</strong> Приложение № 16 &ndash; Уведомление об отказе.</p><p><strong>Внимание!</strong> Внеплановый инструктаж по ПОД/ФТ проводится в связи с изменениями Правил внутреннего контроля в целях ПОД/ФТ, что подтверждается собственноручной подписью работника в <strong>Листе учета</strong>.</p></div><p><a href='course/1/assets/PVK_ed6.pdf'>Редакция ПВК № 881-9/6-р</a></p><p>Пожалуйста, направьте в подразделение по работе с персоналом (для хранения в личном деле) распечатанные и <span data-title='В Листе учета подлежат заполнению поля:</br>1) Фамилия, Имя, Отчество </br>2) Подразделение </br> 3) Должность </br> 4) Дата (в случае если заранее не указана) </br> 5) Подпись работника, прошедшего обучение/проверку' data-rel='tooltip' onmouseenter='tooltip.call(this)'><span class='i-text'>заполненные</span> <span class='i'></span></span> Листы учета.</p><p><strong>Обратите внимание, Вам необходимо заполнить 2 документа &ndash; Лист учета 1 и Лист учета 2.</strong></p><p><a href='course/1/assets/rb_List_1.pdf'>Лист учета 1</a></p><p><a href='course/1/assets/rb_List_2.pdf'>Лист учета 2</a></p>",
+    "body": "<div class=\"yellow\"><p><strong>ВАЖНО!</strong> Приложение № 16 &ndash; Уведомление об отказе.</p>",
     "_id": "c-06",
     "_parentId": "b-05",
     "_type": "component",
@@ -747,6 +747,140 @@
     },
     "instruction": ""
   },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Завершение",
+    "displayTitle": "Завершение",
+    "body": "<p>Внеплановый инструктаж по ПОД/ФТ проводится в связи с изменениями Правил внутреннего контроля в целях ПОД/ФТ, что подтверждается собственноручной подписью работника в <strong>Листе учета</strong>.</p></div><p><a href='course/1/assets/PVK_ed6.pdf'>Редакция ПВК № 881-9/6-р</a></p><p>Пожалуйста, направьте в подразделение по работе с персоналом (для хранения в личном деле) распечатанные и <span data-title='В Листе учета подлежат заполнению поля:</br>1) Фамилия, Имя, Отчество </br>2) Подразделение </br> 3) Должность </br> 4) Дата (в случае если заранее не указана) </br> 5) Подпись работника, прошедшего обучение/проверку' data-rel='tooltip' onmouseenter='tooltip.call(this)'><span class='i-text'>заполненные</span> <span class='i'></span></span> Листы учета.</p><p><strong>Обратите внимание, Вам необходимо заполнить 2 документа &ndash; Лист учета 1 и Лист учета 2.</strong></p><p><a href='course/1/assets/rb_List_1.pdf'>Лист учета 1</a></p><p><a href='course/1/assets/rb_List_2.pdf'>Лист учета 2</a></p>",
+    "_id": "c-06-2",
+    "_parentId": "b-05-2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "c-final1",
+    "_parentId": "b-06",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "В меню",
+        "ariaLabel": "В меню",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Вперед >",
+        "ariaLabel": "Вперед >",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": "p-01"
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Закрыть курс",
+        "ariaLabel": "Закрыть курс",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
 
   {
     "_component": "text",
@@ -757,7 +891,7 @@
     "_isVisible": true,
     "title": "В раздел 2 ПВК внесены изменения",
     "displayTitle": "В раздел 2 ПВК внесены изменения",
-    "body": "<p>1. Банк не заключает договоры эквайринга с организациями и лицами &ndash; фигурантами <span data-title='Перечень организаций и физических лиц, в отношении которых имеются сведения об их причастности к экстремистской деятельности или терроризму/Список причастных к терроризму' data-rel='tooltip' onmouseenter='tooltip.call(this)'><span class='i-text'>ПЭ/СПТ</span> <span class='i'></span></span> <strong>п. 2.15.4 ПВК</strong>.</p>",
+    "body": "<p>1. Банк не заключает договоры эквайринга с организациями и лицами &ndash; фигурантами <span data-title='Перечень организаций и физических лиц, в отношении которых имеются сведения об их причастности к экстремистской деятельности или терроризму / Список причастных к терроризму' data-rel='tooltip' onmouseenter='tooltip.call(this)'><span class='i-text'>ПЭ/СПТ</span> <span class='i'></span></span> <strong>п. 2.15.4 ПВК</strong>.</p>",
     "_id": "c-02_01",
     "_parentId": "b-02_01",
     "_type": "component",
@@ -1021,7 +1155,7 @@
     "_isVisible": true,
     "title": "Изменились формы следующих документов",
     "displayTitle": "Изменились формы следующих документов",
-    "body": "<div class=\"yellow\"><p><strong>ВАЖНО!</strong></p><ol><li><a href='course/1/assets/app_9.pdf'>Приложение 9 ИСК для юр.лиц</a></li><li><a href='course/1/assets/app_9A.pdf'>Приложение 9А ИСК для юр.лиц/ИП</a> (для клиентов, имеющих расчетный счет)</li><li><a href='course/1/assets/app_10.pdf'>Приложение 10 ИСК ИП</a></li><li><a href='course/1/assets/app_12.pdf'>Приложение 12 Дополнительные сведения в целях FATCA и CRS</a></li><li><a href='course/1/assets/app_16.pdf'>Приложение 16 Уведомление об отказе</a></li></ol></div><p><strong>Внимание!</strong> Внеплановый инструктаж по ПОД/ФТ проводится в связи с изменениями Правил внутреннего контроля в целях ПОД/ФТ, что подтверждается собственноручной подписью работника в <strong>Листе учета</strong>.</p><p><a href='course/1/assets/PVK_ed6.pdf'>Редакция ПВК № 881-9/6-р</a></p><p>Пожалуйста, направьте в подразделение по работе с персоналом (для хранения в личном деле) распечатанные и <span data-title='В Листе учета подлежат заполнению поля:&lt;/br&gt;1) Фамилия, Имя, Отчество &lt;/br&gt;2) Подразделение &lt;/br&gt; 3) Должность &lt;/br&gt; 4) Дата (в случае если заранее не указана) </br> 5) Подпись работника, прошедшего обучение/проверку' data-rel='tooltip' onmouseenter='tooltip.call(this)'><span class='i-text'>заполненные</span> <span class='i'></span></span> Листы учета.</p><p><strong>Обратите внимание, Вам необходимо заполнить 2 документа &ndash; Лист учета 1 и Лист учета 2.</strong></p><p><a href='course/1/assets/kb_List_1.pdf'>Лист учета 1</a></p><p><a href='course/1/assets/kb_List_2.pdf'>Лист учета 2</a></p>",
+    "body": "<div class=\"yellow\"><p><strong>ВАЖНО!</strong></p><ol><li><a href='course/1/assets/app_9.pdf'>Приложение 9 ИСК для юр.лиц</a></li><li><a href='course/1/assets/app_9A.pdf'>Приложение 9А ИСК для юр.лиц/ИП</a> (для клиентов, имеющих расчетный счет)</li><li><a href='course/1/assets/app_10.pdf'>Приложение 10 ИСК ИП</a></li><li><a href='course/1/assets/app_12.pdf'>Приложение 12 Дополнительные сведения в целях FATCA и CRS</a></li><li><a href='course/1/assets/app_16.pdf'>Приложение 16 Уведомление об отказе</a></li></ol></div>",
     "_id": "c-02_12",
     "_parentId": "b-02_12",
     "_type": "component",
@@ -1036,6 +1170,140 @@
     },
     "instruction": ""
   },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Завершение",
+    "displayTitle": "Завершение",
+    "body": "<p>Внеплановый инструктаж по ПОД/ФТ проводится в связи с изменениями Правил внутреннего контроля в целях ПОД/ФТ, что подтверждается собственноручной подписью работника в <strong>Листе учета</strong>.</p><p><a href='course/1/assets/PVK_ed6.pdf'>Редакция ПВК № 881-9/6-р</a></p><p>Пожалуйста, направьте в подразделение по работе с персоналом (для хранения в личном деле) распечатанные и <span data-title='В Листе учета подлежат заполнению поля:&lt;/br&gt;1) Фамилия, Имя, Отчество &lt;/br&gt;2) Подразделение &lt;/br&gt; 3) Должность &lt;/br&gt; 4) Дата (в случае если заранее не указана) </br> 5) Подпись работника, прошедшего обучение/проверку' data-rel='tooltip' onmouseenter='tooltip.call(this)'><span class='i-text'>заполненные</span> <span class='i'></span></span> Листы учета.</p><p><strong>Обратите внимание, Вам необходимо заполнить 2 документа &ndash; Лист учета 1 и Лист учета 2.</strong></p><p><a href='course/1/assets/kb_List_1.pdf'>Лист учета 1</a></p><p><a href='course/1/assets/kb_List_2.pdf'>Лист учета 2</a></p>",
+    "_id": "c-02_12-2",
+    "_parentId": "b-02_12-2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "c-final2",
+    "_parentId": "b-02_13",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "В меню",
+        "ariaLabel": "В меню",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Вперед >",
+        "ariaLabel": "Вперед >",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": "p-01"
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Закрыть курс",
+        "ariaLabel": "Закрыть курс",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
+  },
 
   {
     "_component": "text",
@@ -1046,7 +1314,7 @@
     "_isVisible": true,
     "title": "В раздел 2 ПВК внесены изменения",
     "displayTitle": "В раздел 2 ПВК внесены изменения",
-    "body": "<p>1. Банк не заключает договоры эквайринга с организациями и лицами &ndash; фигурантами <span data-title='Перечень организаций и физических лиц, в отношении которых имеются сведения об их причастности к экстремистской деятельности или терроризму/Список причастных к терроризму' data-rel='tooltip' onmouseenter='tooltip.call(this)'><span class='i-text'>ПЭ/СПТ</span> <span class='i'></span></span> <strong>п. 2.15.4 ПВК</strong>.</p>",
+    "body": "<p>1. Банк не заключает договоры эквайринга с организациями и лицами &ndash; фигурантами <span data-title='Перечень организаций и физических лиц, в отношении которых имеются сведения об их причастности к экстремистской деятельности или терроризму / Список причастных к терроризму' data-rel='tooltip' onmouseenter='tooltip.call(this)'><span class='i-text'>ПЭ/СПТ</span> <span class='i'></span></span> <strong>п. 2.15.4 ПВК</strong>.</p>",
     "_id": "c-03_01",
     "_parentId": "b-03_01",
     "_type": "component",
@@ -1382,7 +1650,7 @@
     "_isVisible": true,
     "title": "Изменились формы следующих документов",
     "displayTitle": "Изменились формы следующих документов",
-    "body": "<div class=\"yellow\"><p><strong>ВАЖНО!</strong></p><ol><li><a href='course/1/assets/app_9.pdf'>Приложение 9 ИСК для юр.лиц</a></li><li><a href='course/1/assets/app_9A.pdf'>Приложение 9А ИСК для юр.лиц/ИП (для клиентов, имеющих расчетный счет)</a></li><li><a href='course/1/assets/app_10.pdf'>Приложение 10 ИСК ИП</a><li><li><a href='course/1/assets/app_12.pdf'>Приложение 12 Дополнительные сведения в целях FATCA и CRS</a></li><li><a href='course/1/assets/app_16.pdf'>Приложение 16 Уведомление об отказе</a></li><li><a href='course/1/assets/app_19A.pdf'>Приложение 19А (актуализирована ссылка на нормативный документ)</a></li><li>Приложение 27 исключено с последующим изменением нумерации приложений</li></ol></div><p><strong>Внимание!</strong> Внеплановый инструктаж по ПОД/ФТ проводится в связи с изменениями Правил внутреннего контроля в целях ПОД/ФТ, что подтверждается собственноручной подписью работника в <strong>Листе учета</strong>.</p><p>Редакция ПВК № 881-9/6-р</p><p>Пожалуйста, направьте в подразделение по работе с персоналом (для хранения в личном деле) распечатанные и <span data-title='В Листе учета подлежат заполнению поля:&lt;/br&gt;1) Фамилия, Имя, Отчество &lt;/br&gt;2) Подразделение &lt;/br&gt; 3) Должность &lt;/br&gt; 4) Дата (в случае если заранее не указана) </br> 5) Подпись работника, прошедшего обучение/проверку' data-rel='tooltip' onmouseenter='tooltip.call(this)'><span class='i-text'>заполненные</span> <span class='i'></span></span> Листы учета.</p><p><strong>Обратите внимание, Вам необходимо заполнить 2 документа &ndash; Лист учета 1 и Лист учета 2.</strong></p><p><a href='course/1/gen_List_1.pdf'>Лист учета 1</a></p><p><a href='course/1/gen_List_2.pdf'>Лист учета 2</a></p>",
+    "body": "<div class=\"yellow\"><p><strong>ВАЖНО!</strong></p><ol><li><a href='course/1/assets/app_9.pdf'>Приложение 9 ИСК для юр.лиц</a></li><li><a href='course/1/assets/app_9A.pdf'>Приложение 9А ИСК для юр.лиц/ИП (для клиентов, имеющих расчетный счет)</a></li><li><a href='course/1/assets/app_10.pdf'>Приложение 10 ИСК ИП</a><li><a href='course/1/assets/app_12.pdf'>Приложение 12 Дополнительные сведения в целях FATCA и CRS</a></li><li><a href='course/1/assets/app_16.pdf'>Приложение 16 Уведомление об отказе</a></li><li><a href='course/1/assets/app_19A.pdf'>Приложение 19А (актуализирована ссылка на нормативный документ)</a></li><li>Приложение 27 исключено с последующим изменением нумерации приложений</li></ol></div>",
     "_id": "c-03_15",
     "_parentId": "b-03_15",
     "_type": "component",
@@ -1396,6 +1664,140 @@
       "_isEnabled": true
     },
     "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Завершение",
+    "displayTitle": "Завершение",
+    "body": "<p>Внеплановый инструктаж по ПОД/ФТ проводится в связи с изменениями Правил внутреннего контроля в целях ПОД/ФТ, что подтверждается собственноручной подписью работника в <strong>Листе учета</strong>.</p><p>Редакция ПВК № 881-9/6-р</p><p>Пожалуйста, направьте в подразделение по работе с персоналом (для хранения в личном деле) распечатанные и <span data-title='В Листе учета подлежат заполнению поля:&lt;/br&gt;1) Фамилия, Имя, Отчество &lt;/br&gt;2) Подразделение &lt;/br&gt; 3) Должность &lt;/br&gt; 4) Дата (в случае если заранее не указана) </br> 5) Подпись работника, прошедшего обучение/проверку' data-rel='tooltip' onmouseenter='tooltip.call(this)'><span class='i-text'>заполненные</span> <span class='i'></span></span> Листы учета.</p><p><strong>Обратите внимание, Вам необходимо заполнить 2 документа &ndash; Лист учета 1 и Лист учета 2.</strong></p><p><a href='course/1/gen_List_1.pdf'>Лист учета 1</a></p><p><a href='course/1/gen_List_2.pdf'>Лист учета 2</a></p>",
+    "_id": "c-03_15-2",
+    "_parentId": "b-03_15-2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "c-final3",
+    "_parentId": "b-03_16",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "В меню",
+        "ariaLabel": "В меню",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Вперед >",
+        "ariaLabel": "Вперед >",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": "p-01"
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Закрыть курс",
+        "ariaLabel": "Закрыть курс",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
   },
 
   {
@@ -1431,7 +1833,7 @@
     "_isVisible": true,
     "title": "Изменились формы следующих документов",
     "displayTitle": "Изменились формы следующих документов",
-    "body": "<div class=\"yellow\"><p><strong>ВАЖНО!</strong></p><ol><li><a href='course/1/app_9.pdf'>Приложение 9 ИСК для юр.лиц</a></li><li><a href='course/1/app_9A.pdf'>Приложение 9А ИСК для юр.лиц/ИП (для клиентов, имеющих расчетный счет)</a></li><li><a href='course/1/app_10.pdf'>Приложение 10 ИСК ИП</a></li><li><a href='course/1/app_12.pdf'>Приложение 12 Дополнительные сведения в целях FATCA и CRS</a></li><li><a href='course/1/app_16.pdf'>Приложение 16 Уведомление об отказе</a></li></ol></div><p><strong>Внимание!</strong> Внеплановый инструктаж по ПОД/ФТ проводится в связи с изменениями Правил внутреннего контроля в целях ПОД/ФТ, что подтверждается собственноручной подписью работника в <strong>Листе учета</strong>.</p><p><a href='course/1/PVK_ed6.pdf'>Редакция ПВК № 881-9/6-р</a></p><p>Пожалуйста, направьте в подразделение по работе с персоналом (для хранения в личном деле) распечатанные и <span data-title='В Листе учета подлежат заполнению поля:&lt;/br&gt;1) Фамилия, Имя, Отчество &lt;/br&gt;2) Подразделение &lt;/br&gt; 3) Должность &lt;/br&gt; 4) Дата (в случае если заранее не указана) </br> 5) Подпись работника, прошедшего обучение/проверку' data-rel='tooltip' onmouseenter='tooltip.call(this)'><span class='i-text'>заполненные</span> <span class='i'></span></span> Листы учета.</p><p><strong>Обратите внимание, Вам необходимо заполнить 2 документа &ndash; Лист учета 1 и Лист учета 2.</strong></p><p><a href='course/1/kapb_List_1.pdf'>Лист учета 1</a></p><p><a href='course/1/kapb_List_2.pdf'>Лист учета 2</a></p>",
+    "body": "<div class=\"yellow\"><p><strong>ВАЖНО!</strong></p><ol><li><a href='course/1/app_9.pdf'>Приложение 9 ИСК для юр.лиц</a></li><li><a href='course/1/app_9A.pdf'>Приложение 9А ИСК для юр.лиц/ИП (для клиентов, имеющих расчетный счет)</a></li><li><a href='course/1/app_10.pdf'>Приложение 10 ИСК ИП</a></li><li><a href='course/1/app_12.pdf'>Приложение 12 Дополнительные сведения в целях FATCA и CRS</a></li><li><a href='course/1/app_16.pdf'>Приложение 16 Уведомление об отказе</a></li></ol></div>",
     "_id": "c-04_02",
     "_parentId": "b-04_02",
     "_type": "component",
@@ -1445,5 +1847,139 @@
       "_isEnabled": true
     },
     "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Завершение",
+    "displayTitle": "Завершение",
+    "body": "<p>Внеплановый инструктаж по ПОД/ФТ проводится в связи с изменениями Правил внутреннего контроля в целях ПОД/ФТ, что подтверждается собственноручной подписью работника в <strong>Листе учета</strong>.</p><p><a href='course/1/PVK_ed6.pdf'>Редакция ПВК № 881-9/6-р</a></p><p>Пожалуйста, направьте в подразделение по работе с персоналом (для хранения в личном деле) распечатанные и <span data-title='В Листе учета подлежат заполнению поля:&lt;/br&gt;1) Фамилия, Имя, Отчество &lt;/br&gt;2) Подразделение &lt;/br&gt; 3) Должность &lt;/br&gt; 4) Дата (в случае если заранее не указана) </br> 5) Подпись работника, прошедшего обучение/проверку' data-rel='tooltip' onmouseenter='tooltip.call(this)'><span class='i-text'>заполненные</span> <span class='i'></span></span> Листы учета.</p><p><strong>Обратите внимание, Вам необходимо заполнить 2 документа &ndash; Лист учета 1 и Лист учета 2.</strong></p><p><a href='course/1/kapb_List_1.pdf'>Лист учета 1</a></p><p><a href='course/1/kapb_List_2.pdf'>Лист учета 2</a></p>",
+    "_id": "c-04_02-2",
+    "_parentId": "b-04_02-2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "c-final4",
+    "_parentId": "b-04_03",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "В меню",
+        "ariaLabel": "В меню",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Вперед >",
+        "ariaLabel": "Вперед >",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": "p-01"
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Закрыть курс",
+        "ariaLabel": "Закрыть курс",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
+    }
   }
 ]

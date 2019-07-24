@@ -8,21 +8,26 @@
                     aria-label="{{model._filterAria.allAria}}">
                 <span>{{model._filterButtons.all}}</span>
             </button>
-            {{#resources_has_type resources 'document'}}
-                <button class="base resources-show-document" data-filter="document"
-                        aria-label="{{model._filterAria.documentAria}}">
-                    <span>{{model._filterButtons.document}}</span>
+            {{#resources_has_type resources 'dock1'}}
+                <button class="base resources-show-1" data-filter="dock1"
+                        aria-label="{{model._filterAria.1Aria}}">
+                    <span>{{model._filterButtons.dock1}}</span>
                 </button>
             {{/resources_has_type}}
-            {{#resources_has_type resources 'media'}}
-                <button class="base resources-show-media" data-filter="media"
-                        aria-label="{{model._filterAria.mediaAria}}">
-                    <span>{{model._filterButtons.media}}</span>
+            {{#resources_has_type resources 'dock2'}}
+                <button class="base resources-show-2" data-filter="dock2"
+                        aria-label="{{model._filterAria.2Aria}}">
+                    <span>{{model._filterButtons.dock2}}</span>
                 </button>
             {{/resources_has_type}}
-            {{#resources_has_type resources 'link'}}
-                <button class="base resources-show-link" data-filter="link" aria-label="{{model._filterAria.linkAria}}">
-                    <span>{{model._filterButtons.link}}</span>
+            {{#resources_has_type resources 'dock3'}}
+                <button class="base resources-show-3" data-filter="dock3" aria-label="{{model._filterAria.3Aria}}">
+                    <span>{{model._filterButtons.dock3}}</span>
+                </button>
+            {{/resources_has_type}}
+            {{#resources_has_type resources 'dock4'}}
+                <button class="base resources-show-4" data-filter="dock4" aria-label="{{model._filterAria.4Aria}}">
+                    <span>{{model._filterButtons.dock4}}</span>
                 </button>
             {{/resources_has_type}}
         </div>

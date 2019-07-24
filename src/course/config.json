@@ -35,7 +35,7 @@
   "_spoor": {
     "_isEnabled": true,
     "_tracking": {
-      "_requireCourseCompleted": true,
+      "_requireCourseCompleted": false,
       "_requireAssessmentPassed": false,
       "_shouldSubmitScore": false,
       "_shouldStoreResponses": false,
@@ -54,14 +54,6 @@
       "_commitRetryDelay": 2000,
       "_suppressErrors": false,
       "_commitOnVisibilityChangeHidden": true
-    }
-  },
-  "_completionCriteria": {
-    "_requireContentCompleted": false,
-    "_requireAssessmentCompleted": false,
-    "_customCompletion": {
-      "_requirePageVisited": "lastPage",
-      "_requireComponentVisited": "lastPage-article-component1"
     }
   },
   "_languagePicker": {

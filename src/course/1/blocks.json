@@ -227,6 +227,36 @@
         "_type": "block"
     },
     {
+        "title": "Статья 5 | Блок 2",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 127,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "b-05-2",
+        "_parentId": "a-05-2",
+        "_type": "block"
+    },
+    {
+        "title": "Статья 6 | Блок 1",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 123,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "b-06",
+        "_parentId": "a-06",
+        "_type": "block"
+    },
+    {
         "title": "Статья 1 | Блок 1",
         "displayTitle": "",
         "body": "",
@@ -404,6 +434,36 @@
         "_isVisible": true,
         "_id": "b-02_12",
         "_parentId": "a-02_06",
+        "_type": "block"
+    },
+    {
+        "title": "Статья 6 | Блок 2",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 128,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "b-02_12-2",
+        "_parentId": "a-02_06-2",
+        "_type": "block"
+    },
+    {
+        "title": "Статья 7 | Блок 1",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 124,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "b-02_13",
+        "_parentId": "a-02_07",
         "_type": "block"
     },
     {
@@ -632,6 +692,36 @@
         "_type": "block"
     },
     {
+        "title": "Статья 6 | Блок 1",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 129,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "b-03_15-2",
+        "_parentId": "a-03_06-2",
+        "_type": "block"
+    },
+    {
+        "title": "Статья 7 | Блок 1",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 125,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "b-03_16",
+        "_parentId": "a-03_07",
+        "_type": "block"
+    },
+    {
         "title": "Статья 1 | Блок 1",
         "displayTitle": "",
         "body": "",
@@ -659,6 +749,36 @@
         "_isVisible": true,
         "_id": "b-04_02",
         "_parentId": "a-04_02",
+        "_type": "block"
+    },
+    {
+        "title": "Статья 2 | Блок 1",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 130,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "b-04_02-2",
+        "_parentId": "a-04_02-2",
+        "_type": "block"
+    },
+    {
+        "title": "Статья 3 | Блок 1",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 126,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "b-04_03",
+        "_parentId": "a-04_03",
         "_type": "block"
     }
 ]
