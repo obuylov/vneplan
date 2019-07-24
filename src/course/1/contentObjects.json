@@ -19,7 +19,7 @@
     "_parentId": "course",
     "_graphic": {
       "alt": "",
-      "src": "course/1/assets/adfa7fd1c34369a6ecc9b00792970963ad49cdb8.jpg"
+      "src": ""
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -56,7 +56,7 @@
     "_parentId": "course",
     "_graphic": {
       "alt": "",
-      "src": "course/1/assets/adfa7fd1c34369a6ecc9b00792970963ad49cdb8.jpg"
+      "src": ""
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -93,7 +93,7 @@
     "_parentId": "course",
     "_graphic": {
       "alt": "",
-      "src": "course/1/assets/adfa7fd1c34369a6ecc9b00792970963ad49cdb8.jpg"
+      "src": ""
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -130,7 +130,7 @@
     "_parentId": "course",
     "_graphic": {
       "alt": "",
-      "src": "course/1/assets/adfa7fd1c34369a6ecc9b00792970963ad49cdb8.jpg"
+      "src": ""
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -167,7 +167,7 @@
     "_parentId": "course",
     "_graphic": {
       "alt": "",
-      "src": "course/1/assets/adfa7fd1c34369a6ecc9b00792970963ad49cdb8.jpg"
+      "src": ""
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -182,6 +182,43 @@
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_excludeAssessments": false
+    }
+  },
+  {
+    "title": "Завершение курса",
+    "displayTitle": "Внеплановый инструктаж по ПОД/ФТ",
+    "body": "<p>В связи с изменениями Правил внутреннего контроля по противодействию легализации (отмыванию) доходов, полученных преступным путем, и финансированию терроризма № 881-9-р.</p><p><em>ПВК № 881-9/5-р (изменения 5)</em></br><em>ПВК № 881-9/6-р (изменения 6)</em></p>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Завершить",
+    "duration": "",
+    "_lockedBy": [
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "lastPage",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": false,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
     }
   }
 ]

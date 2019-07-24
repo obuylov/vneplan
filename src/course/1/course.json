@@ -215,281 +215,32 @@
         "_isEnabled": true,
         "_showPageCompletion": true
     },
-    "_resources": {
+    "_glossary": {
         "_isEnabled": true,
-        "_drawerOrder": 0,
-        "title": "Download course",
+        "_drawerOrder": 1,
+        "title": "Выберите подразделение",
         "description": "",
-        "_filterButtons": {
-            "dock1": "Обслуживание/сопровождение операций частных клиентов",
-            "dock2": "Обслуживание/сопровождение операций корпоративных клиентов",
-            "dock3": "Комплаенс, аудит, право, безопасность",
-            "dock4": "Остальные подразделения",
-            "all": "Все"
-        },
-        "_filterAria": {
-            "allAria": "View all resources",
-            "1Aria": "View document resources",
-            "2Aria": "View media resources",
-            "3Aria": "View resource links",
-            "4Aria": "View"
-        },
-        "_resourcesItems": [
+        "clearSearch": "",
+        "searchItemsAlert": "{{filteredItems.length}} найдено.",
+        "searchPlaceholder": "",
+        "searchWithInDescriptionLabel": "",
+        "itemNotFoundMessage": "Не найдено",
+        "_glossaryItems": [
             {
-                "_type": "dock1",
-                "_forceDownload": true,
-                "title": "Приложение №30",
-                "filename": "app_30.pdf",
-                "description": "",
-                "_link": "course/1/assets/app_30.pdf"
+                "description": "<p><a href=\"course/1/assets/app_23.pdf\" download>Приложение №30</a></p><p><a href=\"course/1/assets/app_20.pdf\" download>Приложение №20</a></p><p><a href=\"course/1/assets/PVK_ed6.pdf\" download>Редакция ПВК № 881-9/6-р</a></p><p><a href=\"course/1/assets/app_16.pdf\" download>Приложение 16 Уведомление об отказе</a></p><p><a href=\"course/1/assets/rb_List_1.pdf\" download>Лист учета 1</a></p><p><a href=\"course/1/assets/rb_List_2.pdf\" download>Лист учета 2</a></p>",
+                "term": "Обслуживание/сопровождение операций частных клиентов"
             },
             {
-                "_type": "dock1",
-                "_forceDownload": true,
-                "title": "Приложение №20",
-                "filename": "app_20.pdf",
-                "description": "",
-                "_link": "course/1/assets/app_20.pdf"
+                "description": "<p><a href=\"course/1/assets/SM_4525_pt4.pdf\" download>Сборник Методик 4525 Часть 4</a></p><p><a href=\"course/1/assets/ChangeList_gr_30_41.pdf\" download>Перечень изменений</a></p><p><a href=\"course/1/assets/app_9.pdf\" download>Приложение 9 ИСК для юр.лиц</a></p><p><a href=\"course/1/assets/app_9A.pdf\" download>Приложение 9А ИСК для юр.лиц/ИП</a></p><p><a href=\"course/1/assets/app_10.pdf\" download>Приложение 10 ИСК ИП</a></p><p><a href=\"course/1/assets/app_12.pdf\" download>Приложение 12 Дополнительные сведения в целях FATCA и CRS</a></p><p><a href=\"course/1/assets/app_16.pdf\" download>Приложение 16 Уведомление об отказе</a></p><p><a href=\"course/1/assets/PVK_ed6.pdf\" download>Редакция ПВК № 881-9/6-р</a></p><p><a href=\"course/1/assets/kb_List_1.pdf\" download>Лист учета 1</a></p><p><a href=\"course/1/assets/kb_List_2.pdf\" download>Лист учета 2</a></p>",
+                "term": "Обслуживание/сопровождение операций корпоративных клиентов"
             },
             {
-                "_type": "dock1",
-                "_forceDownload": true,
-                "title": "Редакция ПВК № 881-9/6-р",
-                "filename": "PVK_ed6.pdf",
-                "description": "",
-                "_link": "course/1/assets/PVK_ed6.pdf"
+                "description": "<p><a href=\"course/1/assets/app_9.pdf\" download>Приложение 9 ИСК для юр.лиц</a></p><p><a href=\"course/1/assets/app_9A.pdf\" download>Приложение 9А ИСК для юр.лиц/ИП</a></p><p><a href=\"course/1/assets/app_10.pdf\" download>Приложение 10 ИСК ИП</a></p><p><a href=\"course/1/assets/app_12.pdf\" download>Приложение 12 Дополнительные сведения в целях FATCA и CRS</a></p><p><a href=\"course/1/assets/app_16.pdf\" download>Приложение 16 Уведомление об отказе</a></p><p><a href=\"course/1/assets/PVK_ed6.pdf\" download>Редакция ПВК № 881-9/6-р</a></p><p><a href=\"course/1/assets/gen_List_1.pdf\" download>Лист учета 1</a></p><p><a href=\"course/1/assets/gen_List_2.pdf\" download>Лист учета 2</a></p>",
+                "term": "Комплаенс, аудит, право, безопасность"
             },
             {
-                "_type": "dock1",
-                "_forceDownload": true,
-                "title": "Приложение 16 Уведомление об отказе",
-                "filename": "app_16.pdf",
-                "description": "",
-                "_link": "course/1/assets/app_16.pdf"
-            },
-            {
-                "_type": "dock1",
-                "_forceDownload": true,
-                "title": "Лист учета 1",
-                "filename": "rb_List_1.pdf",
-                "description": "",
-                "_link": "course/1/assets/rb_List_1.pdf"
-            },
-            {
-                "_type": "dock1",
-                "_forceDownload": true,
-                "title": "Лист учета 2",
-                "filename": "rb_List_2.pdf",
-                "description": "",
-                "_link": "course/1/assets/rb_List_2.pdf"
-            },
-            {
-                "_type": "dock2",
-                "_forceDownload": true,
-                "title": "Сборник Методик 4525 Часть 4",
-                "filename": "SM_4525_pt4.pdf",
-                "description": "",
-                "_link": "course/1/assets/SM_4525_pt4.pdf"
-            },
-            {
-                "_type": "dock2",
-                "_forceDownload": true,
-                "title": "Перечень изменений",
-                "filename": "ChangeList_gr_30_41.pdf",
-                "description": "",
-                "_link": "course/1/assets/ChangeList_gr_30_41.pdf"
-            },
-            {
-                "_type": "dock2",
-                "_forceDownload": true,
-                "title": "Приложение 9 ИСК для юр.лиц",
-                "filename": "app_9.pdf",
-                "description": "",
-                "_link": "course/1/assets/app_9.pdf"
-            },
-            {
-                "_type": "dock2",
-                "_forceDownload": true,
-                "title": "Приложение 9А ИСК для юр.лиц/ИП",
-                "filename": "app_9A.pdf",
-                "description": "",
-                "_link": "course/1/assets/app_9A.pdf"
-            },
-            {
-                "_type": "dock2",
-                "_forceDownload": true,
-                "title": "Приложение 10 ИСК ИП",
-                "filename": "app_10.pdf",
-                "description": "",
-                "_link": "course/1/assets/app_10.pdf"
-            },
-            {
-                "_type": "dock2",
-                "_forceDownload": true,
-                "title": "Приложение 12 Дополнительные сведения в целях FATCA и CRS",
-                "filename": "app_12.pdf",
-                "description": "",
-                "_link": "course/1/assets/app_12.pdf"
-            },
-            {
-                "_type": "dock2",
-                "_forceDownload": true,
-                "title": "Приложение 16 Уведомление об отказе",
-                "filename": "app_16.pdf",
-                "description": "",
-                "_link": "course/1/assets/app_16.pdf"
-            },
-            {
-                "_type": "dock2",
-                "_forceDownload": true,
-                "title": "Редакция ПВК № 881-9/6-р",
-                "filename": "PVK_ed6.pdf",
-                "description": "",
-                "_link": "course/1/assets/PVK_ed6.pdf"
-            },
-            {
-                "_type": "dock2",
-                "_forceDownload": true,
-                "title": "Лист учета 1",
-                "filename": "kb_List_1.pdf",
-                "description": "",
-                "_link": "course/1/assets/kb_List_1.pdf"
-            },
-            {
-                "_type": "dock2",
-                "_forceDownload": true,
-                "title": "Лист учета 2",
-                "filename": "kb_List_2.pdf",
-                "description": "",
-                "_link": "course/1/assets/kb_List_2.pdf"
-            },
-            {
-                "_type": "dock3",
-                "_forceDownload": true,
-                "title": "Приложение 9 ИСК для юр.лиц",
-                "filename": "app_9.pdf",
-                "description": "",
-                "_link": "course/1/assets/app_9.pdf"
-            },
-            {
-                "_type": "dock3",
-                "_forceDownload": true,
-                "title": "Приложение 9А ИСК для юр.лиц/ИП",
-                "filename": "app_9A.pdf",
-                "description": "",
-                "_link": "course/1/assets/app_9A.pdf"
-            },
-            {
-                "_type": "dock3",
-                "_forceDownload": true,
-                "title": "Приложение 10 ИСК ИП",
-                "filename": "app_10.pdf",
-                "description": "",
-                "_link": "course/1/assets/app_10.pdf"
-            },
-            {
-                "_type": "dock3",
-                "_forceDownload": true,
-                "title": "Приложение 12 Дополнительные сведения в целях FATCA и CRS",
-                "filename": "app_12.pdf",
-                "description": "",
-                "_link": "course/1/assets/app_12.pdf"
-            },
-            {
-                "_type": "dock3",
-                "_forceDownload": true,
-                "title": "Приложение 16 Уведомление об отказе",
-                "filename": "app_16.pdf",
-                "description": "",
-                "_link": "course/1/assets/app_16.pdf"
-            },
-            {
-                "_type": "dock2",
-                "_forceDownload": true,
-                "title": "Редакция ПВК № 881-9/6-р",
-                "filename": "PVK_ed6.pdf",
-                "description": "",
-                "_link": "course/1/assets/PVK_ed6.pdf"
-            },
-            {
-                "_type": "dock3",
-                "_forceDownload": true,
-                "title": "Лист учета 1",
-                "filename": "gen_List_1.pdf",
-                "description": "",
-                "_link": "course/1/assets/gen_List_1.pdf"
-            },
-            {
-                "_type": "dock3",
-                "_forceDownload": true,
-                "title": "Лист учета 2",
-                "filename": "gen_List_2.pdf",
-                "description": "",
-                "_link": "course/1/assets/gen_List_1.pdf"
-            },
-            {
-                "_type": "dock4",
-                "_forceDownload": true,
-                "title": "Приложение 9 ИСК для юр.лиц",
-                "filename": "app_9.pdf",
-                "description": "",
-                "_link": "course/1/assets/app_9.pdf"
-            },
-            {
-                "_type": "dock4",
-                "_forceDownload": true,
-                "title": "Приложение 9А ИСК для юр.лиц/ИП",
-                "filename": "app_9A.pdf",
-                "description": "",
-                "_link": "course/1/assets/app_9A.pdf"
-            },
-            {
-                "_type": "dock4",
-                "_forceDownload": true,
-                "title": "Приложение 10 ИСК ИП",
-                "filename": "app_10.pdf",
-                "description": "",
-                "_link": "course/1/assets/app_10.pdf"
-            },
-            {
-                "_type": "dock4",
-                "_forceDownload": true,
-                "title": "Приложение 12 Дополнительные сведения в целях FATCA и CRS",
-                "filename": "app_12.pdf",
-                "description": "",
-                "_link": "course/1/assets/app_12.pdf"
-            },
-            {
-                "_type": "dock4",
-                "_forceDownload": true,
-                "title": "Приложение 16 Уведомление об отказе",
-                "filename": "app_16.pdf",
-                "description": "",
-                "_link": "course/1/assets/app_16.pdf"
-            },
-            {
-                "_type": "dock4",
-                "_forceDownload": true,
-                "title": "Редакция ПВК № 881-9/6-р",
-                "filename": "PVK_ed6.pdf",
-                "description": "",
-                "_link": "course/1/assets/PVK_ed6.pdf"
-            },
-            {
-                "_type": "dock4",
-                "_forceDownload": true,
-                "title": "Лист учета 1",
-                "filename": "kapb_List_1.pdf",
-                "description": "",
-                "_link": "course/1/assets/kapb_List_1.pdf"
-            },
-            {
-                "_type": "dock4",
-                "_forceDownload": true,
-                "title": "Лист учета 2",
-                "filename": "kapb_List_2.pdf",
-                "description": "",
-                "_link": "course/1/assets/kapb_List_2.pdf"
+                "description": "<p><a href=\"course/1/assets/app_9.pdf\" download>Приложение 9 ИСК для юр.лиц</a></p><p><a href=\"course/1/assets/app_9A.pdf\" download>Приложение 9А ИСК для юр.лиц/ИП</a></p><p><a href=\"course/1/assets/app_10.pdf\" download>Приложение 10 ИСК ИП</a></p><p><a href=\"course/1/assets/app_12.pdf\" download>Приложение 12 Дополнительные сведения в целях FATCA и CRS</a></p><p><a href=\"course/1/assets/app_16.pdf\" download>Приложение 16 Уведомление об отказе</a></p><p><a href=\"course/1/assets/PVK_ed6.pdf\" download>Редакция ПВК № 881-9/6-р</a></p><p><a href=\"course/1/assets/kapb_List_1.pdf\" download>Лист учета 1</a></p><p><a href=\"course/1/assets/kapb_List_2.pdf\" download>Лист учета 2</a></p>",
+                "term": "Остальные подразделения"
             }
         ]
     },

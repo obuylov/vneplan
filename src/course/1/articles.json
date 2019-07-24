@@ -937,5 +937,68 @@
       "backgroundColor": "transparent",
       "transparentChildren": true
     }
+  },
+
+  {
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "lastPage-article",
+    "_parentId": "lastPage",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "src": "",
+      "mobileSrc": "",
+      "bannerHeight": 300,
+      "mobileBannerHeight": 150,
+      "backgroundSize": "cover",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundAttachement": "fixed",
+      "backgroundColor": "transparent",
+      "transparentChildren": true
+    }
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "footer",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "footer1",
+    "_parentId": "lastPage",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_canBackground": {
+      "src": "",
+      "mobileSrc": "",
+      "bannerHeight": 300,
+      "mobileBannerHeight": 150,
+      "backgroundSize": "cover",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundAttachement": "fixed",
+      "backgroundColor": "transparent",
+      "transparentChildren": true
+    }
   }
 ]

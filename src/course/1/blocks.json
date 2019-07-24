@@ -780,5 +780,45 @@
         "_id": "b-04_03",
         "_parentId": "a-04_03",
         "_type": "block"
+    },
+    {
+        "title": "Block title",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "one-block",
+        "_trackingId": 67,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "lastPage-article-block1",
+        "_parentId": "lastPage-article",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "title": "Block title",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 68,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_id": "lastPage-article-block2",
+        "_parentId": "footer1",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        }
     }
 ]

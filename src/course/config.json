@@ -35,7 +35,7 @@
   "_spoor": {
     "_isEnabled": true,
     "_tracking": {
-      "_requireCourseCompleted": false,
+      "_requireCourseCompleted": true,
       "_requireAssessmentPassed": false,
       "_shouldSubmitScore": false,
       "_shouldStoreResponses": false,
@@ -56,68 +56,12 @@
       "_commitOnVisibilityChangeHidden": true
     }
   },
-  "_languagePicker": {
-    "_isEnabled": false,
-    "title": "Выбор подразделения",
-    "displayTitle": "Выбор подразделения",
-    "body": "<p>Рады приветствовать Вас в курсе &laquo;Внеплановый инструктаж по ПОД/ФТ&raquo;.</p><p>Курс предназначен для изучения сотрудниками изменений, произошедших в программах внутреннего контроля по противодействию легализации (отмыванию) доходов, полученных преступным путем, и финансированию терроризма.</p><p>Для прохождения обучения Вам необходимо выбрать курс, соответствующий направлению деятельности Вашего подразделения.</p>",
-    "_showOnCourseLoad": true,
-    "_languagePickerIconClass": "icon-language-2",
-    "_classes": "",
-    "_languages": [
-      {
-        "_language": "1",
-        "_direction": "ltr",
-        "displayName": "Обслуживание, сопровождение операций частных клиентов",
-        "warningTitle": "Выбор подразделения",
-        "warningMessage": "Подтвердите выбор",
-        "_buttons": {
-          "yes": "Да",
-          "no": "Нет"
-        }
-      },
-      {
-        "_language": "2",
-        "_direction": "ltr",
-        "displayName": "Обслуживание, сопровождение операций корпоративных клиентов",
-        "warningTitle": "Выбор подразделения",
-        "warningMessage": "Подтвердите выбор",
-        "_buttons": {
-          "yes": "Да",
-          "no": "Нет"
-        }
-      },
-      {
-        "_language": "3",
-        "_direction": "ltr",
-        "displayName": "Комплаенс, аудит, право, безопасность",
-        "warningTitle": "Выбор подразделения",
-        "warningMessage": "Подтвердите выбор",
-        "_buttons": {
-          "yes": "Да",
-          "no": "Нет"
-        }
-      },
-      {
-        "_language": "4",
-        "_direction": "ltr",
-        "displayName": "Остальные подразделения",
-        "warningTitle": "Выбор языка",
-        "warningMessage": "Подтвердите выбор",
-        "_buttons": {
-          "yes": "Да",
-          "no": "Нет"
-        }
-      }
-    ],
-    "_accessibility": {
-      "accessibilityToggleTextOn": "Turn accessibility on?",
-      "accessibilityToggleTextOff": "Turn accessibility off?",
-      "_accessibilityInstructions": {
-        "touch": "Usage instructions. Use swipe right for next. Use swipe left for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page.",
-        "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
-        "ipad": "Usage instructions for touchscreens. Use swipe right for next. Use swipe left for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use right for next. Use left for previous. Use up and down together to select."
-      }
+  "_completionCriteria": {
+    "_requireContentCompleted": false,
+    "_requireAssessmentCompleted": false,
+    "_customCompletion": {
+      "_requirePageVisited": "lastPage",
+      "_requireComponentVisited": "lastPage-article-component1"
     }
   },
   "_altxapi": {
