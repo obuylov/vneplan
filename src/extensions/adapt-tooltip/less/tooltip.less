@@ -1,4 +1,4 @@
-#tooltip {
+.tooltip-window {
     text-align: center;
     color: @primary-color-inverted;
     background: @primary-color;
@@ -7,7 +7,7 @@
     padding: 15px;
 }
 /* triangle decoration */
-#tooltip:after
+.tooltip-window:after
 {
     width: 0;
     height: 0;
@@ -21,33 +21,20 @@
     margin-left: -10px;
 }
 
-#tooltip.top:after {
+.tooltip-window.top:after {
     border-top-color: transparent;
     border-bottom: 10px solid @primary-color;
     top: -20px;
     bottom: auto;
 }
 
-#tooltip.left:after {
+.tooltip-window.left:after {
     left: 10px;
     margin: 0;
 }
 
-#tooltip.right:after {
+.tooltip-window.right:after {
     right: 10px;
     left: auto;
     margin: 0;
 }
-
-.i {
-    background-image:url(assets/info.png);
-    width:17px;
-    height:17px;
-    display:inline-block;
-    vertical-align:bottom;
-}
-
-.i-text {
-    color: @primary-color;
-}
-
