@@ -22,8 +22,12 @@ define(function (require) {
     $tooltip.css('opacity', 0).html(tip).appendTo('body');
     showTooltip();
 
-    setTimeout(() => {$('body').on('click', removeTooltip); }, 500);
-    //$(window).resize(_.bind(lazyLayout, this));
+      setTimeout(function() {
+          $('body').on('click', removeTooltip);
+      }, 500);
+
+    // setTimeout(() => {$('body').on('click', removeTooltip); }, 500);
+    // $(window).resize(_.bind(lazyLayout, this));
   };
 
   function showTooltip() {
