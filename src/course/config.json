@@ -37,9 +37,9 @@
     "_tracking": {
       "_requireCourseCompleted": true,
       "_requireAssessmentPassed": false,
-      "_shouldSubmitScore": false,
-      "_shouldStoreResponses": false,
-      "_shouldRecordInteractions": false
+      "_shouldSubmitScore": true,
+      "_shouldStoreResponses": true,
+      "_shouldRecordInteractions": true
     },
     "_reporting": {
       "_onTrackingCriteriaMet": "completed",

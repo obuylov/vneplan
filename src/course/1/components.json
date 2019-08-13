@@ -19,34 +19,34 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_items": [
       {
         "text": "Обслуживание/сопровождение операций частных клиентов",
-        "_shouldBeSelected": true,
-        "feedback": ""
+        "_shouldBeSelected": false,
+        "feedback": "<p class='footer-feedback'><button onclick=\"window.location.href = '#/id/p-01';\">Далее</button></p>"
       },
       {
         "text": "Обслуживание/сопровождение операций корпоративных клиентов",
-        "_shouldBeSelected": true,
-        "feedback": ""
+        "_shouldBeSelected": false,
+        "feedback": "<p class='footer-feedback'><button onclick=\"window.location.href = '#/id/p-02';\">Далее</button></p>"
       },
       {
         "text": "Комплаенс, аудит, право, безопасность",
-        "_shouldBeSelected": true,
-        "feedback": ""
+        "_shouldBeSelected": false,
+        "feedback": "<p class='footer-feedback'><button onclick=\"window.location.href = '#/id/p-03';\">Далее</button></p>"
       },
       {
         "text": "Остальные подразделения",
-        "_shouldBeSelected": true,
-        "feedback": ""
+        "_shouldBeSelected": false,
+        "feedback": "<p class='footer-feedback'><button onclick=\"window.location.href = '#/id/p-04';\">Далее</button></p>"
       }
     ],
-    "_attempts": 1,
+    "_attempts": -1,
     "_canShowModelAnswer": false,
-    "_canShowFeedback": false,
+    "_canShowFeedback": true,
     "_canShowMarking": true,
     "_shouldDisplayAttempts": false,
     "_isRandom": false,
@@ -71,7 +71,7 @@
         "ariaLabel": ""
       },
       "_reset": {
-        "buttonText": "",
+        "buttonText": "Изменить подразделение",
         "ariaLabel": ""
       },
       "_showCorrectAnswer": {
@@ -91,16 +91,19 @@
     }
   },
   {
-    "_component": "bottomNavigation",
-    "_classes": "",
+    "_component": "question-feedback",
+    "_classes": "footer-feedback",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Component title",
+    "title": "Демо ОС",
     "displayTitle": "",
-    "body": "",
-    "_id": "c-0_2",
+    "body": "Какой-то текст",
+    "_questionId": "c-0_1",
+    "_hideSelectedItem": false,
+    "_hideDuplicateFeedback": false,
+    "_id": "c-01-2",
     "_parentId": "b-0_2",
     "_type": "component",
     "_layout": "full",
@@ -112,425 +115,8 @@
     "_pageLevelProgress": {
       "_isEnabled": false
     },
-    "instruction": "",
-    "_loopStyle": "none",
-    "_buttons": {
-      "_returnToPreviousLocation": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "< Return",
-        "ariaLabel": "Return to previous location",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}"
-      },
-      "_previous": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "< Previous",
-        "ariaLabel": "Previous Page",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_root": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "В меню",
-        "ariaLabel": "В меню",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_up": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Back to menu",
-        "ariaLabel": "Back to menu",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_next": {
-        "_isEnabled": true,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Вперед >",
-        "ariaLabel": "Вперед >",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": "p-01"
-      },
-      "_sibling": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "{{inc index}}",
-        "ariaLabel": "Page {{inc index}}",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_close": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Close",
-        "ariaLabel": "Close window",
-        "_showTooltip": false,
-        "tooltip": "Close window",
-        "_customRouteId": ""
-      }
-    }
+    "instruction": ""
   },
-  {
-    "_component": "bottomNavigation",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "c-0_3",
-    "_parentId": "b-0_3",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_loopStyle": "none",
-    "_buttons": {
-      "_returnToPreviousLocation": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "< Return",
-        "ariaLabel": "Return to previous location",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}"
-      },
-      "_previous": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "< Previous",
-        "ariaLabel": "Previous Page",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_root": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "В меню",
-        "ariaLabel": "В меню",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_up": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Back to menu",
-        "ariaLabel": "Back to menu",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_next": {
-        "_isEnabled": true,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Вперед >",
-        "ariaLabel": "Вперед >",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": "p-02"
-      },
-      "_sibling": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "{{inc index}}",
-        "ariaLabel": "Page {{inc index}}",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_close": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Close",
-        "ariaLabel": "Close window",
-        "_showTooltip": false,
-        "tooltip": "Close window",
-        "_customRouteId": ""
-      }
-    }
-  },
-  {
-    "_component": "bottomNavigation",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "c-0_4",
-    "_parentId": "b-0_4",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_loopStyle": "none",
-    "_buttons": {
-      "_returnToPreviousLocation": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "< Return",
-        "ariaLabel": "Return to previous location",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}"
-      },
-      "_previous": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "< Previous",
-        "ariaLabel": "Previous Page",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_root": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "В меню",
-        "ariaLabel": "В меню",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_up": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Back to menu",
-        "ariaLabel": "Back to menu",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_next": {
-        "_isEnabled": true,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Вперед >",
-        "ariaLabel": "Вперед >",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": "p-03"
-      },
-      "_sibling": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "{{inc index}}",
-        "ariaLabel": "Page {{inc index}}",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_close": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Close",
-        "ariaLabel": "Close window",
-        "_showTooltip": false,
-        "tooltip": "Close window",
-        "_customRouteId": ""
-      }
-    }
-  },
-  {
-    "_component": "bottomNavigation",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "c-0_5",
-    "_parentId": "b-0_5",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_loopStyle": "none",
-    "_buttons": {
-      "_returnToPreviousLocation": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "< Return",
-        "ariaLabel": "Return to previous location",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}"
-      },
-      "_previous": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "< Previous",
-        "ariaLabel": "Previous Page",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_root": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "В меню",
-        "ariaLabel": "В меню",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_up": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Back to menu",
-        "ariaLabel": "Back to menu",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_next": {
-        "_isEnabled": true,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Вперед >",
-        "ariaLabel": "Вперед >",
-        "_showTooltip": false,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": "p-04"
-      },
-      "_sibling": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "{{inc index}}",
-        "ariaLabel": "Page {{inc index}}",
-        "_showTooltip": true,
-        "tooltip": "{{displayTitle}}",
-        "_customRouteId": ""
-      },
-      "_close": {
-        "_isEnabled": false,
-        "_order": 0,
-        "_classes": "",
-        "_iconClass": "",
-        "_alignIconRight": false,
-        "text": "Close",
-        "ariaLabel": "Close window",
-        "_showTooltip": false,
-        "tooltip": "Close window",
-        "_customRouteId": ""
-      }
-    }
-  },
-
   {
     "_component": "text",
     "_classes": "",

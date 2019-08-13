@@ -14,7 +14,7 @@
         "_parentId": "a-0",
         "_type": "block",
         "_trickle": {
-            "_isEnabled": true,
+            "_isEnabled": false,
             "_autoScroll": true,
             "_scrollDuration": 500,
             "_scrollTo": "@block +1",
@@ -35,19 +35,10 @@
                 "_isCompletionRequired": true,
                 "_isLockedOnRevisit": false
             }
-        },
-        "_scenario": {
-            "questionId": "c-0_1",
-            "answers": {
-                "0": "b-0_2",
-                "1": "b-0_3",
-                "2": "b-0_4",
-                "3": "b-0_5"
-            }
         }
     },
     {
-        "title": "Введение | Навигация 1",
+        "title": "Введение | ОС",
         "displayTitle": "",
         "body": "",
         "_classes": "",
@@ -58,51 +49,6 @@
         "_isHidden": false,
         "_isVisible": true,
         "_id": "b-0_2",
-        "_parentId": "a-0-2",
-        "_type": "block"
-    },
-    {
-        "title": "Введение | Навигация 2",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 89,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "b-0_3",
-        "_parentId": "a-0-2",
-        "_type": "block"
-    },
-    {
-        "title": "Введение | Навигация 3",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 90,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "b-0_4",
-        "_parentId": "a-0-2",
-        "_type": "block"
-    },
-    {
-        "title": "Введение | Навигация 4",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 91,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_id": "b-0_5",
         "_parentId": "a-0-2",
         "_type": "block"
     },
