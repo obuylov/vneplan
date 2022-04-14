@@ -12,7 +12,7 @@
     "url": "https://github.com/adaptlearning/adapt_framework/issues"
   },
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^3.2.2",
     "chalk": "^2.4.1",
     "columnify": "^1.5.4",
     "csv": "^5.0.0",
